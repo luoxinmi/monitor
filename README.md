@@ -1,7 +1,7 @@
 # luoxinmi/monitor —— AI 专用行情仓库
 
 **只给 AI agent 用**：内容只有行情快照、保险基金、链上地址与大额转账，无隐私；可自由加删币、
-改 workflow、dispatch、清理 `data/`。PAT 在本地 `references/github-credentials.md`，**不进仓库**。
+改 workflow、dispatch、清理 `data/`。PAT 在本地 `$DSH_HOME/credentials/github-credentials.md`，**不进仓库**。
 
 > 本文件是仓库的公开说明；workflow 分档、归档、cron-job.org、gap 口径等运维细节以本地
 > `references/github-cloud-ops.md` 为准（单一真相源）。
@@ -50,5 +50,5 @@ data/fund/groups_YYYYMM.jsonl  组基金时序
 ## 安全
 
 - 仓库只有行情与链上地址，无密钥、无隐私、无本机路径。
-- PAT 存在本机 `references/github-credentials.md`，**不写进仓库**。
+- PAT 存在本机 `$DSH_HOME/credentials/github-credentials.md`，**不写进仓库**。
 - 云端抓币安走 `www.binance.com/fapi/...` 透传（runner 直连 451）。
