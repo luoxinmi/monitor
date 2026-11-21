@@ -84,12 +84,12 @@ async function refresh() {
     $('ts').textContent = new Date(r.updated * 1000).toLocaleString() + ' 更新 · 源 ' + (s.source || '—');
     $('cards').innerHTML = [
       ['价格', '$' + fmt(s.price, 4), '24h ' + (fmt(s.price_24h_pct) + '%')],
-      ['OI', '$' + fmtK(s.oi_usd), ''],
+      ['OI', '$' + fmtK(s.oi_usd), (s.source === 'binance' ? '币安' : 'Gate 单所')],
       ['资金费率', fmt(s.funding_pct, 4) + '%', '/8h'],
       ['±1% 买盘', '$' + fmtK(s.depth_1pct_usd), ''],
-      ['基金(币安组)', fund == null ? '—' : ('$' + fmtK(fund)), '全所池'],
+      ['基金(币安组)', fund == null ? '—' : ('$' + fmt(fund, 2) + 'M'), '币安共享组'],
     ].map(([k, v, d]) => `<div class="card"><div class="k">${k}</div><div class="v">${v} <small>${d}</small></div></div>`).join('');
-    const hist = h.trim().split('\n').filter(Boolean).map(x => { try { return JSON.parse(x) } catch (e) { return null } }).filter(Boolean).slice(-48);
+    const hist = h.trim().split('\n').filter(Boolean).map(x => { try { return JSON.parse(x) } catch (e) { return null } }).filter(Boolean).filter(x => (x.source || 'gate') === (s.source || 'binance')).slice(-48);
     draw('c1', hist, 'price', '#4ade80', 1);
     draw('c2', hist, 'oi', '#38bdf8', 1 / 1e6);
     draw('c3', hist, 'depth', '#fbbf24', 1 / 1e3);
