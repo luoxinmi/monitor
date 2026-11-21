@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """轻量监控（普适，--symbol 任意币）：价格 / OI / 费率 / 盘口 /（TON 币）链上大额转账。
 
-分工约定（2026-11-21 用户定）：
+分工约定：
   - **本地 DSH**：用币安等「平台数据」做分析（本机有代理，币安直连没问题）；
   - **GitHub Actions**：只跑 Gate + 链上（runner 在美国，币安 451、Bybit 403）——用 --no-binance。
 
@@ -182,8 +182,39 @@ def main():
             snap["holders"] = len(h.get("addresses", []))
             if first_run:
                 big = []
-            if big:
-                alerts.append(f"链上新增大额转账 {len(big)} 笔（≥{min_amount:,.0f} {sym}）")
+
+            # 对倒检测：事件数 ≠ 净换手。链上可以 A→B→C→A 反复搬同一批币，每次都是新 event_id，
+            # 只按「新增大额转账」报警会被搬运刷爆（EVAA 实测对倒指数 2.87x）。
+            # 改成以「top100 地址余额净变化」为真信号，搬运只在无净变化时降级记录。
+            try:
+                jet = get_json(f"https://tonapi.io/v2/jettons/{jetton}", a.proxy)
+                supply = int(jet.get("total_supply") or 0) / 1e9
+            except Exception:
+                supply = 0
+            balances = {}
+            for row in h.get("addresses", [])[:100]:
+                balances[row["owner"]["address"]] = int(row["balance"]) / 1e9
+            old_bal = old.get("balances") or {}
+            moves = []
+            if supply > 0:
+                for addr, bal in balances.items():
+                    ob = old_bal.get(addr)
+                    if ob is None:
+                        continue
+                    delta = bal - ob
+                    if abs(delta) >= supply * 0.005:      # 单地址变动 ≥0.5% 供应量
+                        moves.append({"address": addr, "delta": round(delta),
+                                      "balance": round(bal)})
+            snap["balances"] = balances
+            if moves:
+                moves.sort(key=lambda x: -abs(x["delta"]))
+                alerts.append(f"链上余额净变动 {len(moves)} 个地址（≥0.5% 供应）")
+                snap["net_moves"] = moves[:10]
+            elif big:
+                # 只有新事件、没有净变动 → 大概率是对倒搬运
+                snap["wash_suspect"] = len(big)
+                snap["big_transfers"] = big[:10]
+            elif big:
                 snap["big_transfers"] = big[:10]
         except Exception as e:
             alerts.append(f"链上失败: {str(e)[:60]}")
