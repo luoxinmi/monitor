@@ -1,1 +1,1 @@
-{"symbol":"PONS","updated":1795299440,"price":0.0892,"windows":[{"w":"8m","ret_pct":0.791,"from":0.0884999653,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5039099.52,"left_short":5039099.52}],"group":{"gid":"g082","fund_usd":3107356.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"PONS","updated":1795303040,"price":0.0894,"windows":[{"w":"60m","ret_pct":0.449,"from":0.0890003883,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5039099.52,"left_short":5039099.52}],"group":{"gid":"g082","fund_usd":3107356.39},"method":"short_ladder_30d_lifo"}

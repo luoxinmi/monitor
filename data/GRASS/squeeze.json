@@ -1,1 +1,1 @@
-{"symbol":"GRASS","updated":1795299440,"price":0.3797,"windows":[{"w":"8m","ret_pct":0.423,"from":0.3781006343,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5340149.89,"left_short":5340149.89}],"group":{"gid":"g078","fund_usd":3059237.93},"method":"short_ladder_30d_lifo"}
+{"symbol":"GRASS","updated":1795303040,"price":0.3796,"windows":[{"w":"8m","ret_pct":0.106,"from":0.3791980501,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5340149.89,"left_short":5340149.89}],"group":{"gid":"g078","fund_usd":3059237.93},"method":"short_ladder_30d_lifo"}

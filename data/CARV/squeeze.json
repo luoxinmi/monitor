@@ -1,1 +1,1 @@
-{"symbol":"CARV","updated":1795299440,"price":0.02372,"windows":[{"w":"8m","ret_pct":0.127,"from":0.0236899138,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":585158.07,"left_short":585158.07}],"group":{"gid":"g114","fund_usd":1006702.51},"method":"short_ladder_30d_lifo"}
+{"symbol":"CARV","updated":1795303040,"price":0.02369,"windows":[{"w":"8m","ret_pct":0.084,"from":0.0236701171,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":585158.07,"left_short":585158.07}],"group":{"gid":"g114","fund_usd":1006702.51},"method":"short_ladder_30d_lifo"}

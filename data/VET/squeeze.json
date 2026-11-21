@@ -1,1 +1,1 @@
-{"symbol":"VET","updated":1795299440,"price":0.004575,"windows":[{"w":"8m","ret_pct":0.241,"from":0.0045640008,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1409837.83,"left_short":1409837.83}],"group":{"gid":"g103","fund_usd":3094215.38},"method":"short_ladder_30d_lifo"}
+{"symbol":"VET","updated":1795303040,"price":0.004591,"windows":[{"w":"60m","ret_pct":0.35,"from":0.0045749875,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1409837.83,"left_short":1409837.83}],"group":{"gid":"g103","fund_usd":3094215.38},"method":"short_ladder_30d_lifo"}
