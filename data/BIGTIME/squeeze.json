@@ -1,0 +1,1 @@
+{"symbol":"BIGTIME","updated":1795292914,"price":0.004042,"windows":[{"w":"30m","ret_pct":0.397,"from":0.0040260167,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":531892.97},{"w":"60m","ret_pct":0.748,"from":0.0040119903,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":531892.97}],"group":{"gid":"g073","fund_usd":3019940.49},"method":"short_ladder_30d_lifo"}

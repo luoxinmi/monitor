@@ -1,0 +1,1 @@
+{"symbol":"SAHARA","updated":1795292914,"price":0.005121,"windows":[{"w":"8m","ret_pct":0.098,"from":0.0051159863,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1167241.78},{"w":"60m","ret_pct":0.176,"from":0.0051120029,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1167241.78}],"group":{"gid":"g058","fund_usd":3022985.3},"method":"short_ladder_30d_lifo"}

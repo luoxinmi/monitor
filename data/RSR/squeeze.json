@@ -1,0 +1,1 @@
+{"symbol":"RSR","updated":1795292914,"price":0.001253,"windows":[{"w":"30m","ret_pct":0.08,"from":0.0012519984,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1352616.59},{"w":"60m","ret_pct":0.481,"from":0.0012470019,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1352616.59}],"group":{"gid":"g052","fund_usd":3096862.02},"method":"short_ladder_30d_lifo"}

@@ -1,0 +1,1 @@
+{"symbol":"ZETA","updated":1795292914,"price":0.02727,"windows":[{"w":"30m","ret_pct":0.073,"from":0.0272501074,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":972281.01},{"w":"60m","ret_pct":0.184,"from":0.0272199154,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":972281.01}],"group":{"gid":"g117","fund_usd":3032940.64},"method":"short_ladder_30d_lifo"}

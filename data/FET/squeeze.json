@@ -1,0 +1,1 @@
+{"symbol":"FET","updated":1795292914,"price":0.1104,"windows":[{"w":"8m","ret_pct":0.272,"from":0.1101005266,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":7565490.89},{"w":"60m","ret_pct":0.455,"from":0.1098999552,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":7565490.89}],"group":{"gid":"g101","fund_usd":3033086.29},"method":"short_ladder_30d_lifo"}

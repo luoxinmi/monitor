@@ -1,0 +1,1 @@
+{"symbol":"NIGHT","updated":1795292914,"price":0.04539,"windows":[{"w":"8m","ret_pct":0.621,"from":0.0451098677,"N":13565.69,"L":0.0,"uN":0.0044,"uL":0.0,"alive_short":4046876.27},{"w":"30m","ret_pct":0.398,"from":0.0452100639,"N":13565.69,"L":0.0,"uN":0.0044,"uL":0.0,"alive_short":4046876.27}],"group":{"gid":"g026","fund_usd":3063868.96},"method":"short_ladder_30d_lifo"}

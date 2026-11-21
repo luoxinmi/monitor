@@ -1,0 +1,1 @@
+{"symbol":"XAI","updated":1795292914,"price":0.005042,"windows":[{"w":"8m","ret_pct":0.079,"from":0.00503802,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":545124.76},{"w":"60m","ret_pct":0.318,"from":0.0050260173,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":545124.76}],"group":{"gid":"g076","fund_usd":3096166.59},"method":"short_ladder_30d_lifo"}

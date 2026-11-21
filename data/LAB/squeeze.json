@@ -1,0 +1,1 @@
+{"symbol":"LAB","updated":1795292914,"price":0.03305,"windows":[{"w":"8m","ret_pct":0.242,"from":0.0329702121,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":3344389.78},{"w":"30m","ret_pct":0.03,"from":0.033040088,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":3344389.78}],"group":{"gid":"g084","fund_usd":1751923.71},"method":"short_ladder_30d_lifo"}

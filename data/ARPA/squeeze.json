@@ -1,0 +1,1 @@
+{"symbol":"ARPA","updated":1795292914,"price":0.007692,"windows":[{"w":"30m","ret_pct":0.026,"from":0.0076900006,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":562112.45},{"w":"60m","ret_pct":0.065,"from":0.0076870034,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":562112.45}],"group":{"gid":"g111","fund_usd":3068072.8},"method":"short_ladder_30d_lifo"}

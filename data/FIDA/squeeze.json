@@ -1,0 +1,1 @@
+{"symbol":"FIDA","updated":1795292914,"price":0.0128,"windows":[{"w":"8m","ret_pct":0.078,"from":0.0127900238,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":438516.76},{"w":"60m","ret_pct":0.313,"from":0.012760061,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":438516.76}],"group":{"gid":"g030","fund_usd":3027427.52},"method":"short_ladder_30d_lifo"}

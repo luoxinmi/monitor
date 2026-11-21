@@ -1,0 +1,1 @@
+{"symbol":"CAP","updated":1795292914,"price":0.08957,"windows":[{"w":"30m","ret_pct":0.381,"from":0.0892300336,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":12364033.79},{"w":"60m","ret_pct":3.295,"from":0.0867128128,"N":2016769.33,"L":16918.88,"uN":0.6607,"uL":0.0055,"alive_short":10347264.46}],"group":{"gid":"g047","fund_usd":3052391.32},"method":"short_ladder_30d_lifo"}

@@ -1,0 +1,1 @@
+{"symbol":"PHA","updated":1795292914,"price":0.02897,"windows":[{"w":"8m","ret_pct":0.277,"from":0.0288899748,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1162200.97},{"w":"60m","ret_pct":0.765,"from":0.028750062,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1162200.97}],"group":{"gid":"g048","fund_usd":3085286.35},"method":"short_ladder_30d_lifo"}

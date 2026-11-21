@@ -1,0 +1,1 @@
+{"symbol":"PONS","updated":1795292914,"price":0.0887,"windows":[{"w":"8m","ret_pct":0.226,"from":0.08849999,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":5039099.52},{"w":"60m","ret_pct":0.113,"from":0.0885998821,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":5039099.52}],"group":{"gid":"g082","fund_usd":3107356.39},"method":"short_ladder_30d_lifo"}

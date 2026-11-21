@@ -1,0 +1,1 @@
+{"symbol":"PHAROS","updated":1795292914,"price":0.5562,"windows":[{"w":"30m","ret_pct":0.743,"from":0.5520979125,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":3043404.51},{"w":"60m","ret_pct":0.216,"from":0.5550011974,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":3043404.51}],"group":{"gid":"g041","fund_usd":3090625.24},"method":"short_ladder_30d_lifo"}

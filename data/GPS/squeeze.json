@@ -1,0 +1,1 @@
+{"symbol":"GPS","updated":1795292914,"price":0.00905,"windows":[{"w":"30m","ret_pct":0.266,"from":0.0090259909,"N":6819.77,"L":0.0,"uN":0.0023,"uL":0.0,"alive_short":2965022.85},{"w":"60m","ret_pct":0.322,"from":0.0090209525,"N":6819.77,"L":0.0,"uN":0.0023,"uL":0.0,"alive_short":2965022.85}],"group":{"gid":"g110","fund_usd":3003065.02},"method":"short_ladder_30d_lifo"}

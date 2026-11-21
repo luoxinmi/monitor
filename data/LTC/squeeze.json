@@ -1,0 +1,1 @@
+{"symbol":"LTC","updated":1795292914,"price":39.98,"windows":[{"w":"8m","ret_pct":0.175,"from":39.9101572249,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":23589257.01},{"w":"60m","ret_pct":0.05,"from":39.96001999,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":23589257.01}],"group":{"gid":"g077","fund_usd":52437408.82},"method":"short_ladder_30d_lifo"}

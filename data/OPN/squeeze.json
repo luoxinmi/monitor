@@ -1,0 +1,1 @@
+{"symbol":"OPN","updated":1795292914,"price":0.0301,"windows":[{"w":"8m","ret_pct":0.233,"from":0.03003003,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1104388.22},{"w":"60m","ret_pct":0.2,"from":0.0300399202,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1104388.22}],"group":{"gid":"g060","fund_usd":3077131.79},"method":"short_ladder_30d_lifo"}

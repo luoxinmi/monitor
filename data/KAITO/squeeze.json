@@ -1,0 +1,1 @@
+{"symbol":"KAITO","updated":1795292914,"price":0.1524,"windows":[{"w":"8m","ret_pct":0.066,"from":0.1522994823,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":2067013.76},{"w":"60m","ret_pct":0.395,"from":0.1518003885,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":2067013.76}],"group":{"gid":"g000","fund_usd":3048492.65},"method":"short_ladder_30d_lifo"}

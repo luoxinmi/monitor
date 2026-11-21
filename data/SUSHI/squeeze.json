@@ -1,0 +1,1 @@
+{"symbol":"SUSHI","updated":1795292914,"price":0.1486,"windows":[{"w":"8m","ret_pct":0.135,"from":0.1483996605,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1102325.56},{"w":"60m","ret_pct":0.405,"from":0.1480005976,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1102325.56}],"group":{"gid":"g015","fund_usd":3051122.82},"method":"short_ladder_30d_lifo"}

@@ -1,0 +1,1 @@
+{"symbol":"DOLO","updated":1795292914,"price":0.01796,"windows":[{"w":"30m","ret_pct":0.167,"from":0.0179300568,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":462723.07},{"w":"60m","ret_pct":0.447,"from":0.0178800761,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":462723.07}],"group":{"gid":"g114","fund_usd":1006702.51},"method":"short_ladder_30d_lifo"}

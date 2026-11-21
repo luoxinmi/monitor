@@ -1,0 +1,1 @@
+{"symbol":"SQD","updated":1795292914,"price":0.01355,"windows":[{"w":"8m","ret_pct":0.074,"from":0.0135399804,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":636892.58},{"w":"60m","ret_pct":0.296,"from":0.0135100104,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":636892.58}],"group":{"gid":"g117","fund_usd":3032940.64},"method":"short_ladder_30d_lifo"}

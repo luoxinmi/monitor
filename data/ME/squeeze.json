@@ -1,0 +1,1 @@
+{"symbol":"ME","updated":1795292914,"price":0.03554,"windows":[{"w":"8m","ret_pct":0.254,"from":0.0354499571,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":722748.1},{"w":"60m","ret_pct":0.197,"from":0.0354701239,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":722748.1}],"group":{"gid":"g094","fund_usd":2066087.83},"method":"short_ladder_30d_lifo"}

@@ -1,0 +1,1 @@
+{"symbol":"RONIN","updated":1795292914,"price":0.03464,"windows":[{"w":"8m","ret_pct":0.058,"from":0.0346199204,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":460534.39},{"w":"60m","ret_pct":0.347,"from":0.0345202149,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":460534.39}],"group":{"gid":"g027","fund_usd":3059406.68},"method":"short_ladder_30d_lifo"}

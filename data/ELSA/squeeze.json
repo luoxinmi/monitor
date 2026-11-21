@@ -1,0 +1,1 @@
+{"symbol":"ELSA","updated":1795292914,"price":0.06719,"windows":[{"w":"30m","ret_pct":0.508,"from":0.0668504,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":2733449.72},{"w":"60m","ret_pct":0.313,"from":0.0669803515,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":2733449.72}],"group":{"gid":"g064","fund_usd":2019263.02},"method":"short_ladder_30d_lifo"}

@@ -1,0 +1,1 @@
+{"symbol":"SANTOS","updated":1795292914,"price":0.3231,"windows":[{"w":"30m","ret_pct":0.062,"from":0.3228998021,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":437114.75},{"w":"60m","ret_pct":0.31,"from":0.3221014854,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":437114.75}],"group":{"gid":"g106","fund_usd":3052970.01},"method":"short_ladder_30d_lifo"}

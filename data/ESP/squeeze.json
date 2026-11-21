@@ -1,0 +1,1 @@
+{"symbol":"ESP","updated":1795292914,"price":0.06758,"windows":[{"w":"8m","ret_pct":0.059,"from":0.0675401513,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":797409.72},{"w":"60m","ret_pct":0.03,"from":0.0675597321,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":797409.72}],"group":{"gid":"g060","fund_usd":3077131.79},"method":"short_ladder_30d_lifo"}

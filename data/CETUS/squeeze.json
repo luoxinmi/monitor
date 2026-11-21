@@ -1,0 +1,1 @@
+{"symbol":"CETUS","updated":1795292914,"price":0.01523,"windows":[{"w":"30m","ret_pct":0.263,"from":0.0151900502,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":416469.16},{"w":"60m","ret_pct":0.329,"from":0.0151800576,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":416469.16}],"group":{"gid":"g017","fund_usd":1519308.62},"method":"short_ladder_30d_lifo"}
