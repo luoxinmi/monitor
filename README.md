@@ -52,6 +52,20 @@ data/_meta/alerts/YYYYMMDD.jsonl            异动（价格±15% / OI±10% / 费
 data/fund/groups_YYYYMM.jsonl               组基金时序（每小时最多一行/组）
 ```
 
+## 与 GitHub Actions 限制的对应
+
+| 限制 | 本仓库怎么处理 |
+|---|---|
+| 单 job ≤ 6 小时 | 一轮 1–6 分钟（522 币 gap + 长窗口），远低于上限 |
+| matrix ≤ 256 job | **不用 matrix**：单 job 内按币循环、并发 10 |
+| 并发 job（Free ~20） | 三个 workflow 共用 `concurrency: repo-commit` → 同仓库串行，只有 1 个在跑 |
+| Cache 10 GB | 不用 Actions Cache；基线放仓库，靠 `archive.py` 控体积 |
+| Artifact/日志保留 90 天 | 历史数据走 **Release**（不按 artifact 计费、保留期不适用） |
+| 触发 1500 事件/10s、队列 500/10s | 最密的 8 分钟档约 180 次/天，远低于 |
+| Actions API 写 ~1000 次/小时 | workflow 内不调 GitHub API；归档最多 4 小时一次 Release |
+| schedule 精度 ±5–30 分钟 | 短时检测用 **1m K 线**算 8m/30m/1h/4h（不依赖采样准点），延迟时 30m/1h/4h 窗口兜底 |
+| 60 天无活动自动禁用 | 每轮都 commit，天然保持活跃 |
+
 ## 存储：超阈值自动打包 Release + squash
 
 Public 仓库的 **Releases 不限量**（单 asset ≤ 2GB），仓库 git 历史会膨胀 → `scripts/archive.py`：
