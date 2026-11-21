@@ -1,0 +1,56 @@
+name: universe-scan
+# 1 小时 / 4 小时两档全量扫描：币安 522 个永续 × 30 天日级 OI/日线 → 兑现缺口 gap（图 16 防妖币）
+#   · 每小时 → hour：全量 gap，只写「变化 ≥5% 或当天首写」的每币文件
+#   · 每 4 小时 → h4：强制重写所有每币文件 + 组级最大缺口 + 归档检查（超 1GB 发 Release）
+# 数据：data/<SYM>/{gap.json,gap_daily.jsonl,venues.json} · data/groups/*.json · data/_meta/market.json
+on:
+  schedule:
+    - cron: "17 * * * *"        # 每小时
+    - cron: "23 */4 * * *"      # 每 4 小时
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "fast / half / hour / h4 / full"
+        required: false
+        default: "hour"
+permissions:
+  contents: write
+concurrency:
+  group: repo-commit
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      MODE: ${{ github.event.inputs.mode || (github.event.schedule == '23 */4 * * *' && 'h4' || 'hour') }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: scan
+        timeout-minutes: 40
+        run: |
+          echo "mode=$MODE"
+          python3 scripts/universe_scan.py --out data --mode "$MODE" --concurrency 10
+      - name: archive when large (h4 only)
+        if: env.MODE == 'h4'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: python3 scripts/archive.py --data data --threshold-mb 1024 --keep-days 30 --squash
+      - name: commit
+        run: |
+          git config user.name "dsh-universe"
+          git config user.email "dsh-universe@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "universe $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main >/dev/null 2>&1 || true
+            if git push origin HEAD:main; then break; fi
+            echo "push 冲突，重试 $i"; sleep $((i * 5))
+          done

@@ -2,7 +2,7 @@ name: coin-monitor
 
 on:
   schedule:
-    - cron: "7 * * * *" # 每小时（避开整点：官方说整点高负载会延迟甚至丢任务）
+    - cron: "0 * * * *" # 每小时（公开仓库 Actions 免费；延迟几分钟属正常）
   workflow_dispatch:
 
 permissions:
@@ -11,20 +11,13 @@ permissions:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    # 同一时间只跑一个币，避免 matrix 并行时 git push 互相冲突
-    concurrency:
-      group: monitor-commit
-      cancel-in-progress: false
     strategy:
       fail-fast: false
       matrix:
         # 多币监控：加名字即可（每币独立 data/<SYM>/）
-        symbol: [EVAA, BONK]
+        symbol: [EVAA]
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0        # 完整历史：rebase/push 需要，别用默认的 depth=1
 
       - uses: actions/setup-python@v5
         with:
@@ -41,20 +34,13 @@ jobs:
           python scripts/monitor.py --symbol "${{ matrix.symbol }}" --min-amount 3000 --out "data/${{ matrix.symbol }}" --json > "data/${{ matrix.symbol }}/latest.json"
           echo "code=$?" >> "$GITHUB_OUTPUT"
 
-      - name: sample fund (binance group + gate)
-        run: python3 scripts/fund_watch.py --symbols EVAA,BONK --out data/fund || true
-
       - name: commit state
         run: |
           git config user.name "dsh-monitor"
           git config user.email "dsh-monitor@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "update $(date -u +%FT%TZ)"
-          for i in 1 2 3 4 5; do
-            git pull --rebase --autostash origin main >/dev/null 2>&1 || true
-            if git push origin HEAD:main; then break; fi
-            echo "push 冲突，重试 $i"; sleep $((i * 5))
-          done
+          git push
 
       - name: webhook (optional)
         if: steps.mon.outputs.code == '2'

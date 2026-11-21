@@ -1,0 +1,49 @@
+name: live-scan
+# 8 分钟 / 30 分钟两档轻量扫描：全平台行情 + 币安基金组 + 异动（不跑 gap、不写每币文件）
+#   · 8 分钟 → fast：基线 _meta/live.json（每 2h 写一次）+ 异动 _meta/alerts/YYYYMMDD.jsonl
+#   · 30 分钟 → half：加全市场一行 _meta/market.json + 组基金时序（每小时最多写一次）
+on:
+  schedule:
+    - cron: "3-59/8 * * * *"   # 每 8 分钟（偏移 3 分避开整点）
+    - cron: "5,35 * * * *"     # 每 30 分钟
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "fast / half"
+        required: false
+        default: "fast"
+permissions:
+  contents: write
+concurrency:
+  group: repo-commit
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      MODE: ${{ github.event.inputs.mode || (github.event.schedule == '5,35 * * * *' && 'half' || 'fast') }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: scan
+        timeout-minutes: 12
+        run: |
+          echo "mode=$MODE"
+          python3 scripts/universe_scan.py --out data --mode "$MODE" --concurrency 10
+      - name: commit
+        run: |
+          git config user.name "dsh-universe"
+          git config user.email "dsh-universe@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "live $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main >/dev/null 2>&1 || true
+            if git push origin HEAD:main; then break; fi
+            echo "push 冲突，重试 $i"; sleep $((i * 5))
+          done
