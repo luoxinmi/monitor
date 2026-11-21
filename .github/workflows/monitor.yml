@@ -38,6 +38,9 @@ jobs:
           python scripts/monitor.py --symbol "${{ matrix.symbol }}" --min-amount 3000 --out "data/${{ matrix.symbol }}" --json > "data/${{ matrix.symbol }}/latest.json"
           echo "code=$?" >> "$GITHUB_OUTPUT"
 
+      - name: sample fund (binance group + gate)
+        run: python3 scripts/fund_watch.py --symbols EVAA,BONK --out data/fund || true
+
       - name: commit state
         run: |
           git config user.name "dsh-monitor"
