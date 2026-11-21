@@ -20,9 +20,17 @@
 """
 import argparse
 import json
+import os
 import sys
 import time
 import urllib.request
+
+# 兑现缺口的判读阈值（2026-11-22 用户定：防妖币极端逼空，要找「最大缺口」）：
+#   gap_ratio < GAP_MIN_RATIO 时，视为「没有缺口/对手盘充足」，用 GAP_PRESET_RATIO 代替显示，
+#   避免小数字被误读成信号，也让图 16 / 告警始终有可比的基准值。
+# 两个数都可用环境变量覆盖（云端 workflow 里设 env 即可；默认 0 = 不启用预设值）。
+GAP_MIN_RATIO = float(os.environ.get("GAP_MIN_RATIO", "0"))
+GAP_PRESET_RATIO = float(os.environ.get("GAP_PRESET_RATIO", "1.0"))
 
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126 Safari/537.36"}
 BN_HOSTS = ("https://fapi.binance.com", "https://www.binance.com")
@@ -132,9 +140,18 @@ def compute_gap(daily, cur, long_share=0.5, mm=MM, levs=LEVS):
             lp = cost * (1 + 1 / lev - mm)        # 空单强平价
             if lp > cur:                          # 只算还活着的空单
                 short_alive += amt * (1 - long_share) * w
-    gap = (long_pnl / short_alive) if short_alive > 1e-9 else None
+    raw_gap = (long_pnl / short_alive) if short_alive > 1e-9 else None
+    # 低于阈值时用预设值代替（capped 字段说明是哪条规则生效；raw 保留原值便于回查）
+    gap, capped = raw_gap, None
+    if raw_gap is not None and GAP_MIN_RATIO > 0 and raw_gap < GAP_MIN_RATIO:
+        gap = GAP_PRESET_RATIO
+        capped = "below_min"
     return {
         "gap_ratio": round(gap, 3) if gap is not None else None,
+        "gap_ratio_raw": round(raw_gap, 3) if raw_gap is not None else None,
+        "capped": capped,
+        "min_ratio": GAP_MIN_RATIO or None,
+        "preset_ratio": GAP_PRESET_RATIO if GAP_MIN_RATIO > 0 else None,
         "long_pnl_usd": round(long_pnl, 2),
         "short_alive_usd": round(short_alive, 2),
         "total_oi_usd": round(total, 2),
