@@ -72,9 +72,21 @@ def gh(method, url, token, payload=None, raw=None, content_type=None):
 # ---------------------------------------------------------------- 摘要（Release 说明）
 def build_summary(data_dir, stats):
     """从 groups/ 与 _meta/ 汇总关键数据：组内最大缺口 / 组基金池。"""
-    groups_idx = read_json(os.path.join(data_dir, "groups", "index.json"), {}) or {}
+    idx = read_json(os.path.join(data_dir, "groups", "index.json"), {}) or {}
     scan = read_json(os.path.join(data_dir, "_meta", "scan.json"), {}) or {}
-    gs = groups_idx.get("groups") or {}
+    fund_meta = read_json(os.path.join(data_dir, "_meta", "fund.json"), {}) or {}
+    gs = idx.get("groups") or {}
+    # groups/<gid>.json 里有长窗口（180 天 Gate 口径）最大缺口；index.json 只有 30 天
+    gdocs = []
+    gdir = os.path.join(data_dir, "groups")
+    if os.path.isdir(gdir):
+        for f in sorted(os.listdir(gdir)):
+            if f.startswith("g") and f.endswith(".json"):
+                d = read_json(os.path.join(gdir, f), {}) or {}
+                if d.get("gid"):
+                    gdocs.append(d)
+    long_by_gid = {d["gid"]: d.get("group_long_max_gap") for d in gdocs
+                   if d.get("group_long_max_gap")}
 
     # 每个代币在组内造成的最大缺口：group_max_gap_30d 属于「组」，币是其中最大的那个
     per_coin = []
@@ -82,22 +94,25 @@ def build_summary(data_dir, stats):
         mg = g.get("max_gap") or {}
         if mg.get("gap") is None:
             continue
+        lw = long_by_gid.get(gid) or {}
         per_coin.append({
             "symbol": mg.get("symbol"), "gid": gid, "gap": mg.get("gap"),
             "day": mg.get("day"), "fund_usd": g.get("fund_usd"),
+            "long_gap": lw.get("gap"), "long_day": lw.get("day"),
+            "long_symbol": lw.get("symbol"),
         })
     per_coin.sort(key=lambda x: -(x["gap"] or 0))
 
     funds = sorted([(gid, (g.get("fund_usd") or 0)) for gid, g in gs.items()],
                    key=lambda x: -x[1])[:10]
     total_fund = sum((g.get("fund_usd") or 0) for g in gs.values())
-    gate_fund = scan.get("gate_insurance_usdt")
+    gate_fund = scan.get("gate_insurance_usdt") or fund_meta.get("gate_usdt")
 
     lines = []
     lines.append(f"## 数据归档 {time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())}")
     lines.append("")
-    lines.append(f"- 代币数：**{scan.get('bases', '?')}**（币安 USDT 永续）· "
-                 f"gap 覆盖 **{scan.get('gap_ok', '?')}** · 基金组 **{scan.get('groups', '?')}**")
+    lines.append(f"- 代币数：**{scan.get('bases') or '?'}**（币安 USDT 永续）· "
+                 f"gap 覆盖 **{scan.get('gap_ok') or len(gs) or '?'}** · 基金组 **{scan.get('groups') or len(gs) or '?'}**")
     lines.append(f"- 币安基金组合计 **${total_fund/1e6:.2f}M** · "
                  f"Gate 全站保险基金 **${(gate_fund or 0)/1e6:.2f}M**")
     if stats.get("data_mb") is not None:
@@ -106,11 +121,13 @@ def build_summary(data_dir, stats):
     lines.append("")
     lines.append("### 各代币在所在组造成的最大基金缺口（30 天）")
     lines.append("")
-    lines.append("| # | 币 | 组 | 缺口倍数 | 日期 | 组基金 |")
-    lines.append("|---|---|---|---|---|---|")
+    lines.append("| # | 币 | 组 | 30 天最大缺口 | 日期 | 180 天最大缺口 | 日期 | 组基金 |")
+    lines.append("|---|---|---|---|---|---|---|---|")
     for i, x in enumerate(per_coin[:20], 1):
-        lines.append(f"| {i} | {x['symbol']} | {x['gid']} | {x['gap']:.2f}× | {x['day'] or '-'} | "
-                     f"${(x['fund_usd'] or 0)/1e6:.2f}M |")
+        lg = f"| {x['long_gap']:.2f}×（{x['long_symbol']}）" if x.get("long_gap") else "| -"
+        ld = f"| {x['long_day']}" if x.get("long_day") else "| -"
+        lines.append(f"| {i} | {x['symbol']} | {x['gid']} | {x['gap']:.2f}× | {x['day'] or '-'} "
+                     f"{lg} {ld} | ${(x['fund_usd'] or 0)/1e6:.2f}M |")
     if not per_coin:
         lines.append("| - | 暂无 | - | - | - | - |")
     lines.append("")
