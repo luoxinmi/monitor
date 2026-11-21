@@ -1,0 +1,13 @@
+name: schedule-canary
+# 临时诊断：只验证 schedule 事件本身能不能触发，不做任何实际工作。
+# 跑通 30-60 分钟后删除（skill 里不要长期留探测文件）。
+on:
+  schedule:
+    - cron: "3,13,23,33,43,53 * * * *"
+  workflow_dispatch:
+permissions: {}
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "canary fired at $(date -u)"
