@@ -1,0 +1,16 @@
+{
+ "symbol": "BONK",
+ "updated": 1795271842,
+ "alerts": [],
+ "snapshot": {
+  "symbol": "BONK",
+  "pair": "BONKUSDT",
+  "price": 2.054e-06,
+  "price_24h_pct": -4.6,
+  "funding_pct": -0.0159,
+  "oi_usd": 353529.9,
+  "depth_1pct_usd": 0.038000524,
+  "source": "gate",
+  "updated": 1795271842
+ }
+}
