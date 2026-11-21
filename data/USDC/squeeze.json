@@ -1,1 +1,1 @@
-{"symbol":"USDC","updated":1795292914,"price":1.001698,"windows":[{"w":"60m","ret_pct":0.015,"from":1.0015477678,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":3501205.99}],"group":{"gid":"g065","fund_usd":396276377.88},"method":"short_ladder_30d_lifo"}
+{"symbol":"USDC","updated":1795295848,"price":1.001672,"windows":[{"w":"30m","ret_pct":0.013,"from":1.0015417996,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3501205.99,"left_short":3501205.99}],"group":{"gid":"g065","fund_usd":396276377.88},"method":"short_ladder_30d_lifo"}

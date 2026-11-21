@@ -1,0 +1,1 @@
+{"symbol":"ALICE","updated":1795295848,"price":0.0939,"windows":[{"w":"30m","ret_pct":0.107,"from":0.0937996344,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":634341.75,"left_short":634341.75}],"group":{"gid":"g042","fund_usd":3118152.42},"method":"short_ladder_30d_lifo"}
