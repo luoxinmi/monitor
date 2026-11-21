@@ -403,7 +403,8 @@ def squeeze_windows(ladder, cur, rets_pct, fund):
             "N": round(N, 2), "L": round(L, 2),
             "uN": round(N / fund, 4) if fund else None,
             "uL": round(L / fund, 4) if fund else None,
-            "alive_short": round(total_alive - N, 2),
+            "total_short_ladder": round(total_alive, 2),
+            "left_short": round(total_alive - N, 2),
         })
     return out
 
@@ -648,6 +649,7 @@ def main():
     c = Client(proxy=a.proxy or None, timeout=a.timeout)
     now = int(time.time())
     today = time.strftime("%Y-%m-%d", time.gmtime(now))
+    today_c = time.strftime("%Y%m%d", time.gmtime(now))
     month = time.strftime("%Y%m", time.gmtime(now))
 
     # ---- A. 各平台行情（全量请求）----
@@ -801,7 +803,7 @@ def main():
                     })
 
     if alert_rows:
-        apath = os.path.join(out, "_meta", "alerts", f"{today}.jsonl")
+        apath = os.path.join(out, "_meta", "alerts", f"{today_c}.jsonl")
         seen_alert = set()
         if os.path.exists(apath):
             try:
@@ -1013,7 +1015,7 @@ def main():
         os.makedirs(os.path.join(out, base), exist_ok=True)
         _write_json(os.path.join(out, base, "squeeze.json"), doc)
     if alert_rows:
-        apath = os.path.join(out, "_meta", "alerts", f"{today}.jsonl")
+        apath = os.path.join(out, "_meta", "alerts", f"{today_c}.jsonl")
         seen_alert = set()
         if os.path.exists(apath):
             try:

@@ -136,14 +136,14 @@ def make_tar(data_dir, out_path):
 def prune_old(data_dir, keep_days):
     """删掉太旧的明细（保留最新状态文件），返回 (删文件数, 删行数)。"""
     cutoff = time.time() - keep_days * 86400
-    cutoff_day = time.strftime("%Y-%m-%d", time.gmtime(cutoff))
+    cutoff_day = time.strftime("%Y%m%d", time.gmtime(cutoff))
     cutoff_month = time.strftime("%Y%m", time.gmtime(cutoff))
     removed = 0
     # 1) alerts：按天文件
     adir = os.path.join(data_dir, "_meta", "alerts")
     if os.path.isdir(adir):
         for f in os.listdir(adir):
-            if f.endswith(".jsonl") and f[:8] < cutoff_day.replace("-", ""):
+            if f.endswith(".jsonl") and f[:8].isdigit() and f[:8] < cutoff_day:
                 os.remove(os.path.join(adir, f))
                 removed += 1
     # 2) fund 时序：按月文件
@@ -160,15 +160,14 @@ def prune_old(data_dir, keep_days):
         folder = os.path.join(data_dir, base)
         if not os.path.isdir(folder) or base.startswith("_"):
             continue
-        for fn in ("gap_daily.jsonl", "history.jsonl"):
+        limits = {"gap_daily.jsonl": 120, "history.jsonl": 2000}
+        for fn, lim in limits.items():
             p = os.path.join(folder, fn)
             if not os.path.exists(p):
                 continue
             try:
                 lines = [x for x in open(p).read().splitlines() if x.strip()]
-                keep = []
-                for line in lines[-keep_days:]:
-                    keep.append(line)
+                keep = lines[-lim:]
                 if len(keep) != len(lines):
                     open(p, "w").write("\n".join(keep) + "\n")
                     removed += len(lines) - len(keep)
