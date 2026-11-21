@@ -3,16 +3,17 @@
 
 分工约定：
   - **本地 DSH**：用币安等「平台数据」做分析（本机有代理，币安直连没问题）；
-  - **GitHub Actions**：只跑 Gate + 链上（runner 在美国，币安 451、Bybit 403）——用 --no-binance。
+  - **GitHub Actions**：现在也能跑币安——用 `www.binance.com/fapi` 透传域名绕开 451（bn_json 自动换域），
+    不再需要 --no-binance；Bybit 仍 403。
 
 数据源：
   - 默认优先币安 fapi，不可用时自动降级 **Gate 永续**（tickers + contract_stats + order_book）；
   - 链上部分只在 profile 里配了 jetton 的 TON 币才跑（tonapi 直连，runner 可用）。
 
 用法:
-    python3 monitor.py --symbol EVAA --out /tmp/monitor                    # 海外直连
-    python3 monitor.py --symbol EVAA --out /tmp/monitor --proxy http://127.0.0.1:7890
-    python3 monitor.py --symbol EVAA --out /tmp/monitor --no-binance      # GitHub Actions 用
+    python3 monitor.py --symbol <SYM> --out /tmp/monitor                    # 海外直连
+    python3 monitor.py --symbol <SYM> --out /tmp/monitor --proxy http://127.0.0.1:7890
+    python3 monitor.py --symbol <SYM> --out /tmp/monitor --no-binance      # GitHub Actions 用
     python3 monitor.py --symbol BTC --out /tmp/monitor --json
 
 状态文件 <out>/state.json；首次只建基线；异常退出码 2。
@@ -57,9 +58,28 @@ def get_json(url, proxy=None, timeout=25):
         return json.loads(r.read().decode())
 
 
+BN_HOSTS = ("https://fapi.binance.com", "https://www.binance.com")
+
+
+def bn_json(path, proxy=None, timeout=25):
+    """币安 fapi 请求：直连失败自动换 www 透传域名。
+
+    GitHub Actions runner 在美国，`fapi.binance.com` 返回 451；
+    但 `www.binance.com/fapi/...` 是网页端透传，实测 200 且返回真实 JSON，
+    所以云端不再需要 --no-binance，也不用代理。
+    """
+    last = None
+    for host in BN_HOSTS:
+        try:
+            return get_json(host + path, proxy, timeout)
+        except Exception as e:
+            last = e
+    raise last
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--symbol", default="EVAA")
+    ap.add_argument("--symbol", required=True, help="CoinGlass 币种符号，如 ETH / BONK")
     ap.add_argument("--out", default="/tmp/monitor")
     ap.add_argument("--proxy", default="")
     ap.add_argument("--json", action="store_true")
@@ -91,22 +111,21 @@ def main():
     if not a.no_binance:
         try:
             source = "binance"
-            px = get_json(f"https://fapi.binance.com/fapi/v1/ticker/price?symbol={pair}", a.proxy)
+            px = bn_json(f"/fapi/v1/ticker/price?symbol={pair}", a.proxy)
             p = float(px["price"])
             snap["price"] = p
             prev = old.get("price")
             if prev and abs(p - prev) / prev * 100 >= 5:
                 alerts.append(f"价格 {p:,.4f}（较上次 {(p-prev)/prev*100:+.1f}%）")
-            t24 = get_json(f"https://fapi.binance.com/fapi/v1/ticker/24hr?symbol={pair}", a.proxy)
+            t24 = bn_json(f"/fapi/v1/ticker/24hr?symbol={pair}", a.proxy)
             snap["price_24h_pct"] = float(t24["priceChangePercent"])
-            oi = get_json(f"https://fapi.binance.com/futures/data/openInterestHist"
-                          f"?symbol={pair}&period=1h&limit=2", a.proxy)
+            oi = bn_json(f"/futures/data/openInterestHist?symbol={pair}&period=1h&limit=2", a.proxy)
             add("OI", float(oi[-1]["sumOpenInterestValue"]), "oi_usd", 10)
-            pm = get_json(f"https://fapi.binance.com/fapi/v1/premiumIndex?symbol={pair}", a.proxy)
+            pm = bn_json(f"/fapi/v1/premiumIndex?symbol={pair}", a.proxy)
             snap["funding_pct"] = round(float(pm["lastFundingRate"]) * 100, 4)
             if abs(snap["funding_pct"]) >= 0.1:
                 alerts.append(f"资金费率异常 {snap['funding_pct']:+.3f}%/8h")
-            d = get_json(f"https://fapi.binance.com/fapi/v1/depth?symbol={pair}&limit=100", a.proxy)
+            d = bn_json(f"/fapi/v1/depth?symbol={pair}&limit=100", a.proxy)
             bids, asks = d["bids"], d["asks"]
             mid = (float(bids[0][0]) + float(asks[0][0])) / 2
             depth = sum(float(pp) * float(q) for pp, q in bids if float(pp) >= mid * 0.99)
@@ -184,7 +203,7 @@ def main():
                 big = []
 
             # 对倒检测：事件数 ≠ 净换手。链上可以 A→B→C→A 反复搬同一批币，每次都是新 event_id，
-            # 只按「新增大额转账」报警会被搬运刷爆（EVAA 实测对倒指数 2.87x）。
+            # 只按「新增大额转账」报警会被搬运刷爆（实测对倒指数可到 2.87x）。
             # 改成以「top100 地址余额净变化」为真信号，搬运只在无净变化时降级记录。
             try:
                 jet = get_json(f"https://tonapi.io/v2/jettons/{jetton}", a.proxy)
