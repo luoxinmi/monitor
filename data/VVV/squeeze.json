@@ -1,1 +1,1 @@
-{"symbol":"VVV","updated":1795295848,"price":24.089,"windows":[{"w":"60m","ret_pct":0.263,"from":24.0258121141,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":9042248.23,"left_short":9042248.23}],"group":{"gid":"g119","fund_usd":3079330.69},"method":"short_ladder_30d_lifo"}
+{"symbol":"VVV","updated":1795299440,"price":23.95,"windows":[{"w":"8m","ret_pct":0.436,"from":23.8460313035,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":9042248.23,"left_short":9042248.23}],"group":{"gid":"g119","fund_usd":3079330.69},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"BILL","updated":1795295848,"price":0.003935,"windows":[{"w":"60m","ret_pct":0.511,"from":0.0039149944,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1046788.06,"left_short":1046788.06}],"group":{"gid":"g040","fund_usd":3092721.31},"method":"short_ladder_30d_lifo"}
+{"symbol":"BILL","updated":1795299440,"price":0.003906,"windows":[{"w":"8m","ret_pct":0.128,"from":0.0039010067,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1046788.06,"left_short":1046788.06}],"group":{"gid":"g040","fund_usd":3092721.31},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"BIO","updated":1795292914,"price":0.0149,"windows":[{"w":"60m","ret_pct":0.202,"from":0.0148699627,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1253169.79}],"group":{"gid":"g053","fund_usd":3029717.38},"method":"short_ladder_30d_lifo"}
+{"symbol":"BIO","updated":1795299440,"price":0.01473,"windows":[{"w":"8m","ret_pct":0.136,"from":0.0147099944,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1253169.79,"left_short":1253169.79}],"group":{"gid":"g053","fund_usd":3029717.38},"method":"short_ladder_30d_lifo"}

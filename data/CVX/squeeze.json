@@ -1,1 +1,1 @@
-{"symbol":"CVX","updated":1795292914,"price":1.144,"windows":[{"w":"8m","ret_pct":0.087,"from":1.1430055851,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":783250.85}],"group":{"gid":"g030","fund_usd":3027427.52},"method":"short_ladder_30d_lifo"}
+{"symbol":"CVX","updated":1795299440,"price":1.137,"windows":[{"w":"8m","ret_pct":0.265,"from":1.1339949135,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":783250.85,"left_short":783250.85}],"group":{"gid":"g030","fund_usd":3027427.52},"method":"short_ladder_30d_lifo"}

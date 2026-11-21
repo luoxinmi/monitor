@@ -1,1 +1,1 @@
-{"symbol":"NOM","updated":1795292914,"price":0.001199,"windows":[{"w":"60m","ret_pct":0.167,"from":0.001197001,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":1179074.18}],"group":{"gid":"g007","fund_usd":3049671.16},"method":"short_ladder_30d_lifo"}
+{"symbol":"NOM","updated":1795299440,"price":0.001182,"windows":[{"w":"8m","ret_pct":0.169,"from":0.0011800058,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1179074.18,"left_short":1179074.18}],"group":{"gid":"g007","fund_usd":3049671.16},"method":"short_ladder_30d_lifo"}

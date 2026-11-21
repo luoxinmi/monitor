@@ -1,1 +1,1 @@
-{"symbol":"APT","updated":1795295848,"price":0.3711,"windows":[{"w":"60m","ret_pct":0.027,"from":0.37099983,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6635207.17,"left_short":6635207.17}],"group":{"gid":"g065","fund_usd":396276377.88},"method":"short_ladder_30d_lifo"}
+{"symbol":"APT","updated":1795299440,"price":0.368,"windows":[{"w":"8m","ret_pct":0.245,"from":0.3671006035,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6635207.17,"left_short":6635207.17}],"group":{"gid":"g065","fund_usd":396276377.88},"method":"short_ladder_30d_lifo"}

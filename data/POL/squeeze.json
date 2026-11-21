@@ -1,1 +1,1 @@
-{"symbol":"POL","updated":1795292914,"price":0.07575,"windows":[{"w":"8m","ret_pct":0.106,"from":0.07566979,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":4898866.16}],"group":{"gid":"g065","fund_usd":396276377.88},"method":"short_ladder_30d_lifo"}
+{"symbol":"POL","updated":1795299440,"price":0.07525,"windows":[{"w":"8m","ret_pct":0.12,"from":0.0751598082,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4898866.16,"left_short":4898866.16}],"group":{"gid":"g065","fund_usd":396276377.88},"method":"short_ladder_30d_lifo"}

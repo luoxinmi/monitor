@@ -1,1 +1,1 @@
-{"symbol":"HANA","updated":1795292914,"price":0.012,"windows":[{"w":"8m","ret_pct":0.083,"from":0.0119900483,"N":0,"L":0,"uN":0.0,"uL":0.0,"alive_short":2366396.2}],"group":{"gid":"g084","fund_usd":1751923.71},"method":"short_ladder_30d_lifo"}
+{"symbol":"HANA","updated":1795299440,"price":0.01202,"windows":[{"w":"60m","ret_pct":0.25,"from":0.0119900249,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2366396.2,"left_short":2366396.2}],"group":{"gid":"g084","fund_usd":1751923.71},"method":"short_ladder_30d_lifo"}
