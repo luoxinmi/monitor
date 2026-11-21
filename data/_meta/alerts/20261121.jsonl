@@ -1,0 +1,23 @@
+{"ts":1795293151,"sym":"AKE","kind":"price","val":-16.25,"msg":"24h -16.3%"}
+{"ts":1795293151,"sym":"BARD","kind":"funding","val":-0.8607,"msg":"费率 -0.861%"}
+{"ts":1795293151,"sym":"BULLA","kind":"price","val":15.52,"msg":"24h +15.5%"}
+{"ts":1795293151,"sym":"CYBER","kind":"funding","val":-0.8581,"msg":"费率 -0.858%"}
+{"ts":1795293151,"sym":"DODOX","kind":"price","val":17.08,"msg":"24h +17.1%"}
+{"ts":1795293151,"sym":"DOS","kind":"price","val":-15.38,"msg":"24h -15.4%"}
+{"ts":1795293151,"sym":"ENSO","kind":"funding","val":-0.6322,"msg":"费率 -0.632%"}
+{"ts":1795293151,"sym":"HOT","kind":"funding","val":-0.195,"msg":"费率 -0.195%"}
+{"ts":1795293151,"sym":"IDOL","kind":"price","val":86.36,"msg":"24h +86.4%"}
+{"ts":1795293151,"sym":"KAVA","kind":"funding","val":-0.1432,"msg":"费率 -0.143%"}
+{"ts":1795293151,"sym":"MMT","kind":"price","val":-16.0,"msg":"24h -16.0%"}
+{"ts":1795293151,"sym":"NAORIS","kind":"price","val":15.92,"msg":"24h +15.9%"}
+{"ts":1795293151,"sym":"ORCA","kind":"funding","val":-0.1243,"msg":"费率 -0.124%"}
+{"ts":1795293151,"sym":"PIEVERSE","kind":"price","val":21.67,"msg":"24h +21.7%"}
+{"ts":1795293151,"sym":"RARE","kind":"funding","val":-1.0549,"msg":"费率 -1.055%"}
+{"ts":1795293151,"sym":"SKYAI","kind":"price","val":33.72,"msg":"24h +33.7%"}
+{"ts":1795293151,"sym":"STEEM","kind":"funding","val":-0.1228,"msg":"费率 -0.123%"}
+{"ts":1795293151,"sym":"VVV","kind":"price","val":21.19,"msg":"24h +21.2%"}
+{"ts":1795293151,"sym":"YB","kind":"price","val":17.16,"msg":"24h +17.2%"}
+{"ts":1795293151,"sym":"YB","kind":"funding","val":-0.3475,"msg":"费率 -0.347%"}
+{"ts":1795293151,"sym":"IDOL","kind":"squeeze_8m","val":5.564,"msg":"8m 爆拉 +5.6% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795293151,"sym":"IDOL","kind":"squeeze_30m","val":8.653,"msg":"30m 爆拉 +8.7% → 扫空头 $0.23M，损失 $14K（组基金 0.7%）"}
+{"ts":1795293151,"sym":"IDOL","kind":"squeeze_60m","val":12.182,"msg":"60m 爆拉 +12.2% → 扫空头 $0.23M，损失 $14K（组基金 0.7%）"}
