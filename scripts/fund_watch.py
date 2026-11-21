@@ -8,7 +8,7 @@ GitHub Actions runner 在美国，直连 `fapi.binance.com` 返回 **451**；
 （insuranceBalance / openInterest / klines / premiumIndex / futures/data 全部可用）。
 所以云端采样不需要代理，换个域名即可。
 
-输出：data/fund/YYYYMM.jsonl，每小时一行，字段：
+输出：data/fund/YYYYMM.jsonl，每次采样一行（fund-watch 仓库 cron 5 分钟；monitor 的 sample step 每小时一次），字段：
   {"ts", "sym", "group_fund_usdt", "group_syms", "oi", "price"}
 同一行还带 Gate 日级余额（Gate 全球可达）。
 """
