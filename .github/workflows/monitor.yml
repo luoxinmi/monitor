@@ -1,0 +1,62 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 * * * *" # 每小时（私有仓库 Actions 2000 分钟/月，留余量）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        symbol: [EVAA]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: install deps
+        run: pip install requests
+
+      - name: run monitor
+        id: mon
+        run: |
+          set +e
+          mkdir -p "data/state"
+          python scripts/monitor.py --symbol "${{ matrix.symbol }}" --out "data/state" --json > "data/state/latest.json"
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: commit state
+        run: |
+          git config user.name "dsh-monitor"
+          git config user.email "dsh-monitor@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "update $(date -u +%FT%TZ)"
+          git push
+
+      - name: webhook (optional)
+        if: steps.mon.outputs.code == '2'
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: |
+          if [ -z "$WEBHOOK_URL" ]; then echo "no webhook, skip"; exit 0; fi
+          python - <<'PY'
+          import json, os, urllib.request
+          d = json.load(open(f"data/state/latest.json"))
+          msg = "\n".join([f"{d['symbol']} 监控异常"] + d["alerts"])
+          req = urllib.request.Request(
+              os.environ["WEBHOOK_URL"],
+              data=json.dumps({"content": msg}).encode(),
+              headers={"Content-Type": "application/json"},
+          )
+          urllib.request.urlopen(req, timeout=10)
+          print("webhook sent")
+          PY

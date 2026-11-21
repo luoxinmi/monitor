@@ -1,0 +1,41 @@
+{
+  "_comment": "币种配置：monitor/onchain/unlock 等脚本按 --symbol 查这里；没有的币走默认推导（EVAA 只是实测案例，不是唯一目标）",
+  "default": {
+    "binance": "{SYM}USDT",
+    "gate": "{SYM}_USDT",
+    "network": "ton",
+    "jetton": null,
+    "docs": null,
+    "max_supply": null,
+    "unlock_page": null
+  },
+  "EVAA": {
+    "name": "EVAA Protocol",
+    "binance": "EVAAUSDT",
+    "gate": "EVAA_USDT",
+    "network": "ton",
+    "jetton": "0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681",
+    "docs": "https://evaa.gitbook.io/evaa-docs-2.0/details-of-protocol/token-and-tokenomics/tokenomics.md",
+    "max_supply": 50000000,
+    "unlock_page": "https://billibo6.github.io/unlockpulse/unlock/evaa.html",
+    "coingecko": "evaa-protocol"
+  },
+  "BONK": {
+    "binance": "BONKUSDT",
+    "gate": "BONK_USDT",
+    "network": "solana",
+    "jetton": null,
+    "docs": null,
+    "max_supply": null,
+    "unlock_page": null
+  },
+  "BTC": {
+    "binance": "BTCUSDT",
+    "gate": "BTC_USDT",
+    "network": null,
+    "jetton": null,
+    "docs": null,
+    "max_supply": null,
+    "unlock_page": null
+  }
+}
