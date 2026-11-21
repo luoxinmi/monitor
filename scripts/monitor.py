@@ -192,6 +192,21 @@ def main():
     with open(state_path, "w") as f:
         json.dump(snap, f, ensure_ascii=False, indent=1)
 
+    # 历史序列（供 Pages 看板画曲线；保留最近 2000 行）
+    hist_path = os.path.join(a.out, "history.jsonl")
+    try:
+        with open(hist_path, "a") as f:
+            f.write(json.dumps({
+                "t": snap["updated"], "price": snap.get("price"), "oi": snap.get("oi_usd"),
+                "depth": snap.get("depth_1pct_usd"), "funding": snap.get("funding_pct"),
+                "source": snap.get("source"),
+            }, ensure_ascii=False) + "\n")
+        lines = open(hist_path).read().splitlines()[-2000:]
+        with open(hist_path, "w") as f:
+            f.write("\n".join(lines) + "\n")
+    except Exception:
+        pass
+
     result = {"symbol": sym, "updated": snap["updated"], "alerts": alerts, "snapshot": snap}
     if a.json:
         print(json.dumps(result, ensure_ascii=False, indent=1))
