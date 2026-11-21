@@ -1,0 +1,18 @@
+{
+ "symbol": "EVAA",
+ "pair": "EVAAUSDT",
+ "price": 6.0355,
+ "price_24h_pct": 3.11,
+ "funding_pct": 0.01,
+ "oi_usd": 10447215.435,
+ "depth_1pct_usd": 18173.679,
+ "source": "gate",
+ "event_ids": [
+  "3f962cf12b16fa88eaed8875945dd07da4cdb09267029bf6d6ed8ac35113b2c4",
+  "6b3135166199c03181b63657ef1671468cd670e01dc75bb3cc609259a3b111cf",
+  "e2985d215a5a85b2428543e160534dbc8caffb423f3fad8c9cb95c8a345355ca",
+  "2da64bdc349568425e4cadc6f90277b74dd6dc67718aadcd8ed03467bc3c2b9f"
+ ],
+ "holders": 100,
+ "updated": 1795265743
+}
