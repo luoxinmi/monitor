@@ -2,7 +2,7 @@ name: coin-monitor
 
 on:
   schedule:
-    - cron: "0 * * * *" # 每小时（公开仓库 Actions 免费；延迟几分钟属正常）
+    - cron: "7 * * * *" # 每小时（避开整点：官方说整点高负载会延迟甚至丢任务）
   workflow_dispatch:
 
 permissions:
