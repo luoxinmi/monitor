@@ -1,13 +1,12 @@
-name: update
+name: coin-monitor
 
 on:
   schedule:
-    - cron: "0 * * * *" # 每小时（私有仓库 Actions 2000 分钟/月，留余量）
+    - cron: "0 * * * *" # 每小时（公开仓库 Actions 免费；延迟几分钟属正常）
   workflow_dispatch:
 
 permissions:
   contents: write
-  issues: write
 
 jobs:
   monitor:
@@ -15,6 +14,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
+        # 多币监控：加名字即可（每币独立 data/<SYM>/）
         symbol: [EVAA]
     steps:
       - uses: actions/checkout@v4
@@ -30,8 +30,8 @@ jobs:
         id: mon
         run: |
           set +e
-          mkdir -p "data/state"
-          python scripts/monitor.py --symbol "${{ matrix.symbol }}" --out "data/state" --json > "data/state/latest.json"
+          mkdir -p "data/${{ matrix.symbol }}"
+          python scripts/monitor.py --symbol "${{ matrix.symbol }}" --no-binance --out "data/${{ matrix.symbol }}" --json > "data/${{ matrix.symbol }}/latest.json"
           echo "code=$?" >> "$GITHUB_OUTPUT"
 
       - name: commit state
@@ -50,7 +50,7 @@ jobs:
           if [ -z "$WEBHOOK_URL" ]; then echo "no webhook, skip"; exit 0; fi
           python - <<'PY'
           import json, os, urllib.request
-          d = json.load(open(f"data/state/latest.json"))
+          d = json.load(open(f"data/${{ matrix.symbol }}/latest.json"))
           msg = "\n".join([f"{d['symbol']} 监控异常"] + d["alerts"])
           req = urllib.request.Request(
               os.environ["WEBHOOK_URL"],

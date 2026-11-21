@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
 """轻量监控（普适，--symbol 任意币）：价格 / OI / 费率 / 盘口 /（TON 币）链上大额转账。
 
-数据源自动降级（重要）：
-  - 优先币安 fapi（本机经代理；GitHub Actions 的美国 IP 会被 451 拒绝）；
-  - 币安不可用时自动改用 **Gate 永续**（tickers + contract_stats + order_book，全球可用）；
-  - 链上部分只在 profile 里配了 jetton 的 TON 币才跑（tonapi 直连，runner 也可用）。
+分工约定（2026-11-21 用户定）：
+  - **本地 DSH**：用币安等「平台数据」做分析（本机有代理，币安直连没问题）；
+  - **GitHub Actions**：只跑 Gate + 链上（runner 在美国，币安 451、Bybit 403）——用 --no-binance。
+
+数据源：
+  - 默认优先币安 fapi，不可用时自动降级 **Gate 永续**（tickers + contract_stats + order_book）；
+  - 链上部分只在 profile 里配了 jetton 的 TON 币才跑（tonapi 直连，runner 可用）。
 
 用法:
     python3 monitor.py --symbol EVAA --out /tmp/monitor                    # 海外直连
     python3 monitor.py --symbol EVAA --out /tmp/monitor --proxy http://127.0.0.1:7890
+    python3 monitor.py --symbol EVAA --out /tmp/monitor --no-binance      # GitHub Actions 用
     python3 monitor.py --symbol BTC --out /tmp/monitor --json
 
 状态文件 <out>/state.json；首次只建基线；异常退出码 2。
@@ -61,6 +65,8 @@ def main():
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--jetton", default="")
     ap.add_argument("--min-amount", type=float, default=0)
+    ap.add_argument("--no-binance", action="store_true",
+                    help="跳过币安直接用 Gate（GitHub Actions 的美国 IP 会 451）")
     a = ap.parse_args()
     prof = load_profile(a.symbol)
     sym, pair = prof["symbol"], prof["binance"]
@@ -70,6 +76,7 @@ def main():
     old = json.load(open(state_path)) if os.path.exists(state_path) else {}
     alerts, snap = [], {"symbol": sym, "pair": pair}
     min_amount = a.min_amount or 3000
+    source = None
 
     def add(name, cur, key, pct_threshold):
         prev = old.get(key)
@@ -80,41 +87,41 @@ def main():
                 alerts.append(f"{name} {chg:+.1f}%（前值 {prev:,.2f} → {cur:,.2f}）")
         snap[key] = cur
 
-    source = None
-    # ---- 币安优先 ----
-    try:
-        source = "binance"
-        px = get_json(f"https://fapi.binance.com/fapi/v1/ticker/price?symbol={pair}", a.proxy)
-        p = float(px["price"])
-        snap["price"] = p
-        prev = old.get("price")
-        if prev and abs(p - prev) / prev * 100 >= 5:
-            alerts.append(f"价格 {p:,.4f}（较上次 {(p-prev)/prev*100:+.1f}%）")
-        t24 = get_json(f"https://fapi.binance.com/fapi/v1/ticker/24hr?symbol={pair}", a.proxy)
-        snap["price_24h_pct"] = float(t24["priceChangePercent"])
-        oi = get_json(f"https://fapi.binance.com/futures/data/openInterestHist?symbol={pair}&period=1h&limit=2", a.proxy)
-        add("OI", float(oi[-1]["sumOpenInterestValue"]), "oi_usd", 10)
-        pm = get_json(f"https://fapi.binance.com/fapi/v1/premiumIndex?symbol={pair}", a.proxy)
-        snap["funding_pct"] = round(float(pm["lastFundingRate"]) * 100, 4)
-        if abs(snap["funding_pct"]) >= 0.1:
-            alerts.append(f"资金费率异常 {snap['funding_pct']:+.3f}%/8h")
-        d = get_json(f"https://fapi.binance.com/fapi/v1/depth?symbol={pair}&limit=100", a.proxy)
-        bids, asks = d["bids"], d["asks"]
-        mid = (float(bids[0][0]) + float(asks[0][0])) / 2
-        lo = mid * 0.99
-        depth = sum(float(p) * float(q) for p, q in bids if float(p) >= lo)
-        snap["depth_1pct_usd"] = round(depth)
-        add("±1% 买盘深度", depth, "depth_1pct_usd", 30)
-        source = "binance"
-    except Exception as e:
-        source = None
-        alerts.append(f"币安不可用（{str(e)[:40]}），改用 Gate")
+    # ---- 币安（本地分析环境用）----
+    if not a.no_binance:
+        try:
+            source = "binance"
+            px = get_json(f"https://fapi.binance.com/fapi/v1/ticker/price?symbol={pair}", a.proxy)
+            p = float(px["price"])
+            snap["price"] = p
+            prev = old.get("price")
+            if prev and abs(p - prev) / prev * 100 >= 5:
+                alerts.append(f"价格 {p:,.4f}（较上次 {(p-prev)/prev*100:+.1f}%）")
+            t24 = get_json(f"https://fapi.binance.com/fapi/v1/ticker/24hr?symbol={pair}", a.proxy)
+            snap["price_24h_pct"] = float(t24["priceChangePercent"])
+            oi = get_json(f"https://fapi.binance.com/futures/data/openInterestHist"
+                          f"?symbol={pair}&period=1h&limit=2", a.proxy)
+            add("OI", float(oi[-1]["sumOpenInterestValue"]), "oi_usd", 10)
+            pm = get_json(f"https://fapi.binance.com/fapi/v1/premiumIndex?symbol={pair}", a.proxy)
+            snap["funding_pct"] = round(float(pm["lastFundingRate"]) * 100, 4)
+            if abs(snap["funding_pct"]) >= 0.1:
+                alerts.append(f"资金费率异常 {snap['funding_pct']:+.3f}%/8h")
+            d = get_json(f"https://fapi.binance.com/fapi/v1/depth?symbol={pair}&limit=100", a.proxy)
+            bids, asks = d["bids"], d["asks"]
+            mid = (float(bids[0][0]) + float(asks[0][0])) / 2
+            depth = sum(float(pp) * float(q) for pp, q in bids if float(pp) >= mid * 0.99)
+            snap["depth_1pct_usd"] = round(depth)
+            add("±1% 买盘深度", depth, "depth_1pct_usd", 30)
+        except Exception as e:
+            source = None
+            alerts.append(f"币安不可用（{str(e)[:40]}），改用 Gate")
 
-    # ---- Gate 降级 ----
+    # ---- Gate（GitHub Actions / 降级）----
     if source is None:
         try:
             source = "gate"
-            t = get_json(f"https://api.gateio.ws/api/v4/futures/usdt/tickers?contract={gate_contract}", a.proxy)[0]
+            t = get_json(f"https://api.gateio.ws/api/v4/futures/usdt/tickers?contract={gate_contract}",
+                         a.proxy)[0]
             snap["price"] = float(t["last"])
             snap["price_24h_pct"] = float(t.get("change_percentage") or 0)
             prev = old.get("price")
@@ -130,10 +137,9 @@ def main():
                           f"?contract={gate_contract}&limit=100", a.proxy)
             bids = [[x["p"], x["s"]] for x in ob.get("bids", [])]
             mid = float(bids[0][0]) if bids else snap["price"]
-            depth = sum(float(p) * float(q) for p, q in bids if float(p) >= mid * 0.99)
+            depth = sum(float(pp) * float(q) for pp, q in bids if float(pp) >= mid * 0.99)
             snap["depth_1pct_usd"] = round(depth)
             add("±1% 买盘深度", depth, "depth_1pct_usd", 30)
-            source = "gate"
         except Exception as e:
             alerts.append(f"Gate 也失败: {str(e)[:60]}")
 
