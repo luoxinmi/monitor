@@ -31,7 +31,7 @@ jobs:
         run: |
           set +e
           mkdir -p "data/${{ matrix.symbol }}"
-          python scripts/monitor.py --symbol "${{ matrix.symbol }}" --no-binance --out "data/${{ matrix.symbol }}" --json > "data/${{ matrix.symbol }}/latest.json"
+          python scripts/monitor.py --symbol "${{ matrix.symbol }}" --no-binance --min-amount 3000 --out "data/${{ matrix.symbol }}" --json > "data/${{ matrix.symbol }}/latest.json"
           echo "code=$?" >> "$GITHUB_OUTPUT"
 
       - name: commit state
