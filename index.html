@@ -32,6 +32,8 @@
 <canvas id="c2" height="140"></canvas>
 <div class="chart-title">±1% 买盘深度（千美元）</div>
 <canvas id="c3" height="140"></canvas>
+<div class="chart-title">保险基金（币安组，百万美元）· 来自 fund-watch</div>
+<canvas id="c4" height="140"></canvas>
 <div id="alerts"></div>
 
 <script>
@@ -61,12 +63,23 @@ function draw(id, data, key, color, mul = 1) {
   ctx.fillText(min.toFixed(2), 4, H - 4);
 }
 
+const FUND_URL = () => {
+  const d = new Date();
+  const ym = d.getUTCFullYear() + String(d.getUTCMonth() + 1).padStart(2, '0');
+  return `https://raw.githubusercontent.com/luoxinmi/fund-watch/main/data/fund/${ym}.jsonl`;
+};
+
 async function refresh() {
   try {
-    const [r, h] = await Promise.all([
+    const [r, h, f] = await Promise.all([
       fetch(BASE + 'latest.json?t=' + Date.now()).then(x => x.json()),
       fetch(BASE + 'history.jsonl?t=' + Date.now()).then(x => x.text()).catch(() => ''),
+      fetch(FUND_URL() + '?t=' + Date.now()).then(x => x.text()).catch(() => ''),
     ]);
+    const fundRows = (f || '').trim().split('\n').filter(Boolean).map(x => {
+      try { return JSON.parse(x) } catch (e) { return null }
+    }).filter(x => x && x.sym === 'EVAA');
+    const fund = fundRows.length ? (fundRows[fundRows.length - 1].group_fund_usdt / 1e6) : null;
     const s = r.snapshot || {};
     $('ts').textContent = new Date(r.updated * 1000).toLocaleString() + ' 更新 · 源 ' + (s.source || '—');
     $('cards').innerHTML = [
@@ -74,11 +87,13 @@ async function refresh() {
       ['OI', '$' + fmtK(s.oi_usd), ''],
       ['资金费率', fmt(s.funding_pct, 4) + '%', '/8h'],
       ['±1% 买盘', '$' + fmtK(s.depth_1pct_usd), ''],
+      ['基金(币安组)', fund == null ? '—' : ('$' + fmtK(fund)), '全所池'],
     ].map(([k, v, d]) => `<div class="card"><div class="k">${k}</div><div class="v">${v} <small>${d}</small></div></div>`).join('');
     const hist = h.trim().split('\n').filter(Boolean).map(x => { try { return JSON.parse(x) } catch (e) { return null } }).filter(Boolean).slice(-48);
     draw('c1', hist, 'price', '#4ade80', 1);
     draw('c2', hist, 'oi', '#38bdf8', 1 / 1e6);
     draw('c3', hist, 'depth', '#fbbf24', 1 / 1e3);
+    draw('c4', fundRows.slice(-48), 'group_fund_usdt', '#a78bfa', 1 / 1e6);
     $('alerts').innerHTML = (r.alerts && r.alerts.length)
       ? r.alerts.map(a => `<div class="alert">${a}</div>`).join('')
       : '<div class="ok">无异常</div>';
