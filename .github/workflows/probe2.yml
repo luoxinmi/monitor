@@ -1,0 +1,28 @@
+name: probe2
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: try binance mirrors for insuranceBalance
+        run: |
+          for host in fapi1.binance.com fapi2.binance.com fapi3.binance.com fapi4.binance.com; do
+            code=$(curl -s -o /tmp/o.json -w "%{http_code}" -m 12 "https://$host/fapi/v1/insuranceBalance?limit=3" || true)
+            echo "$host -> $code $(head -c 80 /tmp/o.json 2>/dev/null)"
+          done
+          echo "=== www + fapi path ==="
+          curl -s -o /tmp/w.json -w "www/fapi -> %{http_code}\n" -m 12 "https://www.binance.com/fapi/v1/insuranceBalance?limit=3" || true
+          head -c 120 /tmp/w.json 2>/dev/null; echo
+          echo "=== bapi candidates ==="
+          for path in \
+            "futures/v1/friendly/future/common/insurance-fund" \
+            "futures/v1/public/future/insurance-fund" \
+            "futures/v1/friendly/future/common/insurance" \
+            "futures/v1/public/future/common/insurance"; do
+            code=$(curl -s -o /tmp/b.json -w "%{http_code}" -m 12 "https://www.binance.com/bapi/$path" || true)
+            echo "bapi/$path -> $code $(head -c 100 /tmp/b.json 2>/dev/null)"
+          done
+          echo "=== vision futures ==="
+          curl -s -o /dev/null -w "fapi.binance.vision -> %{http_code}\n" -m 12 "https://fapi.binance.vision/fapi/v1/insuranceBalance?limit=3" || true
+          curl -s -o /dev/null -w "data-api.binance.vision/kline -> %{http_code}\n" -m 12 "https://data-api.binance.vision/api/v3/klines?symbol=BTCUSDT&interval=1h&limit=1" || true
