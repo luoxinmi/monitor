@@ -417,6 +417,49 @@ def _squeeze_hit(rets):
     return hits
 
 
+def gate_daily_rows(c, gate_pair, days):
+    """Gate 日级 OI（USD）+ mark_price：长窗口 gap 的数据源（币安 openInterestHist 只有 ~30 天）。"""
+    d = c.get_json("https://api.gateio.ws/api/v4/futures/usdt/contract_stats"
+                   f"?contract={gate_pair}&interval=1d&limit={min(days, 1000)}")
+    rows = []
+    for x in d or []:
+        try:
+            oi = _num(x.get("open_interest_usd")) or 0.0
+            mpx = _num(x.get("mark_price")) or 0.0
+            t = int(x.get("time") or 0)
+            if oi <= 0 or mpx <= 0 or not t:
+                continue
+            rows.append((t // 86400, oi, mpx, mpx, mpx, mpx))
+        except (TypeError, ValueError):
+            continue
+    rows.sort()
+    return rows
+
+
+def long_window_gap(c, base, gate_pair, days, cur=None):
+    """长窗口（默认 180 天）gap：Gate 日级 OI + mark_price，LIFO 同口径。
+
+    口径注意：Gate OI 是单所（约币安 60%），绝对金额偏小；但缺口倍数（多头浮盈/存活空单）形状可比。
+    """
+    rows = gate_daily_rows(c, gate_pair, days)
+    if len(rows) < 5:
+        return None
+    cur = cur or rows[-1][5]
+    hist = []
+    for i in range(1, len(rows)):
+        sub = rows[max(0, i - days):i + 1]
+        g = compute_gap(sub, sub[-1][5], 0.5)
+        if g and g.get("gap_ratio") is not None:
+            hist.append({"d": time.strftime("%Y-%m-%d", time.gmtime(rows[i][0] * 86400)),
+                         "gap": g["gap_ratio"], "lp": g["long_pnl_usd"], "sa": g["short_alive_usd"]})
+    if not hist:
+        return None
+    best = max(hist, key=lambda x: x["gap"])
+    cur_gap = compute_gap(rows, cur, 0.5)
+    return {"window_days": len(rows), "gap": cur_gap, "max_gap": best,
+            "seq": len(hist), "method": "gate_daily_oi_mark_price"}
+
+
 def daily_rows(c, pair, days=30):
     """币安日级 OI 名义 + 日线 OHLC 对齐 → [(day, oi_usd, o, h, l, c)]。
 
@@ -581,7 +624,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="data")
     ap.add_argument("--proxy", default="")
-    ap.add_argument("--days", type=int, default=30)
+    ap.add_argument("--days", type=int, default=30, help="币安日级 OI 窗口（接口硬上限 ~30 天）")
+    ap.add_argument("--long-days", type=int, default=180,
+                    help="长窗口 gap 的天数（Gate 日级 OI，可达 1000 天）；0=关闭")
     ap.add_argument("--concurrency", type=int, default=10)
     ap.add_argument("--timeout", type=float, default=12)
     ap.add_argument("--limit", type=int, default=0, help="只跑前 N 个币（调试）")
@@ -818,6 +863,13 @@ def main():
                 cur = compute_gap(rows[-a.days:], rows[-1][5], 0.5)
                 best = max((x for x in hist if x.get("gap") is not None),
                            key=lambda x: x["gap"], default=None)
+                long_gap = None
+                if a.long_days and a.mode in ("full", "h4"):
+                    try:
+                        long_gap = long_window_gap(c, base, base + "_USDT", a.long_days,
+                                                   bn[base].get("p"))
+                    except Exception:
+                        long_gap = None
                 rets, sq = None, []
                 try:
                     rets = window_returns(c, pair)
@@ -828,7 +880,8 @@ def main():
                 except Exception:
                     rets, sq = None, []
                 return base, {"ok": True, "gap": cur, "hist": hist, "best": best,
-                              "days": len(rows), "rets": rets, "squeeze": sq}
+                              "days": len(rows), "rets": rets, "squeeze": sq,
+                              "long_window": long_gap}
             except Exception as e:
                 return base, {"ok": False, "err": str(e)[:120]}
 
@@ -876,6 +929,8 @@ def main():
             "method": "lifo_30d_binance_daily",
             "assumptions": "LIFO 30天 · 杠杆 10/8/5/3/2 (30/15/30/15/10) · MMR 0.4% · long_share 0.5",
         }
+        if g.get("long_window"):
+            gap_doc["long_window"] = g["long_window"]
         if g.get("squeeze"):
             gap_doc["window_ret_pct"] = g.get("rets")
             gap_doc["squeeze"] = g["squeeze"]
@@ -994,10 +1049,17 @@ def main():
                 if x.get("uL") is not None and (not sq_max or x["uL"] > sq_max.get("uL", 0)):
                     sq_max = {"symbol": b, "w": x["w"], "ret_pct": x["ret_pct"],
                               "uL": x["uL"], "uN": x.get("uN"), "L": x["L"]}
+        long_max = None
+        for b in members:
+            lw = (gaps.get(b) or {}).get("long_window") or {}
+            m = lw.get("max_gap")
+            if m and (long_max is None or m["gap"] > long_max["gap"]):
+                long_max = {"symbol": b, "gap": m["gap"], "day": m["d"],
+                            "window_days": lw.get("window_days")}
         doc = {"gid": g["gid"], "fund_usd": g["fund_usd"], "updated": now,
                "symbols": g["symbols"], "members": members,
                "group_max_gap_30d": best_all, "group_current_max_gap": cur_all,
-               "group_squeeze_max": sq_max}
+               "group_squeeze_max": sq_max, "group_long_max_gap": long_max}
         _write_json(os.path.join(out, "groups", f"{g['gid']}.json"), doc)
         group_index[g["gid"]] = {"fund_usd": g["fund_usd"], "n": len(g["symbols"]),
                                  "max_gap": best_all, "cur_max": cur_all}
