@@ -12,12 +12,16 @@
 |---|---|
 | ① 每币跨平台基本信息 | `data/<SYM>/venues.json`（价格 / 24h / 成交额 / OI / 费率 / 最大杠杆 / 上市时间） |
 | ② 基金变化 | 币安 124 个保险基金组（**一组共用一个基金池**）+ Gate 全站：`data/_meta/fund.json`、`data/fund/groups_YYYYMM.jsonl`、`data/groups/<gid>.json` |
-| ③ 图 16 输入：兑现缺口 + **组内历史最大缺口** | `data/<SYM>/gap.json`（当前 gap、30 天最大、所属组、组内最大） |
+| ③ 图 16 输入：兑现缺口 + **组内历史最大缺口** | `data/<SYM>/gap.json`（当前 gap、30 天最大、所属组、组内最大、长窗口 180 天） |
 | ④ 链上数据 / 链上交易（防对倒） | `data/<SYM>/latest.json`（watchlist 币，`monitor.py`；TON jetton 的 holder / 大额转账 / 余额净变动） |
 
 **时间尺度**：妖币在 8 分钟爆拉、30 分钟爆拉、1 小时持续逼空、4 小时逼空，造成的基金缺口不同。
 `data/<SYM>/squeeze.json` 按 **8m / 30m / 1h / 4h** 四个窗口给：被扫空头名义 `N`、穿仓损失 `L`、
-相对组基金池的 `uN` / `uL`。
+相对组基金池的 `uN` / `uL`（1m K 线一次请求覆盖全部窗口，不靠采样历史）。
+
+**历史长度**：币安 `openInterestHist` 只有约 **30 天**（硬上限）；更远用 Gate `contract_stats`
+日级（`open_interest_usd`，实测可回 1000 天）→ `gap.json.long_window`（默认 180 天，
+`--long-days` 可调，0=关；Gate 单所 OI ≈ 币安 60%，绝对金额偏小、倍数形状可比）。
 
 ## 四档频率
 

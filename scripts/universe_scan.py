@@ -57,8 +57,9 @@ class Client:
             try:
                 req = urllib.request.Request(url, headers={**UA, **(headers or {})},
                                              method=method, data=data)
-                op = self.opener or urllib.request
-                with (op.open(req, timeout=timeout or self.timeout) as r):
+                t = timeout or self.timeout
+                opener = self.opener.open if self.opener else urllib.request.urlopen
+                with opener(req, timeout=t) as r:
                     return json.loads(r.read().decode())
             except urllib.error.HTTPError as e:
                 last = e
