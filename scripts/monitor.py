@@ -238,6 +238,19 @@ def main():
         except Exception as e:
             alerts.append(f"链上失败: {str(e)[:60]}")
 
+    # ---- 兑现缺口（GitHub 端指标：多头浮盈 / 存活空单；独立 try，失败不影响主快照）----
+    # 数据会随 latest.json / history.jsonl 一起 commit 进仓库，不受 Actions 日志 90 天限制。
+    if snap.get("price"):
+        try:
+            from gap_ratio import compute_gap as _cg, fetch_daily as _fd, fetch_long_share as _fls
+            _daily = _fd(pair, a.proxy)
+            _ls = _fls(pair, a.proxy)
+            _gap = _cg(_daily, snap["price"], _ls) if _daily else None
+            if _gap:
+                snap["gap"] = _gap
+        except Exception as e:
+            snap["gap_error"] = str(e)[:120]
+
     snap["updated"] = int(time.time())
     with open(state_path, "w") as f:
         json.dump(snap, f, ensure_ascii=False, indent=1)
@@ -246,9 +259,12 @@ def main():
     hist_path = os.path.join(a.out, "history.jsonl")
     try:
         with open(hist_path, "a") as f:
+            _g = snap.get("gap") or {}
             f.write(json.dumps({
                 "t": snap["updated"], "price": snap.get("price"), "oi": snap.get("oi_usd"),
                 "depth": snap.get("depth_1pct_usd"), "funding": snap.get("funding_pct"),
+                "gap": _g.get("gap_ratio"), "long_pnl": _g.get("long_pnl_usd"),
+                "short_alive": _g.get("short_alive_usd"),
                 "source": snap.get("source"),
             }, ensure_ascii=False) + "\n")
         lines = open(hist_path).read().splitlines()[-2000:]
