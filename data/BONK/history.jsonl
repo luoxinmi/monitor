@@ -3,3 +3,4 @@
 {"t": 1795272461, "price": 2.061e-06, "oi": 353529.9, "depth": 0.041139838, "funding": -0.0107, "source": "gate"}
 {"t": 1795284245, "price": 2.043e-06, "oi": 343581.94, "depth": 0.036944775, "funding": 0.0025, "source": "gate"}
 {"t": 1795289292, "price": 2.028e-06, "oi": 342597.72, "depth": 0.055791323999999996, "funding": -0.009, "gap": null, "long_pnl": null, "short_alive": null, "source": "gate"}
+{"t": 1795289489, "price": 2.033e-06, "oi": 342597.72, "depth": 0.06603263300000001, "funding": -0.0081, "gap": null, "long_pnl": null, "short_alive": null, "source": "gate"}

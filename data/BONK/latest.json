@@ -1,20 +1,19 @@
 {
  "symbol": "BONK",
- "updated": 1795289292,
+ "updated": 1795289489,
  "alerts": [
-  "币安不可用（HTTP Error 400: Bad Request），改用 Gate",
-  "±1% 买盘深度 +51.0%（前值 0.04 → 0.06）"
+  "币安不可用（HTTP Error 400: Bad Request），改用 Gate"
  ],
  "snapshot": {
   "symbol": "BONK",
   "pair": "BONKUSDT",
-  "price": 2.028e-06,
-  "price_24h_pct": -1.27,
-  "funding_pct": -0.009,
+  "price": 2.033e-06,
+  "price_24h_pct": -0.78,
+  "funding_pct": -0.0081,
   "oi_usd": 342597.72,
-  "depth_1pct_usd": 0.055791323999999996,
+  "depth_1pct_usd": 0.06603263300000001,
   "source": "gate",
   "gap_error": "HTTP Error 400: Bad Request",
-  "updated": 1795289292
+  "updated": 1795289489
  }
 }
