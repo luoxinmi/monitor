@@ -1,16 +1,18 @@
 {
  "symbol": "BONK",
- "updated": 1795271842,
- "alerts": [],
+ "updated": 1795272324,
+ "alerts": [
+  "±1% 买盘深度 +31.3%（前值 0.04 → 0.05）"
+ ],
  "snapshot": {
   "symbol": "BONK",
   "pair": "BONKUSDT",
-  "price": 2.054e-06,
-  "price_24h_pct": -4.6,
-  "funding_pct": -0.0159,
+  "price": 2.059e-06,
+  "price_24h_pct": -3.38,
+  "funding_pct": -0.0118,
   "oi_usd": 353529.9,
-  "depth_1pct_usd": 0.038000524,
+  "depth_1pct_usd": 0.049907068,
   "source": "gate",
-  "updated": 1795271842
+  "updated": 1795272324
  }
 }
