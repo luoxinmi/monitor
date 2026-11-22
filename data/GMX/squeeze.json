@@ -1,1 +1,1 @@
-{"symbol":"GMX","updated":1795351349,"price":7.41,"windows":[{"w":"8m","ret_pct":0.325,"from":7.3859955146,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1411909.65,"left_short":1411909.65}],"group":{"gid":"g069","fund_usd":3123319.38},"method":"short_ladder_30d_lifo"}
+{"symbol":"GMX","updated":1795364247,"price":7.329,"windows":[{"w":"60m","ret_pct":0.109,"from":7.3210200881,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1411909.65,"left_short":1411909.65}],"group":{"gid":"g069","fund_usd":3123319.38},"method":"short_ladder_30d_lifo"}

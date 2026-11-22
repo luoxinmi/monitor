@@ -1,1 +1,1 @@
-{"symbol":"ANKR","updated":1795351349,"price":0.003021,"windows":[{"w":"8m","ret_pct":0.133,"from":0.0030169874,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":623818.25,"left_short":623818.25}],"group":{"gid":"g069","fund_usd":3123319.38},"method":"short_ladder_30d_lifo"}
+{"symbol":"ANKR","updated":1795364247,"price":0.003008,"windows":[{"w":"60m","ret_pct":0.334,"from":0.0029979867,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":623818.25,"left_short":623818.25}],"group":{"gid":"g069","fund_usd":3123319.38},"method":"short_ladder_30d_lifo"}

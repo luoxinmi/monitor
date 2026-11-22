@@ -1,1 +1,1 @@
-{"symbol":"GRVT","updated":1795360643,"price":0.1426,"windows":[{"w":"8m","ret_pct":0.423,"from":0.1419993428,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3306099.81,"left_short":3306099.81}],"group":{"gid":"g043","fund_usd":3082929.5},"method":"short_ladder_30d_lifo"}
+{"symbol":"GRVT","updated":1795364247,"price":0.1398,"windows":[{"w":"8m","ret_pct":0.863,"from":0.1386038488,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3306099.81,"left_short":3306099.81}],"group":{"gid":"g043","fund_usd":3082929.5},"method":"short_ladder_30d_lifo"}

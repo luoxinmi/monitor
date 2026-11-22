@@ -1,1 +1,1 @@
-{"symbol":"VTHO","updated":1795360643,"price":0.0004218,"windows":[{"w":"60m","ret_pct":0.024,"from":0.0004216988,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":668118.78,"left_short":668118.78}],"group":{"gid":"g017","fund_usd":1534215.85},"method":"short_ladder_30d_lifo"}
+{"symbol":"VTHO","updated":1795364247,"price":0.0004218,"windows":[{"w":"30m","ret_pct":0.024,"from":0.0004216988,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":668118.78,"left_short":668118.78}],"group":{"gid":"g017","fund_usd":1534215.85},"method":"short_ladder_30d_lifo"}
