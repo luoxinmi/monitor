@@ -184,7 +184,12 @@ def main():
                         jt = act.get("JettonTransfer")
                         if not jt:
                             continue
-                        amt = int(jt["amount"]) / 1e9
+                        # 只认目标 jetton：大户地址常同时持有多种代币（实测 EVAA 大户 events 里
+                        # 混着 HMSTR / BLUM / Gram），不过滤会把别的币当成本币报大额转账。
+                        jm = jt.get("jetton") or {}
+                        if (jm.get("address") or "").strip().lower() != jetton.strip().lower():
+                            continue
+                        amt = int(jt["amount"]) / 10 ** int(jm.get("decimals") or 9)
                         if amt < min_amount:
                             continue
                         eid = ev.get("event_id")
