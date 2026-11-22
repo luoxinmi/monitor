@@ -1,1 +1,1 @@
-{"symbol":"TRADOOR","updated":1795346242,"price":0.6017,"windows":[{"w":"30m","ret_pct":0.417,"from":0.5992013305,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2223461.63,"left_short":2223461.63}],"group":{"gid":"g007","fund_usd":3053572.28},"method":"short_ladder_30d_lifo"}
+{"symbol":"TRADOOR","updated":1795349841,"price":0.5986,"windows":[{"w":"8m","ret_pct":0.033,"from":0.5984025272,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2223461.63,"left_short":2223461.63}],"group":{"gid":"g007","fund_usd":3053572.28},"method":"short_ladder_30d_lifo"}
