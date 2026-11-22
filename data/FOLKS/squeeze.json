@@ -1,1 +1,1 @@
-{"symbol":"FOLKS","updated":1795371440,"price":2.479,"windows":[{"w":"8m","ret_pct":0.323,"from":2.4710186099,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3178725.79,"left_short":3178725.79}],"group":{"gid":"g032","fund_usd":2982636.41},"method":"short_ladder_30d_lifo"}
+{"symbol":"FOLKS","updated":1795379000,"price":2.476,"windows":[{"w":"8m","ret_pct":0.283,"from":2.4690126941,"N":23343.28,"L":0.0,"uN":0.0078,"uL":0.0,"total_short_ladder":3178725.79,"left_short":3155382.51}],"group":{"gid":"g032","fund_usd":2982636.41},"method":"short_ladder_30d_lifo"}
