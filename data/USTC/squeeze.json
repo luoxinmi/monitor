@@ -1,1 +1,1 @@
-{"symbol":"USTC","updated":1795307001,"price":0.0039,"windows":[{"w":"8m","ret_pct":0.077,"from":0.0038969993,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":314697.18,"left_short":314697.18}],"group":{"gid":"g064","fund_usd":2021340.63},"method":"short_ladder_30d_lifo"}
+{"symbol":"USTC","updated":1795307541,"price":0.003897,"windows":[{"w":"8m","ret_pct":0.051,"from":0.0038950135,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":314697.18,"left_short":314697.18}],"group":{"gid":"g064","fund_usd":2021340.63},"method":"short_ladder_30d_lifo"}

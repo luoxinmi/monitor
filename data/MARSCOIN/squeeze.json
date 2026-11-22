@@ -1,1 +1,1 @@
-{"symbol":"MARSCOIN","updated":1795307001,"price":0.02886,"windows":[{"w":"8m","ret_pct":0.174,"from":0.0288098708,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2779466.73,"left_short":2779466.73}],"group":{"gid":"g082","fund_usd":3114679.37},"method":"short_ladder_30d_lifo"}
+{"symbol":"MARSCOIN","updated":1795307541,"price":0.02889,"windows":[{"w":"8m","ret_pct":0.035,"from":0.028879892,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2779466.73,"left_short":2779466.73}],"group":{"gid":"g082","fund_usd":3114679.37},"method":"short_ladder_30d_lifo"}

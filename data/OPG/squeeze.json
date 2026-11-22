@@ -1,1 +1,1 @@
-{"symbol":"OPG","updated":1795307001,"price":0.1339,"windows":[{"w":"60m","ret_pct":0.075,"from":0.1337996503,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4276541.52,"left_short":4276541.52}],"group":{"gid":"g123","fund_usd":3099293.11},"method":"short_ladder_30d_lifo"}
+{"symbol":"OPG","updated":1795307541,"price":0.1343,"windows":[{"w":"8m","ret_pct":0.224,"from":0.1339998404,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4276541.52,"left_short":4276541.52}],"group":{"gid":"g123","fund_usd":3099293.11},"method":"short_ladder_30d_lifo"}

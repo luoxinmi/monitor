@@ -1,1 +1,1 @@
-{"symbol":"ACT","updated":1795307001,"price":0.008628,"windows":[{"w":"8m","ret_pct":0.023,"from":0.008626016,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1440412.07,"left_short":1440412.07}],"group":{"gid":"g037","fund_usd":3035536.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"ACT","updated":1795307541,"price":0.008621,"windows":[{"w":"8m","ret_pct":0.012,"from":0.0086199656,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1440412.07,"left_short":1440412.07}],"group":{"gid":"g037","fund_usd":3035536.39},"method":"short_ladder_30d_lifo"}

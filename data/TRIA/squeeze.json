@@ -1,1 +1,1 @@
-{"symbol":"TRIA","updated":1795307001,"price":0.002071,"windows":[{"w":"8m","ret_pct":0.242,"from":0.0020660003,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1004997.64,"left_short":1004997.64}],"group":{"gid":"g014","fund_usd":3044963.98},"method":"short_ladder_30d_lifo"}
+{"symbol":"TRIA","updated":1795307541,"price":0.002073,"windows":[{"w":"8m","ret_pct":0.242,"from":0.0020679955,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1004997.64,"left_short":1004997.64}],"group":{"gid":"g014","fund_usd":3044963.98},"method":"short_ladder_30d_lifo"}
