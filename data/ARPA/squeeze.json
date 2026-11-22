@@ -1,1 +1,1 @@
-{"symbol":"ARPA","updated":1795369854,"price":0.007684,"windows":[{"w":"30m","ret_pct":0.117,"from":0.0076750202,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":543073.33,"left_short":543073.33}],"group":{"gid":"g111","fund_usd":3068772.58},"method":"short_ladder_30d_lifo"}
+{"symbol":"ARPA","updated":1795371440,"price":0.007673,"windows":[{"w":"8m","ret_pct":0.039,"from":0.0076700087,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":543073.33,"left_short":543073.33}],"group":{"gid":"g111","fund_usd":3068772.58},"method":"short_ladder_30d_lifo"}

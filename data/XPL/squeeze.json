@@ -1,1 +1,1 @@
-{"symbol":"XPL","updated":1795367842,"price":0.04518,"windows":[{"w":"8m","ret_pct":0.222,"from":0.0450799226,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":15287103.34,"left_short":15287103.34}],"group":{"gid":"g028","fund_usd":3096251.98},"method":"short_ladder_30d_lifo"}
+{"symbol":"XPL","updated":1795371440,"price":0.04503,"windows":[{"w":"8m","ret_pct":0.067,"from":0.0449998501,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":15287103.34,"left_short":15287103.34}],"group":{"gid":"g028","fund_usd":3096251.98},"method":"short_ladder_30d_lifo"}
