@@ -32,3 +32,4 @@
 {"ts":1795309162,"sym":"BAND","kind":"oi","val":19.5,"msg":"OI +19.5%（0.4M→0.4M）"}
 {"ts":1795309401,"sym":"AIOT","kind":"price","val":-15.08,"msg":"24h -15.1%"}
 {"ts":1795309888,"sym":"AKE","kind":"funding","val":-0.1048,"msg":"费率 -0.105%"}
+{"ts":1795310246,"sym":"KERNEL","kind":"price","val":-16.4,"msg":"24h -16.4%"}

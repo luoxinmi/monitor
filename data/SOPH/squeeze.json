@@ -1,1 +1,1 @@
-{"symbol":"SOPH","updated":1795299440,"price":0.000968,"windows":[{"w":"30m","ret_pct":0.207,"from":0.0009660004,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2540079.04,"left_short":2540079.04}],"group":{"gid":"g008","fund_usd":3028566.36},"method":"short_ladder_30d_lifo"}
+{"symbol":"SOPH","updated":1795310246,"price":0.000962,"windows":[{"w":"60m","ret_pct":0.839,"from":0.000953996,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2156611.08,"left_short":2156611.08}],"group":{"gid":"g008","fund_usd":3029993.77},"method":"short_ladder_30d_lifo"}

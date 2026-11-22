@@ -1,1 +1,1 @@
-{"symbol":"MEME","updated":1795307541,"price":0.0002924,"windows":[{"w":"8m","ret_pct":0.24,"from":0.0002916999,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":536830.26,"left_short":536830.26}],"group":{"gid":"g067","fund_usd":3068929.89},"method":"short_ladder_30d_lifo"}
+{"symbol":"MEME","updated":1795310246,"price":0.0002921,"windows":[{"w":"60m","ret_pct":0.103,"from":0.0002917994,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":536830.26,"left_short":536830.26}],"group":{"gid":"g067","fund_usd":3068929.89},"method":"short_ladder_30d_lifo"}
