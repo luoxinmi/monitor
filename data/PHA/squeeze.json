@@ -1,1 +1,1 @@
-{"symbol":"PHA","updated":1795385840,"price":0.03016,"windows":[{"w":"8m","ret_pct":0.199,"from":0.0301001008,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1257850.08,"left_short":1257850.08}],"group":{"gid":"g048","fund_usd":3087371.41},"method":"short_ladder_30d_lifo"}
+{"symbol":"PHA","updated":1795389441,"price":0.02951,"windows":[{"w":"8m","ret_pct":0.271,"from":0.029430244,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1257850.08,"left_short":1257850.08}],"group":{"gid":"g048","fund_usd":3087371.41},"method":"short_ladder_30d_lifo"}
