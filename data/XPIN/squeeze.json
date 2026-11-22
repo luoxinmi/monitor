@@ -1,1 +1,1 @@
-{"symbol":"XPIN","updated":1795310493,"price":0.0006993,"windows":[{"w":"8m","ret_pct":0.172,"from":0.0006980993,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3243917.05,"left_short":3243917.05}],"group":{"gid":"g025","fund_usd":3044191.04},"method":"short_ladder_30d_lifo"}
+{"symbol":"XPIN","updated":1795321049,"price":0.0007053,"windows":[{"w":"60m","ret_pct":1.321,"from":0.0006961045,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3243917.05,"left_short":3243917.05}],"group":{"gid":"g025","fund_usd":3044191.04},"method":"short_ladder_30d_lifo"}

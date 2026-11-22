@@ -1,1 +1,1 @@
-{"symbol":"TUT","updated":1795310246,"price":0.01177,"windows":[{"w":"8m","ret_pct":0.085,"from":0.011760004,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1260572.16,"left_short":1260572.16}],"group":{"gid":"g088","fund_usd":2106945.79},"method":"short_ladder_30d_lifo"}
+{"symbol":"TUT","updated":1795321049,"price":0.01166,"windows":[{"w":"30m","ret_pct":0.345,"from":0.0116199113,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1260572.16,"left_short":1260572.16}],"group":{"gid":"g088","fund_usd":2106945.79},"method":"short_ladder_30d_lifo"}

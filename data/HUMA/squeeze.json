@@ -1,1 +1,1 @@
-{"symbol":"HUMA","updated":1795317441,"price":0.008714,"windows":[{"w":"60m","ret_pct":0.891,"from":0.0086370439,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2693962.86,"left_short":2693962.86}],"group":{"gid":"g053","fund_usd":3031592.99},"method":"short_ladder_30d_lifo"}
+{"symbol":"HUMA","updated":1795321049,"price":0.008636,"windows":[{"w":"8m","ret_pct":0.139,"from":0.0086240126,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2693962.86,"left_short":2693962.86}],"group":{"gid":"g053","fund_usd":3031592.99},"method":"short_ladder_30d_lifo"}
