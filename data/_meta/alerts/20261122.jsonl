@@ -162,3 +162,4 @@
 {"ts":1795368933,"sym":"ESPORTS","kind":"funding","val":0.1022,"msg":"费率 +0.102%"}
 {"ts":1795369854,"sym":"BULLA","kind":"funding","val":0.1019,"msg":"费率 +0.102%"}
 {"ts":1795370360,"sym":"TURTLE","kind":"oi","val":10.7,"msg":"OI +10.7%（0.0M→0.0M）"}
+{"ts":1795370734,"sym":"ACE","kind":"price","val":-15.09,"msg":"24h -15.1%"}
