@@ -36,3 +36,5 @@
 {"ts":1795311341,"sym":"SIREN","kind":"squeeze_8m","val":3.832,"msg":"8m 爆拉 +3.8% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795311341,"sym":"SIREN","kind":"squeeze_30m","val":4.441,"msg":"30m 爆拉 +4.4% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795311341,"sym":"SIREN","kind":"squeeze_60m","val":4.31,"msg":"60m 爆拉 +4.3% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795311800,"sym":"BMT","kind":"funding","val":-0.1008,"msg":"费率 -0.101%"}
+{"ts":1795311800,"sym":"ZKC","kind":"funding","val":-0.1037,"msg":"费率 -0.104%"}
