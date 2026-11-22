@@ -108,3 +108,6 @@
 {"ts":1795341934,"sym":"BULLA","kind":"oi","val":13.8,"msg":"OI +13.8%（0.2M→0.3M）"}
 {"ts":1795342280,"sym":"SPORTFUN","kind":"funding","val":0.1022,"msg":"费率 +0.102%"}
 {"ts":1795342280,"sym":"哈基米","kind":"funding","val":0.1003,"msg":"费率 +0.100%"}
+{"ts":1795342642,"sym":"COOKIE","kind":"price","val":15.94,"msg":"24h +15.9%"}
+{"ts":1795342642,"sym":"RARE","kind":"oi","val":10.7,"msg":"OI +10.7%（0.7M→0.7M）"}
+{"ts":1795342642,"sym":"RARE","kind":"squeeze_8m","val":3.399,"msg":"8m 爆拉 +3.4% → 扫空头 $0.28M，损失 $4K（组基金 0.1%）"}
