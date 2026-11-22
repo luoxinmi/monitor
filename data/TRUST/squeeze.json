@@ -1,1 +1,1 @@
-{"symbol":"TRUST","updated":1795310493,"price":0.05044,"windows":[{"w":"30m","ret_pct":0.378,"from":0.0502500548,"N":2055.05,"L":0.0,"uN":0.0007,"uL":0.0,"total_short_ladder":824901.38,"left_short":822846.33}],"group":{"gid":"g026","fund_usd":3064630.67},"method":"short_ladder_30d_lifo"}
+{"symbol":"TRUST","updated":1795313841,"price":0.0504,"windows":[{"w":"30m","ret_pct":0.179,"from":0.0503099452,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":824901.38,"left_short":824901.38}],"group":{"gid":"g026","fund_usd":3064630.67},"method":"short_ladder_30d_lifo"}
