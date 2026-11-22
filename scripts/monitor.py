@@ -184,8 +184,8 @@ def main():
                         jt = act.get("JettonTransfer")
                         if not jt:
                             continue
-                        # 只认目标 jetton：大户地址常同时持有多种代币（实测 EVAA 大户 events 里
-                        # 混着 HMSTR / BLUM / Gram），不过滤会把别的币当成本币报大额转账。
+                        # 只认目标 jetton：大户地址常同时持有多种代币，按地址拉 events 会混入
+                        # 其他 jetton 的转账；不校验 master 会把别的币金额当成本币（通用陷阱）。
                         jm = jt.get("jetton") or {}
                         if (jm.get("address") or "").strip().lower() != jetton.strip().lower():
                             continue
