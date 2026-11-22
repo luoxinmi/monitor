@@ -95,7 +95,8 @@ def main():
     state_path = os.path.join(a.out, "state.json")
     old = json.load(open(state_path)) if os.path.exists(state_path) else {}
     alerts, snap = [], {"symbol": sym, "pair": pair}
-    min_amount = a.min_amount or 3000
+    # 链上大额阈值：命令行 > 币种 profile > 脚本默认（不同币的「枚」差几个数量级，必须可按币配）
+    min_amount = a.min_amount or prof.get("min_amount") or 3000
     source = None
 
     def add(name, cur, key, pct_threshold):
