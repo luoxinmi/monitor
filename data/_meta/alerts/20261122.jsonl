@@ -33,3 +33,6 @@
 {"ts":1795309401,"sym":"AIOT","kind":"price","val":-15.08,"msg":"24h -15.1%"}
 {"ts":1795309888,"sym":"AKE","kind":"funding","val":-0.1048,"msg":"费率 -0.105%"}
 {"ts":1795310246,"sym":"KERNEL","kind":"price","val":-16.4,"msg":"24h -16.4%"}
+{"ts":1795311341,"sym":"SIREN","kind":"squeeze_8m","val":3.832,"msg":"8m 爆拉 +3.8% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795311341,"sym":"SIREN","kind":"squeeze_30m","val":4.441,"msg":"30m 爆拉 +4.4% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795311341,"sym":"SIREN","kind":"squeeze_60m","val":4.31,"msg":"60m 爆拉 +4.3% → 扫空头 $0.00M，损失 $0K"}
