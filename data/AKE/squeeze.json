@@ -1,1 +1,1 @@
-{"symbol":"AKE","updated":1795321407,"price":0.002815,"windows":[{"w":"8m","ret_pct":0.25,"from":0.00280798,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4849857.39,"left_short":4849857.39}],"group":{"gid":"g038","fund_usd":2169880.97},"method":"short_ladder_30d_lifo"}
+{"symbol":"AKE","updated":1795324641,"price":0.002774,"windows":[{"w":"8m","ret_pct":1.573,"from":0.0027310407,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4849857.39,"left_short":4849857.39}],"group":{"gid":"g038","fund_usd":2169880.97},"method":"short_ladder_30d_lifo"}

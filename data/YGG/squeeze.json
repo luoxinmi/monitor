@@ -1,1 +1,1 @@
-{"symbol":"YGG","updated":1795321407,"price":0.01861,"windows":[{"w":"60m","ret_pct":0.432,"from":0.0185299506,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1054394.5,"left_short":1054394.5}],"group":{"gid":"g076","fund_usd":3097669.73},"method":"short_ladder_30d_lifo"}
+{"symbol":"YGG","updated":1795324641,"price":0.0187,"windows":[{"w":"60m","ret_pct":0.268,"from":0.018650018,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1054394.5,"left_short":1054394.5}],"group":{"gid":"g076","fund_usd":3097669.73},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"DOGS","updated":1795321407,"price":2.411e-05,"windows":[{"w":"60m","ret_pct":0.083,"from":2.409e-05,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":559867.85,"left_short":559867.85}],"group":{"gid":"g034","fund_usd":3044082.93},"method":"short_ladder_30d_lifo"}
+{"symbol":"DOGS","updated":1795324641,"price":2.395e-05,"windows":[{"w":"8m","ret_pct":0.042,"from":2.39399e-05,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":559867.85,"left_short":559867.85}],"group":{"gid":"g034","fund_usd":3044082.93},"method":"short_ladder_30d_lifo"}
