@@ -48,3 +48,4 @@
 {"ts":1795314956,"sym":"EVAA","kind":"squeeze_8m","val":5.124,"msg":"8m 爆拉 +5.1% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795315405,"sym":"BREV","kind":"price","val":-15.0,"msg":"24h -15.0%"}
 {"ts":1795315405,"sym":"IDOL","kind":"squeeze_30m","val":1.195,"msg":"30m 爆拉 +1.2% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795316361,"sym":"IDOL","kind":"squeeze_60m","val":0.481,"msg":"60m 爆拉 +0.5% → 扫空头 $0.00M，损失 $0K"}
