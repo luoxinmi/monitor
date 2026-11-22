@@ -13,3 +13,5 @@
 {"ts":1795305806,"sym":"SKYAI","kind":"price","val":32.09,"msg":"24h +32.1%"}
 {"ts":1795305806,"sym":"VVV","kind":"price","val":19.39,"msg":"24h +19.4%"}
 {"ts":1795305806,"sym":"YB","kind":"funding","val":-0.2675,"msg":"费率 -0.267%"}
+{"ts":1795306291,"sym":"AKE","kind":"price","val":-16.27,"msg":"24h -16.3%"}
+{"ts":1795306291,"sym":"NAORIS","kind":"price","val":15.19,"msg":"24h +15.2%"}
