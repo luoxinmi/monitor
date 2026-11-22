@@ -1,1 +1,1 @@
-{"symbol":"DOLO","updated":1795351349,"price":0.01817,"windows":[{"w":"8m","ret_pct":0.11,"from":0.018150035,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":483187.28,"left_short":483187.28}],"group":{"gid":"g114","fund_usd":1007375.6},"method":"short_ladder_30d_lifo"}
+{"symbol":"DOLO","updated":1795353442,"price":0.01815,"windows":[{"w":"30m","ret_pct":0.055,"from":0.018140023,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":483187.28,"left_short":483187.28}],"group":{"gid":"g114","fund_usd":1007375.6},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"AXL","updated":1795351349,"price":0.03175,"windows":[{"w":"8m","ret_pct":0.253,"from":0.0316698752,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":660310.87,"left_short":660310.87}],"group":{"gid":"g023","fund_usd":3094693.07},"method":"short_ladder_30d_lifo"}
+{"symbol":"AXL","updated":1795353442,"price":0.03174,"windows":[{"w":"8m","ret_pct":0.126,"from":0.0317000579,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":660310.87,"left_short":660310.87}],"group":{"gid":"g023","fund_usd":3094693.07},"method":"short_ladder_30d_lifo"}

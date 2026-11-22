@@ -1,1 +1,1 @@
-{"symbol":"RONIN","updated":1795351349,"price":0.03515,"windows":[{"w":"8m","ret_pct":0.257,"from":0.0350598961,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":459234.34,"left_short":459234.34}],"group":{"gid":"g027","fund_usd":3060292.75},"method":"short_ladder_30d_lifo"}
+{"symbol":"RONIN","updated":1795353442,"price":0.03512,"windows":[{"w":"8m","ret_pct":0.057,"from":0.035099993,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":459234.34,"left_short":459234.34}],"group":{"gid":"g027","fund_usd":3060292.75},"method":"short_ladder_30d_lifo"}
