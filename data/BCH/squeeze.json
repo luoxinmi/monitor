@@ -1,1 +1,1 @@
-{"symbol":"BCH","updated":1795310246,"price":199.53,"windows":[{"w":"8m","ret_pct":0.055,"from":199.4203188246,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":22303117.07,"left_short":22303117.07}],"group":{"gid":"g077","fund_usd":52555171.58},"method":"short_ladder_30d_lifo"}
+{"symbol":"BCH","updated":1795310493,"price":199.6,"windows":[{"w":"30m","ret_pct":0.135,"from":199.3309032806,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":22303117.07,"left_short":22303117.07}],"group":{"gid":"g077","fund_usd":52555171.58},"method":"short_ladder_30d_lifo"}
