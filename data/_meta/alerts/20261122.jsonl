@@ -31,3 +31,4 @@
 {"ts":1795308681,"sym":"IRYS","kind":"oi","val":11.5,"msg":"OI +11.5%（1.5M→1.7M）"}
 {"ts":1795309162,"sym":"BAND","kind":"oi","val":19.5,"msg":"OI +19.5%（0.4M→0.4M）"}
 {"ts":1795309401,"sym":"AIOT","kind":"price","val":-15.08,"msg":"24h -15.1%"}
+{"ts":1795309888,"sym":"AKE","kind":"funding","val":-0.1048,"msg":"费率 -0.105%"}
