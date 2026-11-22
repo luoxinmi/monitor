@@ -1,1 +1,1 @@
-{"symbol":"SANTOS","updated":1795364247,"price":0.3262,"windows":[{"w":"60m","ret_pct":0.277,"from":0.325298922,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":455768.43,"left_short":455768.43}],"group":{"gid":"g106","fund_usd":3054237.82},"method":"short_ladder_30d_lifo"}
+{"symbol":"SANTOS","updated":1795364602,"price":0.3266,"windows":[{"w":"60m","ret_pct":0.184,"from":0.3260001597,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":455768.43,"left_short":455768.43}],"group":{"gid":"g106","fund_usd":3054237.82},"method":"short_ladder_30d_lifo"}
