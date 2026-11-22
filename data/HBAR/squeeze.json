@@ -1,1 +1,1 @@
-{"symbol":"HBAR","updated":1795353442,"price":0.05154,"windows":[{"w":"8m","ret_pct":0.117,"from":0.0514797687,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":11489815.83,"left_short":11489815.83}],"group":{"gid":"g065","fund_usd":397196085.93},"method":"short_ladder_30d_lifo"}
+{"symbol":"HBAR","updated":1795360643,"price":0.05116,"windows":[{"w":"8m","ret_pct":0.039,"from":0.0511400554,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":11489815.83,"left_short":11489815.83}],"group":{"gid":"g065","fund_usd":397196085.93},"method":"short_ladder_30d_lifo"}

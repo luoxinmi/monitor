@@ -1,1 +1,1 @@
-{"symbol":"XAUT","updated":1795351349,"price":3547.6,"windows":[{"w":"8m","ret_pct":0.021,"from":3546.8551604163,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":25424157.62,"left_short":25424157.62}],"group":{"gid":"g065","fund_usd":397196085.93},"method":"short_ladder_30d_lifo"}
+{"symbol":"XAUT","updated":1795360643,"price":3549.57,"windows":[{"w":"60m","ret_pct":0.018,"from":3548.9311923854,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":25424157.62,"left_short":25424157.62}],"group":{"gid":"g065","fund_usd":397196085.93},"method":"short_ladder_30d_lifo"}

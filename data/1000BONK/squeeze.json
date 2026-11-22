@@ -1,1 +1,1 @@
-{"symbol":"1000BONK","updated":1795357042,"price":0.002076,"windows":[{"w":"30m","ret_pct":0.193,"from":0.002072001,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4785123.25,"left_short":4785123.25}],"group":{"gid":"g103","fund_usd":3099232.98},"method":"short_ladder_30d_lifo"}
+{"symbol":"1000BONK","updated":1795360643,"price":0.002071,"windows":[{"w":"8m","ret_pct":0.048,"from":0.0020700064,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4785123.25,"left_short":4785123.25}],"group":{"gid":"g103","fund_usd":3099232.98},"method":"short_ladder_30d_lifo"}
