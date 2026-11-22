@@ -1,1 +1,1 @@
-{"symbol":"ZRO","updated":1795375041,"price":1.188,"windows":[{"w":"8m","ret_pct":0.152,"from":1.1861969806,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":10026520.12,"left_short":10026520.12}],"group":{"gid":"g012","fund_usd":3055365.93},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZRO","updated":1795378642,"price":1.1797,"windows":[{"w":"8m","ret_pct":0.161,"from":1.177803736,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":10026520.12,"left_short":10026520.12}],"group":{"gid":"g012","fund_usd":3055365.93},"method":"short_ladder_30d_lifo"}

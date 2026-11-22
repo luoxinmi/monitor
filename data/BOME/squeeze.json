@@ -1,1 +1,1 @@
-{"symbol":"BOME","updated":1795375041,"price":0.0004723,"windows":[{"w":"8m","ret_pct":0.085,"from":0.0004718989,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1293811.64,"left_short":1293811.64}],"group":{"gid":"g018","fund_usd":3025364.23},"method":"short_ladder_30d_lifo"}
+{"symbol":"BOME","updated":1795378642,"price":0.0004703,"windows":[{"w":"30m","ret_pct":0.021,"from":0.0004702013,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1293811.64,"left_short":1293811.64}],"group":{"gid":"g018","fund_usd":3025364.23},"method":"short_ladder_30d_lifo"}
