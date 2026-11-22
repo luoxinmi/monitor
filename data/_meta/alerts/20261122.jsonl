@@ -132,3 +132,4 @@
 {"ts":1795350957,"sym":"ARIA","kind":"price","val":15.01,"msg":"24h +15.0%"}
 {"ts":1795351349,"sym":"TIA","kind":"oi","val":10.7,"msg":"OI +10.7%（4.8M→5.3M）"}
 {"ts":1795351881,"sym":"BERA","kind":"funding","val":-0.1158,"msg":"费率 -0.116%"}
+{"ts":1795352601,"sym":"ELSA","kind":"oi","val":12.0,"msg":"OI +12.0%（1.3M→1.4M）"}
