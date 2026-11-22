@@ -1,1 +1,1 @@
-{"symbol":"ELSA","updated":1795353442,"price":0.08242,"windows":[{"w":"60m","ret_pct":5.008,"from":0.078489258,"N":283690.65,"L":5567.64,"uN":0.1403,"uL":0.0028,"total_short_ladder":2832538.52,"left_short":2548847.88}],"group":{"gid":"g064","fund_usd":2021340.63},"method":"short_ladder_30d_lifo"}
+{"symbol":"ELSA","updated":1795357042,"price":0.08011,"windows":[{"w":"8m","ret_pct":0.175,"from":0.0799700524,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2832538.52,"left_short":2832538.52}],"group":{"gid":"g064","fund_usd":2021340.63},"method":"short_ladder_30d_lifo"}

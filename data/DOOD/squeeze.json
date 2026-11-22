@@ -1,1 +1,1 @@
-{"symbol":"DOOD","updated":1795351349,"price":0.001436,"windows":[{"w":"8m","ret_pct":0.42,"from":0.001429994,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1127026.93,"left_short":1127026.93}],"group":{"gid":"g035","fund_usd":3025945.02},"method":"short_ladder_30d_lifo"}
+{"symbol":"DOOD","updated":1795357042,"price":0.001417,"windows":[{"w":"30m","ret_pct":0.141,"from":0.0014150048,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1127026.93,"left_short":1127026.93}],"group":{"gid":"g035","fund_usd":3025945.02},"method":"short_ladder_30d_lifo"}

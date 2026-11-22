@@ -1,1 +1,1 @@
-{"symbol":"METIS","updated":1795353442,"price":2.174,"windows":[{"w":"8m","ret_pct":0.138,"from":2.1710040145,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":677771.23,"left_short":677771.23}],"group":{"gid":"g094","fund_usd":2066989.74},"method":"short_ladder_30d_lifo"}
+{"symbol":"METIS","updated":1795357042,"price":2.166,"windows":[{"w":"30m","ret_pct":0.092,"from":2.1640091116,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":677771.23,"left_short":677771.23}],"group":{"gid":"g094","fund_usd":2066989.74},"method":"short_ladder_30d_lifo"}
