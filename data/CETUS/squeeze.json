@@ -1,1 +1,1 @@
-{"symbol":"CETUS","updated":1795382240,"price":0.01484,"windows":[{"w":"30m","ret_pct":0.067,"from":0.0148300639,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":430815.72,"left_short":430815.72}],"group":{"gid":"g017","fund_usd":1534215.85},"method":"short_ladder_30d_lifo"}
+{"symbol":"CETUS","updated":1795385840,"price":0.01482,"windows":[{"w":"8m","ret_pct":0.068,"from":0.0148099292,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":430815.72,"left_short":430815.72}],"group":{"gid":"g017","fund_usd":1534215.85},"method":"short_ladder_30d_lifo"}
