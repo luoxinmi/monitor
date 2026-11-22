@@ -1,1 +1,1 @@
-{"symbol":"EUL","updated":1795339042,"price":0.7727,"windows":[{"w":"60m","ret_pct":0.403,"from":0.769598518,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":682194.71,"left_short":682194.71}],"group":{"gid":"g094","fund_usd":2066989.74},"method":"short_ladder_30d_lifo"}
+{"symbol":"EUL","updated":1795340934,"price":0.775,"windows":[{"w":"60m","ret_pct":0.259,"from":0.7729979353,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":682194.71,"left_short":682194.71}],"group":{"gid":"g094","fund_usd":2066989.74},"method":"short_ladder_30d_lifo"}

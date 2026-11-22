@@ -1,1 +1,1 @@
-{"symbol":"NEO","updated":1795339042,"price":1.499,"windows":[{"w":"60m","ret_pct":0.335,"from":1.4939951164,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":886231.29,"left_short":886231.29}],"group":{"gid":"g001","fund_usd":3070455.2},"method":"short_ladder_30d_lifo"}
+{"symbol":"NEO","updated":1795340934,"price":1.503,"windows":[{"w":"60m","ret_pct":0.334,"from":1.4979966911,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":886231.29,"left_short":886231.29}],"group":{"gid":"g001","fund_usd":3070455.2},"method":"short_ladder_30d_lifo"}
