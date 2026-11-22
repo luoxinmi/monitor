@@ -1,1 +1,1 @@
-{"symbol":"BTR","updated":1795349841,"venues":{"binance":{"sym":"BTRUSDT","p":0.03766,"pc":0.695,"v":1056545.58681,"fr":5e-05,"onboard":1756290600000},"gate":{"sym":"BTR_USDT","p":0.03755,"pc":0.24,"v":55723.0,"oi":474589.193,"oi_coin":12638860.0,"fr":0.0001,"lev":20.0}}}
+{"symbol":"BTR","updated":1795350200,"venues":{"binance":{"sym":"BTRUSDT","p":0.03755,"pc":0.08,"v":1057184.97949,"fr":5e-05,"onboard":1756290600000},"gate":{"sym":"BTR_USDT","p":0.03746,"pc":-0.03,"v":55823.0,"oi":473262.148,"oi_coin":12633800.0,"fr":0.0001,"lev":20.0}}}
