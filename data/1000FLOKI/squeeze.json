@@ -1,1 +1,1 @@
-{"symbol":"1000FLOKI","updated":1795303040,"price":0.01596,"windows":[{"w":"30m","ret_pct":0.063,"from":0.0159499515,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1353238.85,"left_short":1353238.85}],"group":{"gid":"g002","fund_usd":3064978.27},"method":"short_ladder_30d_lifo"}
+{"symbol":"1000FLOKI","updated":1795306640,"price":0.01599,"windows":[{"w":"60m","ret_pct":0.188,"from":0.0159599952,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1240135.33,"left_short":1240135.33}],"group":{"gid":"g002","fund_usd":3067950.11},"method":"short_ladder_30d_lifo"}

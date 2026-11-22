@@ -1,1 +1,1 @@
-{"symbol":"MEW","updated":1795299440,"price":0.0002841,"windows":[{"w":"8m","ret_pct":0.07,"from":0.0002839013,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":451451.87,"left_short":451451.87}],"group":{"gid":"g115","fund_usd":3011362.57},"method":"short_ladder_30d_lifo"}
+{"symbol":"MEW","updated":1795306640,"price":0.0002841,"windows":[{"w":"60m","ret_pct":0.07,"from":0.0002839013,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":461014.68,"left_short":461014.68}],"group":{"gid":"g115","fund_usd":3012944.95},"method":"short_ladder_30d_lifo"}

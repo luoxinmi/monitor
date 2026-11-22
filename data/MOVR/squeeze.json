@@ -1,1 +1,1 @@
-{"symbol":"MOVR","updated":1795303040,"price":0.8094,"windows":[{"w":"8m","ret_pct":0.074,"from":0.8088014869,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":868026.6,"left_short":868026.6}],"group":{"gid":"g051","fund_usd":3032061.7},"method":"short_ladder_30d_lifo"}
+{"symbol":"MOVR","updated":1795306640,"price":0.8108,"windows":[{"w":"60m","ret_pct":0.26,"from":0.8086973868,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":860296.64,"left_short":860296.64}],"group":{"gid":"g051","fund_usd":3033487.85},"method":"short_ladder_30d_lifo"}
