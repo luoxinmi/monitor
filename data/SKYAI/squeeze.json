@@ -1,1 +1,1 @@
-{"symbol":"SKYAI","updated":1795364247,"price":0.03707,"windows":[{"w":"8m","ret_pct":0.108,"from":0.0370300076,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3703383.66,"left_short":3703383.66}],"group":{"gid":"g007","fund_usd":3053572.28},"method":"short_ladder_30d_lifo"}
+{"symbol":"SKYAI","updated":1795369854,"price":0.0364,"windows":[{"w":"8m","ret_pct":0.083,"from":0.0363698131,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3703383.66,"left_short":3703383.66}],"group":{"gid":"g007","fund_usd":3053572.28},"method":"short_ladder_30d_lifo"}
