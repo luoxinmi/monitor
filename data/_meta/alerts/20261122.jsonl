@@ -118,3 +118,4 @@
 {"ts":1795344681,"sym":"MARSCOIN","kind":"squeeze_8m","val":3.957,"msg":"8m 爆拉 +4.0% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795344681,"sym":"MARSCOIN","kind":"squeeze_30m","val":7.514,"msg":"30m 爆拉 +7.5% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795344681,"sym":"MARSCOIN","kind":"squeeze_60m","val":9.014,"msg":"60m 爆拉 +9.0% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795345402,"sym":"SOLV","kind":"oi","val":11.7,"msg":"OI +11.7%（0.1M→0.1M）"}
