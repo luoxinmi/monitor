@@ -7,7 +7,8 @@
     "jetton": null,
     "docs": null,
     "max_supply": null,
-    "unlock_page": null
+    "unlock_page": null,
+    "min_amount": null
   },
   "EVAA": {
     "name": "EVAA Protocol",
@@ -18,7 +19,8 @@
     "docs": "https://evaa.gitbook.io/evaa-docs-2.0/details-of-protocol/token-and-tokenomics/tokenomics.md",
     "max_supply": 50000000,
     "unlock_page": "https://billibo6.github.io/unlockpulse/unlock/evaa.html",
-    "coingecko": "evaa-protocol"
+    "coingecko": "evaa-protocol",
+    "min_amount": 3000
   },
   "BONK": {
     "binance": "BONKUSDT",
