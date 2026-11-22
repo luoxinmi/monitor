@@ -1,1 +1,1 @@
-{"symbol":"IOST","updated":1795379000,"price":0.0005619,"windows":[{"w":"30m","ret_pct":0.053,"from":0.0005616024,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1259469.62,"left_short":1259469.62}],"group":{"gid":"g067","fund_usd":3068929.89},"method":"short_ladder_30d_lifo"}
+{"symbol":"IOST","updated":1795382240,"price":0.0005621,"windows":[{"w":"60m","ret_pct":0.036,"from":0.0005618977,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1259469.62,"left_short":1259469.62}],"group":{"gid":"g067","fund_usd":3068929.89},"method":"short_ladder_30d_lifo"}

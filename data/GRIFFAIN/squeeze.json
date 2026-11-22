@@ -1,1 +1,1 @@
-{"symbol":"GRIFFAIN","updated":1795378642,"price":0.009207,"windows":[{"w":"8m","ret_pct":0.033,"from":0.0092039627,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1246282.96,"left_short":1246282.96}],"group":{"gid":"g050","fund_usd":3064824.47},"method":"short_ladder_30d_lifo"}
+{"symbol":"GRIFFAIN","updated":1795382240,"price":0.009196,"windows":[{"w":"8m","ret_pct":0.033,"from":0.0091929663,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1246282.96,"left_short":1246282.96}],"group":{"gid":"g050","fund_usd":3064824.47},"method":"short_ladder_30d_lifo"}

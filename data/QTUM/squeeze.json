@@ -1,1 +1,1 @@
-{"symbol":"QTUM","updated":1795378642,"price":0.6125,"windows":[{"w":"8m","ret_pct":0.098,"from":0.6119003377,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":644905.91,"left_short":644905.91}],"group":{"gid":"g016","fund_usd":3014286.4},"method":"short_ladder_30d_lifo"}
+{"symbol":"QTUM","updated":1795382240,"price":0.6113,"windows":[{"w":"8m","ret_pct":0.066,"from":0.6108968081,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":644905.91,"left_short":644905.91}],"group":{"gid":"g016","fund_usd":3014286.4},"method":"short_ladder_30d_lifo"}
