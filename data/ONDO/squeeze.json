@@ -1,1 +1,1 @@
-{"symbol":"ONDO","updated":1795321407,"price":0.2781,"windows":[{"w":"30m","ret_pct":0.289,"from":0.277298607,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":10052169.73,"left_short":10052169.73}],"group":{"gid":"g065","fund_usd":397196085.93},"method":"short_ladder_30d_lifo"}
+{"symbol":"ONDO","updated":1795328241,"price":0.2763,"windows":[{"w":"30m","ret_pct":0.254,"from":0.2755999761,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":10052169.73,"left_short":10052169.73}],"group":{"gid":"g065","fund_usd":397196085.93},"method":"short_ladder_30d_lifo"}
