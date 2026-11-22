@@ -1,1 +1,1 @@
-{"symbol":"CELO","updated":1795328241,"price":0.05325,"windows":[{"w":"30m","ret_pct":0.056,"from":0.0532201967,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":548319.8,"left_short":548319.8}],"group":{"gid":"g020","fund_usd":3021086.45},"method":"short_ladder_30d_lifo"}
+{"symbol":"CELO","updated":1795331840,"price":0.05305,"windows":[{"w":"8m","ret_pct":0.057,"from":0.0530197787,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":548319.8,"left_short":548319.8}],"group":{"gid":"g020","fund_usd":3021086.45},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"WCT","updated":1795328241,"price":0.02879,"windows":[{"w":"30m","ret_pct":0.104,"from":0.0287600895,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":575656.93,"left_short":575656.93}],"group":{"gid":"g081","fund_usd":3040687.56},"method":"short_ladder_30d_lifo"}
+{"symbol":"WCT","updated":1795331840,"price":0.0286,"windows":[{"w":"8m","ret_pct":0.175,"from":0.0285500374,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":575656.93,"left_short":575656.93}],"group":{"gid":"g081","fund_usd":3040687.56},"method":"short_ladder_30d_lifo"}

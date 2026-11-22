@@ -1,1 +1,1 @@
-{"symbol":"STO","updated":1795328241,"price":0.02065,"windows":[{"w":"30m","ret_pct":0.049,"from":0.0206398865,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1048567.74,"left_short":1048567.74}],"group":{"gid":"g056","fund_usd":3010799.14},"method":"short_ladder_30d_lifo"}
+{"symbol":"STO","updated":1795331840,"price":0.02055,"windows":[{"w":"8m","ret_pct":0.097,"from":0.0205300858,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1048567.74,"left_short":1048567.74}],"group":{"gid":"g056","fund_usd":3010799.14},"method":"short_ladder_30d_lifo"}
