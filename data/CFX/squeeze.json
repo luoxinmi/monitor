@@ -1,1 +1,1 @@
-{"symbol":"CFX","updated":1795382240,"price":0.03085,"windows":[{"w":"60m","ret_pct":0.162,"from":0.0308001038,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1318950.27,"left_short":1318950.27}],"group":{"gid":"g027","fund_usd":3060292.75},"method":"short_ladder_30d_lifo"}
+{"symbol":"CFX","updated":1795384499,"price":0.03089,"windows":[{"w":"60m","ret_pct":0.032,"from":0.0308801184,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1318950.27,"left_short":1318950.27}],"group":{"gid":"g027","fund_usd":3060292.75},"method":"short_ladder_30d_lifo"}

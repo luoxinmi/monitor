@@ -1,1 +1,1 @@
-{"symbol":"SKY","updated":1795382240,"price":0.04168,"windows":[{"w":"60m","ret_pct":0.072,"from":0.041650012,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5119385.12,"left_short":5119385.12}],"group":{"gid":"g016","fund_usd":3014286.4},"method":"short_ladder_30d_lifo"}
+{"symbol":"SKY","updated":1795384499,"price":0.04175,"windows":[{"w":"30m","ret_pct":0.313,"from":0.0416197302,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5119385.12,"left_short":5119385.12}],"group":{"gid":"g016","fund_usd":3014286.4},"method":"short_ladder_30d_lifo"}
