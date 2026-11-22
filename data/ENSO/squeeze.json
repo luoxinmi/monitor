@@ -1,1 +1,1 @@
-{"symbol":"ENSO","updated":1795321049,"price":0.4759,"windows":[{"w":"8m","ret_pct":0.422,"from":0.4739001414,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2450309.12,"left_short":2450309.12}],"group":{"gid":"g042","fund_usd":3150019.0},"method":"short_ladder_30d_lifo"}
+{"symbol":"ENSO","updated":1795321407,"price":0.4794,"windows":[{"w":"8m","ret_pct":0.714,"from":0.4760013504,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2450309.12,"left_short":2450309.12}],"group":{"gid":"g042","fund_usd":3150019.0},"method":"short_ladder_30d_lifo"}

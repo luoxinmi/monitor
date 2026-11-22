@@ -1,1 +1,1 @@
-{"symbol":"PAXG","updated":1795321049,"price":3533.22,"windows":[{"w":"30m","ret_pct":0.112,"from":3529.2672207128,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":40139308.17,"left_short":40139308.17}],"group":{"gid":"g065","fund_usd":397196085.93},"method":"short_ladder_30d_lifo"}
+{"symbol":"PAXG","updated":1795321407,"price":3531.71,"windows":[{"w":"30m","ret_pct":0.068,"from":3529.310069153,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":40139308.17,"left_short":40139308.17}],"group":{"gid":"g065","fund_usd":397196085.93},"method":"short_ladder_30d_lifo"}
