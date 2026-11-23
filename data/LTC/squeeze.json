@@ -1,1 +1,1 @@
-{"symbol":"LTC","updated":1795419728,"price":40.62,"windows":[{"w":"8m","ret_pct":0.247,"from":40.519915808,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":24750676.99,"left_short":24750676.99}],"group":{"gid":"g077","fund_usd":52564268.77},"method":"short_ladder_30d_lifo"}
+{"symbol":"LTC","updated":1795422204,"price":40.52,"windows":[{"w":"8m","ret_pct":0.074,"from":40.4900373723,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":24750676.99,"left_short":24750676.99}],"group":{"gid":"g077","fund_usd":52564268.77},"method":"short_ladder_30d_lifo"}

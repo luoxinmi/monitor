@@ -1,1 +1,1 @@
-{"symbol":"XRP","updated":1795419728,"price":0.9389,"windows":[{"w":"8m","ret_pct":0.032,"from":0.9385996481,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":128756841.18,"left_short":128756841.18}],"group":{"gid":"g077","fund_usd":52564268.77},"method":"short_ladder_30d_lifo"}
+{"symbol":"XRP","updated":1795422204,"price":0.9349,"windows":[{"w":"8m","ret_pct":0.021,"from":0.9347037122,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":128756841.18,"left_short":128756841.18}],"group":{"gid":"g077","fund_usd":52564268.77},"method":"short_ladder_30d_lifo"}

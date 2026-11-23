@@ -1,1 +1,1 @@
-{"symbol":"MYX","updated":1795421843,"price":0.03515,"windows":[{"w":"30m","ret_pct":0.457,"from":0.0349900953,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1240315.71,"left_short":1240315.71}],"group":{"gid":"g047","fund_usd":3053862.69},"method":"short_ladder_30d_lifo"}
+{"symbol":"MYX","updated":1795422204,"price":0.03504,"windows":[{"w":"30m","ret_pct":0.2,"from":0.0349700599,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1240315.71,"left_short":1240315.71}],"group":{"gid":"g047","fund_usd":3053862.69},"method":"short_ladder_30d_lifo"}

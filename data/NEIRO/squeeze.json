@@ -1,1 +1,1 @@
-{"symbol":"NEIRO","updated":1795419728,"price":4.81e-05,"windows":[{"w":"8m","ret_pct":0.125,"from":4.804e-05,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":903980.44,"left_short":903980.44}],"group":{"gid":"g015","fund_usd":3053619.41},"method":"short_ladder_30d_lifo"}
+{"symbol":"NEIRO","updated":1795422204,"price":4.804e-05,"windows":[{"w":"8m","ret_pct":0.104,"from":4.79901e-05,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":903980.44,"left_short":903980.44}],"group":{"gid":"g015","fund_usd":3053619.41},"method":"short_ladder_30d_lifo"}

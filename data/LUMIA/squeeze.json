@@ -1,1 +1,1 @@
-{"symbol":"LUMIA","updated":1795418241,"price":0.06244,"windows":[{"w":"60m","ret_pct":0.743,"from":0.0619794924,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1912644.42,"left_short":1912644.42}],"group":{"gid":"g036","fund_usd":3045442.69},"method":"short_ladder_30d_lifo"}
+{"symbol":"LUMIA","updated":1795422204,"price":0.06195,"windows":[{"w":"8m","ret_pct":0.129,"from":0.0618701875,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1912644.42,"left_short":1912644.42}],"group":{"gid":"g036","fund_usd":3045442.69},"method":"short_ladder_30d_lifo"}

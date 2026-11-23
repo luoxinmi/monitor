@@ -1,1 +1,1 @@
-{"symbol":"AIA","updated":1795419728,"price":0.06956,"windows":[{"w":"60m","ret_pct":0.216,"from":0.0694100742,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3315909.8,"left_short":3315909.8}],"group":{"gid":"g038","fund_usd":2186488.63},"method":"short_ladder_30d_lifo"}
+{"symbol":"AIA","updated":1795422204,"price":0.06922,"windows":[{"w":"8m","ret_pct":0.261,"from":0.0690398061,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3315909.8,"left_short":3315909.8}],"group":{"gid":"g038","fund_usd":2186488.63},"method":"short_ladder_30d_lifo"}

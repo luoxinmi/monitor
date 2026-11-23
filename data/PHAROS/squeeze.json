@@ -1,1 +1,1 @@
-{"symbol":"PHAROS","updated":1795420464,"price":0.5724,"windows":[{"w":"30m","ret_pct":0.07,"from":0.5719996003,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3098281.28,"left_short":3098281.28}],"group":{"gid":"g041","fund_usd":3091544.43},"method":"short_ladder_30d_lifo"}
+{"symbol":"PHAROS","updated":1795422204,"price":0.5712,"windows":[{"w":"60m","ret_pct":0.088,"from":0.5706977859,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3098281.28,"left_short":3098281.28}],"group":{"gid":"g041","fund_usd":3091544.43},"method":"short_ladder_30d_lifo"}
