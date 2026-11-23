@@ -132,3 +132,5 @@
 {"ts":1795440936,"sym":"GUA","kind":"oi","val":15.4,"msg":"OI +15.4%（0.6M→0.7M）"}
 {"ts":1795440936,"sym":"SAPIEN","kind":"squeeze_30m","val":7.969,"msg":"30m 爆拉 +8.0% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795440936,"sym":"SAPIEN","kind":"squeeze_60m","val":7.45,"msg":"60m 爆拉 +7.5% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795441403,"sym":"SKY","kind":"oi","val":15.7,"msg":"OI +15.7%（1.7M→2.0M）"}
+{"ts":1795441403,"sym":"SAPIEN","kind":"squeeze_8m","val":3.071,"msg":"8m 爆拉 +3.1% → 扫空头 $0.01M，损失 $0K"}
