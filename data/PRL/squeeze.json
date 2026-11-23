@@ -1,1 +1,1 @@
-{"symbol":"PRL","updated":1795429042,"price":0.07239,"windows":[{"w":"8m","ret_pct":0.097,"from":0.0723198497,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":705894.16,"left_short":705894.16}],"group":{"gid":"g064","fund_usd":2026178.78},"method":"short_ladder_30d_lifo"}
+{"symbol":"PRL","updated":1795436609,"price":0.07192,"windows":[{"w":"60m","ret_pct":0.014,"from":0.0719099326,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":705894.16,"left_short":705894.16}],"group":{"gid":"g064","fund_usd":2026178.78},"method":"short_ladder_30d_lifo"}
