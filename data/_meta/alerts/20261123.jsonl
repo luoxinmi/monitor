@@ -109,3 +109,5 @@
 {"ts":1795432642,"sym":"MUBARAK","kind":"price","val":16.61,"msg":"24h +16.6%"}
 {"ts":1795432642,"sym":"MUBARAK","kind":"squeeze_8m","val":4.617,"msg":"8m 爆拉 +4.6% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795432642,"sym":"SKY","kind":"squeeze_8m","val":3.378,"msg":"8m 爆拉 +3.4% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795432769,"sym":"SKY","kind":"squeeze_30m","val":2.771,"msg":"30m 爆拉 +2.8% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795432769,"sym":"SKY","kind":"squeeze_60m","val":2.038,"msg":"60m 爆拉 +2.0% → 扫空头 $0.00M，损失 $0K"}
