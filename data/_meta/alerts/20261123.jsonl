@@ -61,3 +61,4 @@
 {"ts":1795404937,"sym":"H","kind":"price","val":15.45,"msg":"24h +15.4%"}
 {"ts":1795404937,"sym":"VANA","kind":"oi","val":20.2,"msg":"OI +20.2%（0.2M→0.2M）"}
 {"ts":1795404937,"sym":"ZEST","kind":"price","val":15.06,"msg":"24h +15.1%"}
+{"ts":1795405881,"sym":"BAN","kind":"funding","val":0.1055,"msg":"费率 +0.106%"}
