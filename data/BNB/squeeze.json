@@ -1,1 +1,1 @@
-{"symbol":"BNB","updated":1795465463,"price":559.7,"windows":[{"w":"30m","ret_pct":0.089,"from":559.2023099441,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":138929731.57,"left_short":138929731.57}],"group":{"gid":"g003","fund_usd":875630977.36},"method":"short_ladder_30d_lifo"}
+{"symbol":"BNB","updated":1795472242,"price":556.7,"windows":[{"w":"30m","ret_pct":0.014,"from":556.6220729098,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":138929731.57,"left_short":138929731.57}],"group":{"gid":"g003","fund_usd":875630977.36},"method":"short_ladder_30d_lifo"}

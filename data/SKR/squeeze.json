@@ -1,1 +1,1 @@
-{"symbol":"SKR","updated":1795465463,"price":0.009526,"windows":[{"w":"30m","ret_pct":0.178,"from":0.0095090738,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":880417.2,"left_short":880417.2}],"group":{"gid":"g048","fund_usd":3087639.75},"method":"short_ladder_30d_lifo"}
+{"symbol":"SKR","updated":1795472242,"price":0.009477,"windows":[{"w":"60m","ret_pct":0.18,"from":0.0094599721,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":880417.2,"left_short":880417.2}],"group":{"gid":"g048","fund_usd":3087639.75},"method":"short_ladder_30d_lifo"}
