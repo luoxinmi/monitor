@@ -1,0 +1,22 @@
+{"ts":1795392204,"sym":"ACE","kind":"funding","val":-0.8421,"msg":"费率 -0.842%"}
+{"ts":1795392204,"sym":"AIGENSYN","kind":"funding","val":-0.1733,"msg":"费率 -0.173%"}
+{"ts":1795392204,"sym":"AKE","kind":"price","val":-47.87,"msg":"24h -47.9%"}
+{"ts":1795392204,"sym":"AKE","kind":"funding","val":-0.1303,"msg":"费率 -0.130%"}
+{"ts":1795392204,"sym":"BARD","kind":"funding","val":-0.248,"msg":"费率 -0.248%"}
+{"ts":1795392204,"sym":"BLESS","kind":"price","val":31.8,"msg":"24h +31.8%"}
+{"ts":1795392204,"sym":"BR","kind":"price","val":17.58,"msg":"24h +17.6%"}
+{"ts":1795392204,"sym":"BULLA","kind":"price","val":60.63,"msg":"24h +60.6%"}
+{"ts":1795392204,"sym":"CYBER","kind":"funding","val":-0.3217,"msg":"费率 -0.322%"}
+{"ts":1795392204,"sym":"ELSA","kind":"price","val":22.47,"msg":"24h +22.5%"}
+{"ts":1795392204,"sym":"ENSO","kind":"funding","val":-0.433,"msg":"费率 -0.433%"}
+{"ts":1795392204,"sym":"EVAA","kind":"price","val":-63.23,"msg":"24h -63.2%"}
+{"ts":1795392204,"sym":"IDOL","kind":"price","val":-49.96,"msg":"24h -50.0%"}
+{"ts":1795392204,"sym":"INIT","kind":"funding","val":-0.1115,"msg":"费率 -0.111%"}
+{"ts":1795392204,"sym":"RARE","kind":"funding","val":-0.1612,"msg":"费率 -0.161%"}
+{"ts":1795392204,"sym":"XVG","kind":"funding","val":-0.2314,"msg":"费率 -0.231%"}
+{"ts":1795392204,"sym":"哈基米","kind":"oi","val":13.0,"msg":"OI +13.0%（0.1M→0.1M）"}
+{"ts":1795392204,"sym":"BULLA","kind":"squeeze_8m","val":3.37,"msg":"8m 爆拉 +3.4% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795392204,"sym":"BULLA","kind":"squeeze_30m","val":6.418,"msg":"30m 爆拉 +6.4% → 扫空头 $0.12M，损失 $6K（组基金 0.3%）"}
+{"ts":1795392204,"sym":"BULLA","kind":"squeeze_60m","val":11.902,"msg":"60m 爆拉 +11.9% → 扫空头 $0.19M，损失 $13K（组基金 0.7%）"}
+{"ts":1795392204,"sym":"ACE","kind":"squeeze_30m","val":11.746,"msg":"30m 爆拉 +11.7% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795392204,"sym":"ACE","kind":"squeeze_60m","val":13.796,"msg":"60m 爆拉 +13.8% → 扫空头 $0.00M，损失 $0K"}
