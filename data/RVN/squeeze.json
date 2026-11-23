@@ -1,1 +1,1 @@
-{"symbol":"RVN","updated":1795457843,"price":0.000923,"windows":[{"w":"30m","ret_pct":0.108,"from":0.0009220042,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":865658.4,"left_short":865658.4}],"group":{"gid":"g069","fund_usd":3136522.45},"method":"short_ladder_30d_lifo"}
+{"symbol":"RVN","updated":1795461442,"price":0.000909,"windows":[{"w":"8m","ret_pct":0.221,"from":0.0009069955,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":865658.4,"left_short":865658.4}],"group":{"gid":"g069","fund_usd":3136522.45},"method":"short_ladder_30d_lifo"}
