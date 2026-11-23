@@ -1,1 +1,1 @@
-{"symbol":"DRIFT","updated":1795425443,"price":0.00919,"windows":[{"w":"60m","ret_pct":0.437,"from":0.0091500144,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":678498.55,"left_short":678498.55}],"group":{"gid":"g082","fund_usd":3116601.56},"method":"short_ladder_30d_lifo"}
+{"symbol":"DRIFT","updated":1795432642,"price":0.00913,"windows":[{"w":"8m","ret_pct":0.11,"from":0.009119968,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":678498.55,"left_short":678498.55}],"group":{"gid":"g082","fund_usd":3116601.56},"method":"short_ladder_30d_lifo"}

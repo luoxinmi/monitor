@@ -1,1 +1,1 @@
-{"symbol":"ACH","updated":1795429042,"price":0.003638,"windows":[{"w":"30m","ret_pct":0.055,"from":0.0036360002,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":441992.4,"left_short":441992.4}],"group":{"gid":"g031","fund_usd":3055327.12},"method":"short_ladder_30d_lifo"}
+{"symbol":"ACH","updated":1795432642,"price":0.003637,"windows":[{"w":"8m","ret_pct":0.028,"from":0.0036359819,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":441992.4,"left_short":441992.4}],"group":{"gid":"g031","fund_usd":3055327.12},"method":"short_ladder_30d_lifo"}

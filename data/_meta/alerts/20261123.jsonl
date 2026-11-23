@@ -106,3 +106,6 @@
 {"ts":1795431084,"sym":"DOS","kind":"oi","val":11.6,"msg":"OI +11.6%（1.2M→1.3M）"}
 {"ts":1795431084,"sym":"S","kind":"oi","val":-13.3,"msg":"OI -13.3%（0.9M→0.8M）"}
 {"ts":1795431808,"sym":"SKY","kind":"price","val":-15.29,"msg":"24h -15.3%"}
+{"ts":1795432642,"sym":"MUBARAK","kind":"price","val":16.61,"msg":"24h +16.6%"}
+{"ts":1795432642,"sym":"MUBARAK","kind":"squeeze_8m","val":4.617,"msg":"8m 爆拉 +4.6% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795432642,"sym":"SKY","kind":"squeeze_8m","val":3.378,"msg":"8m 爆拉 +3.4% → 扫空头 $0.00M，损失 $0K"}

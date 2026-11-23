@@ -1,1 +1,1 @@
-{"symbol":"TOSHI","updated":1795429042,"price":7.91e-05,"windows":[{"w":"8m","ret_pct":0.127,"from":7.89997e-05,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":287847.61,"left_short":287847.61}],"group":{"gid":"g102","fund_usd":3017807.06},"method":"short_ladder_30d_lifo"}
+{"symbol":"TOSHI","updated":1795432642,"price":7.91e-05,"windows":[{"w":"30m","ret_pct":0.127,"from":7.89997e-05,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":287847.61,"left_short":287847.61}],"group":{"gid":"g102","fund_usd":3017807.06},"method":"short_ladder_30d_lifo"}

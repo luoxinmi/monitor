@@ -1,1 +1,1 @@
-{"symbol":"MAGIC","updated":1795425443,"price":0.06657,"windows":[{"w":"8m","ret_pct":0.105,"from":0.0665001748,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1858285.98,"left_short":1858285.98}],"group":{"gid":"g056","fund_usd":3011670.85},"method":"short_ladder_30d_lifo"}
+{"symbol":"MAGIC","updated":1795432642,"price":0.06644,"windows":[{"w":"60m","ret_pct":0.015,"from":0.0664300355,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1858285.98,"left_short":1858285.98}],"group":{"gid":"g056","fund_usd":3011670.85},"method":"short_ladder_30d_lifo"}
