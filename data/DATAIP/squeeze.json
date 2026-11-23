@@ -1,1 +1,1 @@
-{"symbol":"DATAIP","updated":1795400241,"price":0.0784,"windows":[{"w":"8m","ret_pct":0.256,"from":0.0781998085,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":820012.09,"left_short":820012.09}],"group":{"gid":"g041","fund_usd":3091544.43},"method":"short_ladder_30d_lifo"}
+{"symbol":"DATAIP","updated":1795403842,"price":0.0782,"windows":[{"w":"30m","ret_pct":0.257,"from":0.0779995412,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":820012.09,"left_short":820012.09}],"group":{"gid":"g041","fund_usd":3091544.43},"method":"short_ladder_30d_lifo"}
