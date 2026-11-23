@@ -1,1 +1,1 @@
-{"symbol":"AAVE","updated":1795396643,"price":96.9,"windows":[{"w":"8m","ret_pct":0.539,"from":96.3805090562,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":20140926.51,"left_short":20140926.51}],"group":{"gid":"g090","fund_usd":80479098.97},"method":"short_ladder_30d_lifo"}
+{"symbol":"AAVE","updated":1795400241,"price":96.43,"windows":[{"w":"8m","ret_pct":0.416,"from":96.0305130656,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":20140926.51,"left_short":20140926.51}],"group":{"gid":"g090","fund_usd":80479098.97},"method":"short_ladder_30d_lifo"}

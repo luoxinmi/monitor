@@ -1,1 +1,1 @@
-{"symbol":"GAS","updated":1795396643,"price":0.907,"windows":[{"w":"8m","ret_pct":0.443,"from":0.9029997113,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":509120.72,"left_short":509120.72}],"group":{"gid":"g031","fund_usd":3055327.12},"method":"short_ladder_30d_lifo"}
+{"symbol":"GAS","updated":1795400241,"price":0.905,"windows":[{"w":"8m","ret_pct":0.333,"from":0.9019963521,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":509120.72,"left_short":509120.72}],"group":{"gid":"g031","fund_usd":3055327.12},"method":"short_ladder_30d_lifo"}

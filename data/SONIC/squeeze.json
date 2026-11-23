@@ -1,1 +1,1 @@
-{"symbol":"SONIC","updated":1795396643,"price":0.01647,"windows":[{"w":"8m","ret_pct":0.061,"from":0.0164599594,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":550958.69,"left_short":550958.69}],"group":{"gid":"g082","fund_usd":3116601.56},"method":"short_ladder_30d_lifo"}
+{"symbol":"SONIC","updated":1795400241,"price":0.0164,"windows":[{"w":"8m","ret_pct":0.183,"from":0.0163700428,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":550958.69,"left_short":550958.69}],"group":{"gid":"g082","fund_usd":3116601.56},"method":"short_ladder_30d_lifo"}

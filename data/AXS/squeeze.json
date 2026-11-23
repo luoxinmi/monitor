@@ -1,1 +1,1 @@
-{"symbol":"AXS","updated":1795396643,"price":0.6144,"windows":[{"w":"8m","ret_pct":0.179,"from":0.6133021891,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1593951.48,"left_short":1593951.48}],"group":{"gid":"g055","fund_usd":3027284.98},"method":"short_ladder_30d_lifo"}
+{"symbol":"AXS","updated":1795400241,"price":0.6119,"windows":[{"w":"8m","ret_pct":0.278,"from":0.6102036339,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1593951.48,"left_short":1593951.48}],"group":{"gid":"g055","fund_usd":3027284.98},"method":"short_ladder_30d_lifo"}

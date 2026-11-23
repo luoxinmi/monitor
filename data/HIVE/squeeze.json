@@ -1,1 +1,1 @@
-{"symbol":"HIVE","updated":1795396643,"price":0.03353,"windows":[{"w":"8m","ret_pct":0.09,"from":0.0334998501,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":441083.44,"left_short":441083.44}],"group":{"gid":"g048","fund_usd":3087639.75},"method":"short_ladder_30d_lifo"}
+{"symbol":"HIVE","updated":1795400241,"price":0.03342,"windows":[{"w":"8m","ret_pct":0.12,"from":0.0333799441,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":441083.44,"left_short":441083.44}],"group":{"gid":"g048","fund_usd":3087639.75},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"RPL","updated":1795396643,"price":1.118,"windows":[{"w":"8m","ret_pct":0.179,"from":1.1160023558,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":314337.59,"left_short":314337.59}],"group":{"gid":"g113","fund_usd":1064585.6},"method":"short_ladder_30d_lifo"}
+{"symbol":"RPL","updated":1795400241,"price":1.11,"windows":[{"w":"8m","ret_pct":0.18,"from":1.1080055899,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":314337.59,"left_short":314337.59}],"group":{"gid":"g113","fund_usd":1064585.6},"method":"short_ladder_30d_lifo"}
