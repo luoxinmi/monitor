@@ -774,3 +774,4 @@
 {"ts":1795459403,"sym":"ICNT","kind":"price","val":-15.31,"msg":"24h -15.3%"}
 {"ts":1795460362,"sym":"GTC","kind":"funding","val":-0.1008,"msg":"费率 -0.101%"}
 {"ts":1795460601,"sym":"STBL","kind":"price","val":15.44,"msg":"24h +15.4%"}
+{"ts":1795467563,"sym":"US","kind":"funding","val":-0.1051,"msg":"费率 -0.105%"}
