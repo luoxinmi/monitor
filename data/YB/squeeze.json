@@ -1,1 +1,1 @@
-{"symbol":"YB","updated":1795465345,"price":0.05604,"windows":[{"w":"8m","ret_pct":0.376,"from":0.0558300789,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1306769.54,"left_short":1306769.54}],"group":{"gid":"g072","fund_usd":3085387.58},"method":"short_ladder_30d_lifo"}
+{"symbol":"YB","updated":1795465463,"price":0.05611,"windows":[{"w":"8m","ret_pct":0.179,"from":0.0560097426,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1306769.54,"left_short":1306769.54}],"group":{"gid":"g072","fund_usd":3085387.58},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"CYBER","updated":1795465345,"price":0.2149,"windows":[{"w":"8m","ret_pct":0.14,"from":0.2145995606,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2898799.29,"left_short":2898799.29}],"group":{"gid":"g063","fund_usd":3109441.98},"method":"short_ladder_30d_lifo"}
+{"symbol":"CYBER","updated":1795465463,"price":0.2156,"windows":[{"w":"8m","ret_pct":0.186,"from":0.2151997285,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2898799.29,"left_short":2898799.29}],"group":{"gid":"g063","fund_usd":3109441.98},"method":"short_ladder_30d_lifo"}

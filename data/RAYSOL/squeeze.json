@@ -1,1 +1,1 @@
-{"symbol":"RAYSOL","updated":1795465345,"price":1.3321,"windows":[{"w":"30m","ret_pct":0.399,"from":1.3268060439,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1657031.95,"left_short":1657031.95}],"group":{"gid":"g080","fund_usd":2054267.98},"method":"short_ladder_30d_lifo"}
+{"symbol":"RAYSOL","updated":1795465463,"price":1.333,"windows":[{"w":"30m","ret_pct":0.249,"from":1.3296890742,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1657031.95,"left_short":1657031.95}],"group":{"gid":"g080","fund_usd":2054267.98},"method":"short_ladder_30d_lifo"}

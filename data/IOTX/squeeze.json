@@ -1,1 +1,1 @@
-{"symbol":"IOTX","updated":1795465345,"price":0.002384,"windows":[{"w":"30m","ret_pct":0.21,"from":0.0023790041,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":489692.38,"left_short":489692.38}],"group":{"gid":"g016","fund_usd":3014662.18},"method":"short_ladder_30d_lifo"}
+{"symbol":"IOTX","updated":1795465463,"price":0.002386,"windows":[{"w":"30m","ret_pct":0.294,"from":0.0023790057,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":489692.38,"left_short":489692.38}],"group":{"gid":"g016","fund_usd":3014662.18},"method":"short_ladder_30d_lifo"}
