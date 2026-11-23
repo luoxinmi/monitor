@@ -94,3 +94,4 @@
 {"ts":1795421961,"sym":"BULLA","kind":"funding","val":0.101,"msg":"费率 +0.101%"}
 {"ts":1795422936,"sym":"PIEVERSE","kind":"price","val":-15.19,"msg":"24h -15.2%"}
 {"ts":1795422936,"sym":"PROM","kind":"oi","val":11.6,"msg":"OI +11.6%（1.6M→1.8M）"}
+{"ts":1795424736,"sym":"KAVA","kind":"funding","val":-0.1025,"msg":"费率 -0.103%"}
