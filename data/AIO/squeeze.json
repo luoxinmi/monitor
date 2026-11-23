@@ -1,1 +1,1 @@
-{"symbol":"AIO","updated":1795465048,"price":0.03038,"windows":[{"w":"30m","ret_pct":0.231,"from":0.0303099839,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1304466.94,"left_short":1304466.94}],"group":{"gid":"g121","fund_usd":3050711.19},"method":"short_ladder_30d_lifo"}
+{"symbol":"AIO","updated":1795468643,"price":0.0302,"windows":[{"w":"30m","ret_pct":0.066,"from":0.0301800811,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1304466.94,"left_short":1304466.94}],"group":{"gid":"g121","fund_usd":3050711.19},"method":"short_ladder_30d_lifo"}
