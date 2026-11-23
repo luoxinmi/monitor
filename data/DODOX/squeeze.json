@@ -1,1 +1,1 @@
-{"symbol":"DODOX","updated":1795411041,"price":0.039968,"windows":[{"w":"30m","ret_pct":0.205,"from":0.0398862332,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4478085.41,"left_short":4478085.41}],"group":{"gid":"g017","fund_usd":1536610.74},"method":"short_ladder_30d_lifo"}
+{"symbol":"DODOX","updated":1795414649,"price":0.039898,"windows":[{"w":"30m","ret_pct":0.259,"from":0.0397949311,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4478085.41,"left_short":4478085.41}],"group":{"gid":"g017","fund_usd":1536610.74},"method":"short_ladder_30d_lifo"}

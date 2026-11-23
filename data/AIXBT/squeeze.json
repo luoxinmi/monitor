@@ -1,1 +1,1 @@
-{"symbol":"AIXBT","updated":1795411041,"price":0.01175,"windows":[{"w":"8m","ret_pct":0.256,"from":0.0117199968,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":638932.94,"left_short":638932.94}],"group":{"gid":"g018","fund_usd":3025571.45},"method":"short_ladder_30d_lifo"}
+{"symbol":"AIXBT","updated":1795414649,"price":0.01185,"windows":[{"w":"60m","ret_pct":0.851,"from":0.0117500074,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":638932.94,"left_short":638932.94}],"group":{"gid":"g018","fund_usd":3025571.45},"method":"short_ladder_30d_lifo"}
