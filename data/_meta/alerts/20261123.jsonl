@@ -766,3 +766,7 @@
 {"ts":1795456283,"sym":"ONE","kind":"squeeze_8m","val":3.15,"msg":"8m 爆拉 +3.1% → 扫空头 $0.01M，损失 $0K"}
 {"ts":1795456283,"sym":"ONE","kind":"squeeze_30m","val":6.3,"msg":"30m 爆拉 +6.3% → 扫空头 $0.01M，损失 $0K"}
 {"ts":1795456283,"sym":"ONE","kind":"squeeze_60m","val":6.397,"msg":"60m 爆拉 +6.4% → 扫空头 $0.01M，损失 $0K"}
+{"ts":1795456762,"sym":"BNT","kind":"funding","val":-0.1005,"msg":"费率 -0.100%"}
+{"ts":1795456762,"sym":"CAP","kind":"price","val":15.02,"msg":"24h +15.0%"}
+{"ts":1795456762,"sym":"NAORIS","kind":"price","val":-15.99,"msg":"24h -16.0%"}
+{"ts":1795456762,"sym":"ONE","kind":"oi","val":21.8,"msg":"OI +21.8%（1.2M→1.5M）"}
