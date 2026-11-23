@@ -536,3 +536,4 @@
 {"ts":1795452683,"sym":"BROCCOLIF3B","kind":"funding","val":0.1081,"msg":"费率 +0.108%"}
 {"ts":1795452683,"sym":"TRADOOR","kind":"oi","val":22.9,"msg":"OI +22.9%（0.3M→0.3M）"}
 {"ts":1795453163,"sym":"INX","kind":"funding","val":0.1019,"msg":"费率 +0.102%"}
+{"ts":1795453883,"sym":"JUP","kind":"oi","val":13.6,"msg":"OI +13.6%（6.9M→7.9M）"}
