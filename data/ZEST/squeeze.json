@@ -1,1 +1,1 @@
-{"symbol":"ZEST","updated":1795393040,"price":0.12923,"windows":[{"w":"30m","ret_pct":0.443,"from":0.128660036,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2812417.38,"left_short":2812417.38}],"group":{"gid":"g017","fund_usd":1536610.74},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZEST","updated":1795393409,"price":0.12917,"windows":[{"w":"30m","ret_pct":0.163,"from":0.1289597955,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2812417.38,"left_short":2812417.38}],"group":{"gid":"g017","fund_usd":1536610.74},"method":"short_ladder_30d_lifo"}
