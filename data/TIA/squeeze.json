@@ -1,1 +1,1 @@
-{"symbol":"TIA","updated":1795447043,"price":0.3481,"windows":[{"w":"8m","ret_pct":0.144,"from":0.3475994568,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5283660.43,"left_short":5283660.43}],"group":{"gid":"g099","fund_usd":3031581.5},"method":"short_ladder_30d_lifo"}
+{"symbol":"TIA","updated":1795450643,"price":0.3471,"windows":[{"w":"30m","ret_pct":0.493,"from":0.3453971918,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5283660.43,"left_short":5283660.43}],"group":{"gid":"g099","fund_usd":3031581.5},"method":"short_ladder_30d_lifo"}

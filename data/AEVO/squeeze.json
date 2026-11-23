@@ -1,1 +1,1 @@
-{"symbol":"AEVO","updated":1795447043,"price":0.01635,"windows":[{"w":"8m","ret_pct":0.061,"from":0.0163400326,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":555843.38,"left_short":555843.38}],"group":{"gid":"g017","fund_usd":1536610.74},"method":"short_ladder_30d_lifo"}
+{"symbol":"AEVO","updated":1795450643,"price":0.01625,"windows":[{"w":"30m","ret_pct":0.494,"from":0.0161701196,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":555843.38,"left_short":555843.38}],"group":{"gid":"g017","fund_usd":1536610.74},"method":"short_ladder_30d_lifo"}
