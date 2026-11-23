@@ -770,3 +770,4 @@
 {"ts":1795456762,"sym":"CAP","kind":"price","val":15.02,"msg":"24h +15.0%"}
 {"ts":1795456762,"sym":"NAORIS","kind":"price","val":-15.99,"msg":"24h -16.0%"}
 {"ts":1795456762,"sym":"ONE","kind":"oi","val":21.8,"msg":"OI +21.8%（1.2M→1.5M）"}
+{"ts":1795457843,"sym":"ONE","kind":"funding","val":-0.1361,"msg":"费率 -0.136%"}

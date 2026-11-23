@@ -1,1 +1,1 @@
-{"symbol":"VANA","updated":1795454247,"price":0.583,"windows":[{"w":"30m","ret_pct":0.172,"from":0.5819989618,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":700210.7,"left_short":700210.7}],"group":{"gid":"g041","fund_usd":3091544.43},"method":"short_ladder_30d_lifo"}
+{"symbol":"VANA","updated":1795457843,"price":0.5787,"windows":[{"w":"30m","ret_pct":0.364,"from":0.5766011717,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":700210.7,"left_short":700210.7}],"group":{"gid":"g041","fund_usd":3091544.43},"method":"short_ladder_30d_lifo"}
