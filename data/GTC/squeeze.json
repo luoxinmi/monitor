@@ -1,1 +1,1 @@
-{"symbol":"GTC","updated":1795418241,"price":0.1308,"windows":[{"w":"8m","ret_pct":0.023,"from":0.1307699229,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1241760.32,"left_short":1241760.32}],"group":{"gid":"g088","fund_usd":2140382.26},"method":"short_ladder_30d_lifo"}
+{"symbol":"GTC","updated":1795419728,"price":0.13021,"windows":[{"w":"8m","ret_pct":0.061,"from":0.1301306203,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1241760.32,"left_short":1241760.32}],"group":{"gid":"g088","fund_usd":2140382.26},"method":"short_ladder_30d_lifo"}
