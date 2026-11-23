@@ -1,1 +1,1 @@
-{"symbol":"MTL","updated":1795393040,"price":0.1967,"windows":[{"w":"8m","ret_pct":0.051,"from":0.1965997341,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":454593.45,"left_short":454593.45}],"group":{"gid":"g051","fund_usd":3033523.27},"method":"short_ladder_30d_lifo"}
+{"symbol":"MTL","updated":1795396643,"price":0.1959,"windows":[{"w":"8m","ret_pct":0.462,"from":0.1949991041,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":454593.45,"left_short":454593.45}],"group":{"gid":"g051","fund_usd":3033523.27},"method":"short_ladder_30d_lifo"}

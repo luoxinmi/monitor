@@ -1,1 +1,1 @@
-{"symbol":"BEL","updated":1795393409,"price":0.08009,"windows":[{"w":"8m","ret_pct":0.025,"from":0.0800699825,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":526814.99,"left_short":526814.99}],"group":{"gid":"g106","fund_usd":3054404.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"BEL","updated":1795396643,"price":0.08002,"windows":[{"w":"30m","ret_pct":0.125,"from":0.0799200999,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":526814.99,"left_short":526814.99}],"group":{"gid":"g106","fund_usd":3054404.39},"method":"short_ladder_30d_lifo"}

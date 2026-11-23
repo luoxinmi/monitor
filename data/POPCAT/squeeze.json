@@ -1,1 +1,1 @@
-{"symbol":"POPCAT","updated":1795393409,"price":0.02437,"windows":[{"w":"8m","ret_pct":0.041,"from":0.0243600124,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":627888.68,"left_short":627888.68}],"group":{"gid":"g010","fund_usd":1949781.59},"method":"short_ladder_30d_lifo"}
+{"symbol":"POPCAT","updated":1795396643,"price":0.02429,"windows":[{"w":"8m","ret_pct":0.248,"from":0.0242299098,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":627888.68,"left_short":627888.68}],"group":{"gid":"g010","fund_usd":1949781.59},"method":"short_ladder_30d_lifo"}
