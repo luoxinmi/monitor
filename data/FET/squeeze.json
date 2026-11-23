@@ -1,1 +1,1 @@
-{"symbol":"FET","updated":1795465345,"price":0.11,"windows":[{"w":"30m","ret_pct":0.273,"from":0.1097005176,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7589083.54,"left_short":7589083.54}],"group":{"gid":"g101","fund_usd":3044264.72},"method":"short_ladder_30d_lifo"}
+{"symbol":"FET","updated":1795475847,"price":0.1079,"windows":[{"w":"30m","ret_pct":0.841,"from":0.1070001289,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7589083.54,"left_short":7589083.54}],"group":{"gid":"g101","fund_usd":3044264.72},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"NAORIS","updated":1795472242,"price":0.03039,"windows":[{"w":"8m","ret_pct":0.132,"from":0.0303499381,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3537683.72,"left_short":3537683.72}],"group":{"gid":"g095","fund_usd":3042323.6},"method":"short_ladder_30d_lifo"}
+{"symbol":"NAORIS","updated":1795475847,"price":0.03038,"windows":[{"w":"30m","ret_pct":0.53,"from":0.0302198349,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3537683.72,"left_short":3537683.72}],"group":{"gid":"g095","fund_usd":3042323.6},"method":"short_ladder_30d_lifo"}
