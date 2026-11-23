@@ -45,3 +45,6 @@
 {"ts":1795401335,"sym":"WET","kind":"funding","val":-0.1093,"msg":"费率 -0.109%"}
 {"ts":1795402282,"sym":"BERA","kind":"funding","val":-0.127,"msg":"费率 -0.127%"}
 {"ts":1795402282,"sym":"IOST","kind":"oi","val":16.7,"msg":"OI +16.7%（0.6M→0.7M）"}
+{"ts":1795402766,"sym":"AKE","kind":"squeeze_8m","val":6.17,"msg":"8m 爆拉 +6.2% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795402766,"sym":"AKE","kind":"squeeze_30m","val":7.876,"msg":"30m 爆拉 +7.9% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795402766,"sym":"AKE","kind":"squeeze_60m","val":2.266,"msg":"60m 爆拉 +2.3% → 扫空头 $0.00M，损失 $0K"}
