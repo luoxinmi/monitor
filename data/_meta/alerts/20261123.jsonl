@@ -113,3 +113,4 @@
 {"ts":1795432769,"sym":"SKY","kind":"squeeze_60m","val":2.038,"msg":"60m 爆拉 +2.0% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795433242,"sym":"PROM","kind":"price","val":16.26,"msg":"24h +16.3%"}
 {"ts":1795434203,"sym":"LSK","kind":"funding","val":-0.1014,"msg":"费率 -0.101%"}
+{"ts":1795434682,"sym":"VELVET","kind":"price","val":15.25,"msg":"24h +15.3%"}
