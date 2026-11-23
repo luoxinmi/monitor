@@ -1,1 +1,1 @@
-{"symbol":"BNT","updated":1795414649,"price":0.217,"windows":[{"w":"60m","ret_pct":0.324,"from":0.2162991906,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":318690.34,"left_short":318690.34}],"group":{"gid":"g114","fund_usd":1007484.15},"method":"short_ladder_30d_lifo"}
+{"symbol":"BNT","updated":1795418241,"price":0.2169,"windows":[{"w":"8m","ret_pct":0.046,"from":0.2168002719,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":318690.34,"left_short":318690.34}],"group":{"gid":"g114","fund_usd":1007484.15},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"LAB","updated":1795414649,"price":0.03186,"windows":[{"w":"60m","ret_pct":0.157,"from":0.0318100582,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3439511.16,"left_short":3439511.16}],"group":{"gid":"g084","fund_usd":1770789.45},"method":"short_ladder_30d_lifo"}
+{"symbol":"LAB","updated":1795418241,"price":0.03209,"windows":[{"w":"60m","ret_pct":0.627,"from":0.0318900494,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3439511.16,"left_short":3439511.16}],"group":{"gid":"g084","fund_usd":1770789.45},"method":"short_ladder_30d_lifo"}

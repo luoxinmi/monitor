@@ -1,1 +1,1 @@
-{"symbol":"HEI","updated":1795414649,"price":0.07881,"windows":[{"w":"60m","ret_pct":0.844,"from":0.0781504105,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":835332.57,"left_short":835332.57}],"group":{"gid":"g061","fund_usd":3056657.92},"method":"short_ladder_30d_lifo"}
+{"symbol":"HEI","updated":1795418241,"price":0.07907,"windows":[{"w":"60m","ret_pct":0.266,"from":0.0788602318,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":835332.57,"left_short":835332.57}],"group":{"gid":"g061","fund_usd":3056657.92},"method":"short_ladder_30d_lifo"}
