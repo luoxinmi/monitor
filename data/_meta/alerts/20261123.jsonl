@@ -533,3 +533,5 @@
 {"ts":1795451003,"sym":"CROSS","kind":"price","val":-15.04,"msg":"24h -15.0%"}
 {"ts":1795451737,"sym":"CYS","kind":"squeeze_30m","val":9.917,"msg":"30m 爆拉 +9.9% → 扫空头 $0.04M，损失 $2K（组基金 0.1%）"}
 {"ts":1795451737,"sym":"CYS","kind":"squeeze_60m","val":10.14,"msg":"60m 爆拉 +10.1% → 扫空头 $0.04M，损失 $2K（组基金 0.1%）"}
+{"ts":1795452683,"sym":"BROCCOLIF3B","kind":"funding","val":0.1081,"msg":"费率 +0.108%"}
+{"ts":1795452683,"sym":"TRADOOR","kind":"oi","val":22.9,"msg":"OI +22.9%（0.3M→0.3M）"}
