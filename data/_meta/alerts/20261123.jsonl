@@ -90,3 +90,4 @@
 {"ts":1795421138,"sym":"CYS","kind":"price","val":16.17,"msg":"24h +16.2%"}
 {"ts":1795421138,"sym":"CYS","kind":"oi","val":10.6,"msg":"OI +10.6%（0.7M→0.8M）"}
 {"ts":1795421489,"sym":"1000LUNC","kind":"funding","val":-0.1017,"msg":"费率 -0.102%"}
+{"ts":1795421843,"sym":"SKYAI","kind":"price","val":-16.26,"msg":"24h -16.3%"}
