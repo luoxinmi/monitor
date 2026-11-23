@@ -1,1 +1,1 @@
-{"symbol":"RSR","updated":1795432642,"price":0.001265,"windows":[{"w":"8m","ret_pct":0.158,"from":0.0012630045,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1330890.21,"left_short":1330890.21}],"group":{"gid":"g052","fund_usd":3098014.35},"method":"short_ladder_30d_lifo"}
+{"symbol":"RSR","updated":1795436242,"price":0.001266,"windows":[{"w":"30m","ret_pct":0.079,"from":0.0012650006,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1330890.21,"left_short":1330890.21}],"group":{"gid":"g052","fund_usd":3098014.35},"method":"short_ladder_30d_lifo"}

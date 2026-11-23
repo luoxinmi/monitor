@@ -1,1 +1,1 @@
-{"symbol":"ETC","updated":1795429042,"price":5.858,"windows":[{"w":"30m","ret_pct":0.051,"from":5.8550139429,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6831945.93,"left_short":6831945.93}],"group":{"gid":"g077","fund_usd":52564268.77},"method":"short_ladder_30d_lifo"}
+{"symbol":"ETC","updated":1795436242,"price":5.831,"windows":[{"w":"60m","ret_pct":0.017,"from":5.8300088985,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6831945.93,"left_short":6831945.93}],"group":{"gid":"g077","fund_usd":52564268.77},"method":"short_ladder_30d_lifo"}
