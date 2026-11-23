@@ -1,1 +1,1 @@
-{"symbol":"SXT","updated":1795450643,"price":0.008031,"windows":[{"w":"30m","ret_pct":0.199,"from":0.0080150501,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":704740.91,"left_short":704740.91}],"group":{"gid":"g113","fund_usd":1064585.6},"method":"short_ladder_30d_lifo"}
+{"symbol":"SXT","updated":1795451003,"price":0.008039,"windows":[{"w":"8m","ret_pct":0.087,"from":0.0080320121,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":704740.91,"left_short":704740.91}],"group":{"gid":"g113","fund_usd":1064585.6},"method":"short_ladder_30d_lifo"}
