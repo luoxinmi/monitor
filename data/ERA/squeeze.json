@@ -1,1 +1,1 @@
-{"symbol":"ERA","updated":1795403842,"price":0.07246,"windows":[{"w":"8m","ret_pct":0.138,"from":0.072360143,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2238658.17,"left_short":2238658.17}],"group":{"gid":"g094","fund_usd":2067048.81},"method":"short_ladder_30d_lifo"}
+{"symbol":"ERA","updated":1795407442,"price":0.07274,"windows":[{"w":"60m","ret_pct":0.179,"from":0.072610028,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2238658.17,"left_short":2238658.17}],"group":{"gid":"g094","fund_usd":2067048.81},"method":"short_ladder_30d_lifo"}
