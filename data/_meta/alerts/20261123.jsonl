@@ -43,3 +43,5 @@
 {"ts":1795400917,"sym":"ESPORTS","kind":"squeeze_60m","val":3.915,"msg":"60m 爆拉 +3.9% → 扫空头 $0.63M，损失 $13K（组基金 0.6%）"}
 {"ts":1795401335,"sym":"ESPORTS","kind":"funding","val":0.1039,"msg":"费率 +0.104%"}
 {"ts":1795401335,"sym":"WET","kind":"funding","val":-0.1093,"msg":"费率 -0.109%"}
+{"ts":1795402282,"sym":"BERA","kind":"funding","val":-0.127,"msg":"费率 -0.127%"}
+{"ts":1795402282,"sym":"IOST","kind":"oi","val":16.7,"msg":"OI +16.7%（0.6M→0.7M）"}
