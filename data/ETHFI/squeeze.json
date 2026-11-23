@@ -1,1 +1,1 @@
-{"symbol":"ETHFI","updated":1795464988,"price":0.4884,"windows":[{"w":"8m","ret_pct":0.308,"from":0.4869003469,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":11349604.91,"left_short":11349604.91}],"group":{"gid":"g001","fund_usd":3072186.68},"method":"short_ladder_30d_lifo"}
+{"symbol":"ETHFI","updated":1795465048,"price":0.4883,"windows":[{"w":"8m","ret_pct":0.288,"from":0.4868977345,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":11349604.91,"left_short":11349604.91}],"group":{"gid":"g001","fund_usd":3072186.68},"method":"short_ladder_30d_lifo"}
