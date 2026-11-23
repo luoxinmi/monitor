@@ -41,3 +41,5 @@
 {"ts":1795400917,"sym":"ESPORTS","kind":"squeeze_8m","val":3.171,"msg":"8m 爆拉 +3.2% → 扫空头 $0.63M，损失 $13K（组基金 0.6%）"}
 {"ts":1795400917,"sym":"ESPORTS","kind":"squeeze_30m","val":4.399,"msg":"30m 爆拉 +4.4% → 扫空头 $0.63M，损失 $13K（组基金 0.6%）"}
 {"ts":1795400917,"sym":"ESPORTS","kind":"squeeze_60m","val":3.915,"msg":"60m 爆拉 +3.9% → 扫空头 $0.63M，损失 $13K（组基金 0.6%）"}
+{"ts":1795401335,"sym":"ESPORTS","kind":"funding","val":0.1039,"msg":"费率 +0.104%"}
+{"ts":1795401335,"sym":"WET","kind":"funding","val":-0.1093,"msg":"费率 -0.109%"}
