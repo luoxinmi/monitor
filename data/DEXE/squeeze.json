@@ -1,1 +1,1 @@
-{"symbol":"DEXE","updated":1795422204,"price":1.182,"windows":[{"w":"60m","ret_pct":1.11,"from":1.1690238354,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1308507.52,"left_short":1308507.52}],"group":{"gid":"g080","fund_usd":2054267.98},"method":"short_ladder_30d_lifo"}
+{"symbol":"DEXE","updated":1795425443,"price":1.179,"windows":[{"w":"8m","ret_pct":0.17,"from":1.1769991015,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1308507.52,"left_short":1308507.52}],"group":{"gid":"g080","fund_usd":2054267.98},"method":"short_ladder_30d_lifo"}
