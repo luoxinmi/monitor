@@ -1,1 +1,1 @@
-{"symbol":"TAC","updated":1795548873,"price":0.001116,"windows":[{"w":"30m","ret_pct":0.18,"from":0.0011139948,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1462311.03,"left_short":1462311.03}],"group":{"gid":"g056","fund_usd":3016421.54},"method":"short_ladder_30d_lifo"}
+{"symbol":"TAC","updated":1795551446,"price":0.001114,"windows":[{"w":"8m","ret_pct":0.09,"from":0.0011129983,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1462311.03,"left_short":1462311.03}],"group":{"gid":"g056","fund_usd":3016421.54},"method":"short_ladder_30d_lifo"}

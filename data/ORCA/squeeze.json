@@ -1,1 +1,1 @@
-{"symbol":"ORCA","updated":1795547844,"price":1.172,"windows":[{"w":"8m","ret_pct":0.085,"from":1.1710046461,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1738338.35,"left_short":1738338.35}],"group":{"gid":"g072","fund_usd":3085740.03},"method":"short_ladder_30d_lifo"}
+{"symbol":"ORCA","updated":1795551446,"price":1.164,"windows":[{"w":"8m","ret_pct":0.086,"from":1.1629998202,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1738338.35,"left_short":1738338.35}],"group":{"gid":"g072","fund_usd":3085740.03},"method":"short_ladder_30d_lifo"}

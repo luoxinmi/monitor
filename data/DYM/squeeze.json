@@ -1,1 +1,1 @@
-{"symbol":"DYM","updated":1795548873,"price":0.01094,"windows":[{"w":"30m","ret_pct":0.183,"from":0.0109200164,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":518736.5,"left_short":518736.5}],"group":{"gid":"g067","fund_usd":3069487.09},"method":"short_ladder_30d_lifo"}
+{"symbol":"DYM","updated":1795551446,"price":0.01086,"windows":[{"w":"8m","ret_pct":0.092,"from":0.010850018,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":518736.5,"left_short":518736.5}],"group":{"gid":"g067","fund_usd":3069487.09},"method":"short_ladder_30d_lifo"}

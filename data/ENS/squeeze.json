@@ -1,1 +1,1 @@
-{"symbol":"ENS","updated":1795548873,"price":3.482,"windows":[{"w":"30m","ret_pct":0.058,"from":3.4799816107,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1136892.15,"left_short":1136892.15}],"group":{"gid":"g116","fund_usd":3095365.49},"method":"short_ladder_30d_lifo"}
+{"symbol":"ENS","updated":1795551446,"price":3.46,"windows":[{"w":"8m","ret_pct":0.087,"from":3.4569924166,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1136892.15,"left_short":1136892.15}],"group":{"gid":"g116","fund_usd":3095365.49},"method":"short_ladder_30d_lifo"}
