@@ -1,1 +1,1 @@
-{"symbol":"KGEN","updated":1795547844,"price":0.08977,"windows":[{"w":"8m","ret_pct":0.045,"from":0.0897296217,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2095102.34,"left_short":2095102.34}],"group":{"gid":"g118","fund_usd":3090166.17},"method":"short_ladder_30d_lifo"}
+{"symbol":"KGEN","updated":1795555044,"price":0.0878,"windows":[{"w":"30m","ret_pct":0.297,"from":0.0875400062,"N":2189.9,"L":0.0,"uN":0.0007,"uL":0.0,"total_short_ladder":2095102.34,"left_short":2092912.44}],"group":{"gid":"g118","fund_usd":3090166.17},"method":"short_ladder_30d_lifo"}

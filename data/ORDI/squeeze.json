@@ -1,1 +1,1 @@
-{"symbol":"ORDI","updated":1795548873,"price":2.568,"windows":[{"w":"30m","ret_pct":0.313,"from":2.5599872399,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2044285.51,"left_short":2044285.51}],"group":{"gid":"g015","fund_usd":3054127.59},"method":"short_ladder_30d_lifo"}
+{"symbol":"ORDI","updated":1795555044,"price":2.557,"windows":[{"w":"60m","ret_pct":0.157,"from":2.5529918029,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2044285.51,"left_short":2044285.51}],"group":{"gid":"g015","fund_usd":3054127.59},"method":"short_ladder_30d_lifo"}

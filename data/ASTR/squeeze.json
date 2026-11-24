@@ -1,1 +1,1 @@
-{"symbol":"ASTR","updated":1795551446,"price":0.004423,"windows":[{"w":"8m","ret_pct":0.181,"from":0.0044150088,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":476743.73,"left_short":476743.73}],"group":{"gid":"g021","fund_usd":3020940.32},"method":"short_ladder_30d_lifo"}
+{"symbol":"ASTR","updated":1795555044,"price":0.004396,"windows":[{"w":"8m","ret_pct":0.091,"from":0.0043920033,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":476743.73,"left_short":476743.73}],"group":{"gid":"g021","fund_usd":3020940.32},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"BARD","updated":1795551446,"price":0.0828,"windows":[{"w":"8m","ret_pct":0.121,"from":0.0826999331,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2734535.17,"left_short":2734535.17}],"group":{"gid":"g019","fund_usd":1908286.4},"method":"short_ladder_30d_lifo"}
+{"symbol":"BARD","updated":1795555044,"price":0.0832,"windows":[{"w":"60m","ret_pct":0.362,"from":0.0828999024,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2734535.17,"left_short":2734535.17}],"group":{"gid":"g019","fund_usd":1908286.4},"method":"short_ladder_30d_lifo"}

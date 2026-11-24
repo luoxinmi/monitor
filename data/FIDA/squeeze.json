@@ -1,1 +1,1 @@
-{"symbol":"FIDA","updated":1795548873,"price":0.01271,"windows":[{"w":"30m","ret_pct":0.157,"from":0.0126900766,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":435328.73,"left_short":435328.73}],"group":{"gid":"g030","fund_usd":3028496.25},"method":"short_ladder_30d_lifo"}
+{"symbol":"FIDA","updated":1795555044,"price":0.01269,"windows":[{"w":"60m","ret_pct":0.158,"from":0.0126699814,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":435328.73,"left_short":435328.73}],"group":{"gid":"g030","fund_usd":3028496.25},"method":"short_ladder_30d_lifo"}
