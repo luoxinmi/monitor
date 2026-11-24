@@ -1,1 +1,1 @@
-{"symbol":"ZEREBRO","updated":1795544254,"price":0.020449,"windows":[{"w":"30m","ret_pct":0.581,"from":0.0203308776,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1543321.3,"left_short":1543321.3}],"group":{"gid":"g118","fund_usd":3090166.17},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZEREBRO","updated":1795547844,"price":0.020136,"windows":[{"w":"8m","ret_pct":0.319,"from":0.0200719704,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1543321.3,"left_short":1543321.3}],"group":{"gid":"g118","fund_usd":3090166.17},"method":"short_ladder_30d_lifo"}

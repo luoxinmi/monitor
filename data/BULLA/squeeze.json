@@ -1,1 +1,1 @@
-{"symbol":"BULLA","updated":1795544254,"price":0.0241,"windows":[{"w":"60m","ret_pct":0.25,"from":0.0240399002,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4964380.42,"left_short":4964380.42}],"group":{"gid":"g084","fund_usd":1789655.88},"method":"short_ladder_30d_lifo"}
+{"symbol":"BULLA","updated":1795547844,"price":0.02486,"windows":[{"w":"60m","ret_pct":3.194,"from":0.0240905479,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4964380.42,"left_short":4964380.42}],"group":{"gid":"g084","fund_usd":1789655.88},"method":"short_ladder_30d_lifo"}

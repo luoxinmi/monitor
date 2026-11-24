@@ -1,1 +1,1 @@
-{"symbol":"JCT","updated":1795540645,"price":0.001495,"windows":[{"w":"60m","ret_pct":0.673,"from":0.0014850059,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4991882.92,"left_short":4991882.92}],"group":{"gid":"g120","fund_usd":3152909.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"JCT","updated":1795547844,"price":0.001472,"windows":[{"w":"8m","ret_pct":0.546,"from":0.0014640065,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4991882.92,"left_short":4991882.92}],"group":{"gid":"g120","fund_usd":3152909.39},"method":"short_ladder_30d_lifo"}

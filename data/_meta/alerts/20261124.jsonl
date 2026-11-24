@@ -145,3 +145,4 @@
 {"ts":1795543164,"sym":"ETC","kind":"oi","val":11.0,"msg":"OI +11.0%（11.0M→12.3M）"}
 {"ts":1795543403,"sym":"ONE","kind":"price","val":-15.29,"msg":"24h -15.3%"}
 {"ts":1795545341,"sym":"BULLA","kind":"funding","val":0.1191,"msg":"费率 +0.119%"}
+{"ts":1795547844,"sym":"STABLE","kind":"oi","val":12.5,"msg":"OI +12.5%（0.6M→0.7M）"}

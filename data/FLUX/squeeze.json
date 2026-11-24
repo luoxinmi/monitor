@@ -1,1 +1,1 @@
-{"symbol":"FLUX","updated":1795544254,"price":0.04976,"windows":[{"w":"8m","ret_pct":0.08,"from":0.0497202238,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":624395.29,"left_short":624395.29}],"group":{"gid":"g030","fund_usd":3028496.25},"method":"short_ladder_30d_lifo"}
+{"symbol":"FLUX","updated":1795547844,"price":0.04939,"windows":[{"w":"8m","ret_pct":0.02,"from":0.049380124,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":624395.29,"left_short":624395.29}],"group":{"gid":"g030","fund_usd":3028496.25},"method":"short_ladder_30d_lifo"}

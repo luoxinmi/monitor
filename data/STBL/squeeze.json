@@ -1,1 +1,1 @@
-{"symbol":"STBL","updated":1795544254,"price":0.01835,"windows":[{"w":"60m","ret_pct":0.881,"from":0.0181897483,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1041143.16,"left_short":1041143.16}],"group":{"gid":"g080","fund_usd":2054769.27},"method":"short_ladder_30d_lifo"}
+{"symbol":"STBL","updated":1795547844,"price":0.01821,"windows":[{"w":"8m","ret_pct":0.331,"from":0.0181499238,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1041143.16,"left_short":1041143.16}],"group":{"gid":"g080","fund_usd":2054769.27},"method":"short_ladder_30d_lifo"}
