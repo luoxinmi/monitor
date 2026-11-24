@@ -1,1 +1,1 @@
-{"symbol":"ARIA","updated":1795535695,"price":0.30527,"windows":[{"w":"8m","ret_pct":0.292,"from":0.3043812069,"N":277881.92,"L":0.0,"uN":0.0909,"uL":0.0,"total_short_ladder":16780436.63,"left_short":16502554.71}],"group":{"gid":"g095","fund_usd":3057653.44},"method":"short_ladder_30d_lifo"}
+{"symbol":"ARIA","updated":1795537043,"price":0.30588,"windows":[{"w":"30m","ret_pct":0.105,"from":0.3055591629,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":16780436.63,"left_short":16780436.63}],"group":{"gid":"g095","fund_usd":3057653.44},"method":"short_ladder_30d_lifo"}
