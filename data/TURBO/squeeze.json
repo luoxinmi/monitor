@@ -1,1 +1,1 @@
-{"symbol":"TURBO","updated":1795523003,"price":0.0005568,"windows":[{"w":"60m","ret_pct":0.216,"from":0.0005555999,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":646075.39,"left_short":646075.39}],"group":{"gid":"g029","fund_usd":3022962.97},"method":"short_ladder_30d_lifo"}
+{"symbol":"TURBO","updated":1795526244,"price":0.0005515,"windows":[{"w":"8m","ret_pct":0.036,"from":0.0005513015,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":646075.39,"left_short":646075.39}],"group":{"gid":"g029","fund_usd":3022962.97},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"TLM","updated":1795522645,"price":0.000916,"windows":[{"w":"60m","ret_pct":0.109,"from":0.0009150026,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":590670.61,"left_short":590670.61}],"group":{"gid":"g109","fund_usd":2950815.38},"method":"short_ladder_30d_lifo"}
+{"symbol":"TLM","updated":1795526244,"price":0.000908,"windows":[{"w":"8m","ret_pct":0.331,"from":0.0009050044,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":590670.61,"left_short":590670.61}],"group":{"gid":"g109","fund_usd":2950815.38},"method":"short_ladder_30d_lifo"}

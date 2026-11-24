@@ -1,1 +1,1 @@
-{"symbol":"ICP","updated":1795523003,"price":2.062,"windows":[{"w":"60m","ret_pct":0.097,"from":2.0600017983,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":8352247.42,"left_short":8352247.42}],"group":{"gid":"g099","fund_usd":3033695.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"ICP","updated":1795526244,"price":2.03,"windows":[{"w":"8m","ret_pct":0.445,"from":2.021006521,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":8352247.42,"left_short":8352247.42}],"group":{"gid":"g099","fund_usd":3033695.39},"method":"short_ladder_30d_lifo"}

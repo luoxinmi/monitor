@@ -1,1 +1,1 @@
-{"symbol":"ZAMA","updated":1795523003,"price":0.05707,"windows":[{"w":"60m","ret_pct":0.105,"from":0.0570101394,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2963451.78,"left_short":2963451.78}],"group":{"gid":"g052","fund_usd":3098659.2},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZAMA","updated":1795526244,"price":0.05666,"windows":[{"w":"8m","ret_pct":0.124,"from":0.0565898286,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2963451.78,"left_short":2963451.78}],"group":{"gid":"g052","fund_usd":3098659.2},"method":"short_ladder_30d_lifo"}

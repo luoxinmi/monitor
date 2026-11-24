@@ -1,1 +1,1 @@
-{"symbol":"MINA","updated":1795522645,"price":0.04002,"windows":[{"w":"60m","ret_pct":0.1,"from":0.03998002,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":936542.17,"left_short":936542.17}],"group":{"gid":"g023","fund_usd":3096597.42},"method":"short_ladder_30d_lifo"}
+{"symbol":"MINA","updated":1795526244,"price":0.03955,"windows":[{"w":"8m","ret_pct":0.304,"from":0.0394301324,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":936542.17,"left_short":936542.17}],"group":{"gid":"g023","fund_usd":3096597.42},"method":"short_ladder_30d_lifo"}

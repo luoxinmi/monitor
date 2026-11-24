@@ -1,1 +1,1 @@
-{"symbol":"1MBABYDOGE","updated":1795523003,"price":0.0002471,"windows":[{"w":"60m","ret_pct":0.366,"from":0.0002461989,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":485677.05,"left_short":485677.05}],"group":{"gid":"g022","fund_usd":3025237.96},"method":"short_ladder_30d_lifo"}
+{"symbol":"1MBABYDOGE","updated":1795526244,"price":0.0002455,"windows":[{"w":"8m","ret_pct":0.082,"from":0.0002452989,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":485677.05,"left_short":485677.05}],"group":{"gid":"g022","fund_usd":3025237.96},"method":"short_ladder_30d_lifo"}
