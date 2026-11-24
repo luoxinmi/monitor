@@ -1,1 +1,1 @@
-{"symbol":"XVS","updated":1795522645,"price":2.257,"windows":[{"w":"60m","ret_pct":0.311,"from":2.2500024922,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":491281.41,"left_short":491281.41}],"group":{"gid":"g055","fund_usd":3027645.05},"method":"short_ladder_30d_lifo"}
+{"symbol":"XVS","updated":1795523003,"price":2.259,"windows":[{"w":"60m","ret_pct":0.356,"from":2.2509864881,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":491281.41,"left_short":491281.41}],"group":{"gid":"g055","fund_usd":3027645.05},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"APE","updated":1795511841,"price":0.0713,"windows":[{"w":"8m","ret_pct":0.281,"from":0.0711002084,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1684237.45,"left_short":1684237.45}],"group":{"gid":"g006","fund_usd":3012766.26},"method":"short_ladder_30d_lifo"}
+{"symbol":"APE","updated":1795523003,"price":0.07,"windows":[{"w":"60m","ret_pct":0.143,"from":0.0699000429,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1684237.45,"left_short":1684237.45}],"group":{"gid":"g006","fund_usd":3012766.26},"method":"short_ladder_30d_lifo"}
