@@ -1,1 +1,1 @@
-{"symbol":"BAS","updated":1795526244,"price":0.011637,"windows":[{"w":"60m","ret_pct":0.692,"from":0.0115570254,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":485376.08,"left_short":485376.08}],"group":{"gid":"g121","fund_usd":3050874.32},"method":"short_ladder_30d_lifo"}
+{"symbol":"BAS","updated":1795529843,"price":0.011764,"windows":[{"w":"60m","ret_pct":0.935,"from":0.0116550255,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":485376.08,"left_short":485376.08}],"group":{"gid":"g121","fund_usd":3050874.32},"method":"short_ladder_30d_lifo"}

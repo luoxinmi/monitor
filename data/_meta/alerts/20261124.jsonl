@@ -123,3 +123,7 @@
 {"ts":1795525165,"sym":"DOS","kind":"oi","val":-15.0,"msg":"OI -15.0%（1.3M→1.1M）"}
 {"ts":1795529005,"sym":"USELESS","kind":"price","val":-15.02,"msg":"24h -15.0%"}
 {"ts":1795529483,"sym":"FLOCK","kind":"price","val":-15.52,"msg":"24h -15.5%"}
+{"ts":1795529843,"sym":"0G","kind":"price","val":-15.06,"msg":"24h -15.1%"}
+{"ts":1795529843,"sym":"MON","kind":"price","val":-17.19,"msg":"24h -17.2%"}
+{"ts":1795529843,"sym":"SYRUP","kind":"price","val":-15.53,"msg":"24h -15.5%"}
+{"ts":1795529843,"sym":"ZEC","kind":"price","val":-16.39,"msg":"24h -16.4%"}

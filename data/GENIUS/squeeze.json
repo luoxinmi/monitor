@@ -1,1 +1,1 @@
-{"symbol":"GENIUS","updated":1795526244,"price":0.2876,"windows":[{"w":"8m","ret_pct":0.105,"from":0.2872983367,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1941465.61,"left_short":1941465.61}],"group":{"gid":"g035","fund_usd":3031822.89},"method":"short_ladder_30d_lifo"}
+{"symbol":"GENIUS","updated":1795529843,"price":0.2892,"windows":[{"w":"60m","ret_pct":0.731,"from":0.2871012896,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1941465.61,"left_short":1941465.61}],"group":{"gid":"g035","fund_usd":3031822.89},"method":"short_ladder_30d_lifo"}
