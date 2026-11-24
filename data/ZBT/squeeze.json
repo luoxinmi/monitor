@@ -1,1 +1,1 @@
-{"symbol":"ZBT","updated":1795495838,"price":0.04984,"windows":[{"w":"60m","ret_pct":1.054,"from":0.0493201655,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1162504.71,"left_short":1162504.71}],"group":{"gid":"g058","fund_usd":3024881.28},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZBT","updated":1795495983,"price":0.0498,"windows":[{"w":"60m","ret_pct":0.769,"from":0.0494199605,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1162504.71,"left_short":1162504.71}],"group":{"gid":"g058","fund_usd":3024881.28},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"PENDLE","updated":1795495838,"price":1.3125,"windows":[{"w":"60m","ret_pct":0.66,"from":1.3038942976,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4098133.07,"left_short":4098133.07}],"group":{"gid":"g055","fund_usd":3027645.05},"method":"short_ladder_30d_lifo"}
+{"symbol":"PENDLE","updated":1795495983,"price":1.3126,"windows":[{"w":"60m","ret_pct":0.59,"from":1.3049010836,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4098133.07,"left_short":4098133.07}],"group":{"gid":"g055","fund_usd":3027645.05},"method":"short_ladder_30d_lifo"}

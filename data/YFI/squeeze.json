@@ -1,1 +1,1 @@
-{"symbol":"YFI","updated":1795495838,"price":1670.0,"windows":[{"w":"60m","ret_pct":0.482,"from":1661.9892119982,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":807890.26,"left_short":807890.26}],"group":{"gid":"g020","fund_usd":3021419.45},"method":"short_ladder_30d_lifo"}
+{"symbol":"YFI","updated":1795495983,"price":1669.0,"windows":[{"w":"60m","ret_pct":0.421,"from":1662.0029675068,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":807890.26,"left_short":807890.26}],"group":{"gid":"g020","fund_usd":3021419.45},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"AIOT","updated":1795495838,"price":0.07288,"windows":[{"w":"8m","ret_pct":1.125,"from":0.0720692213,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1900286.6,"left_short":1900286.6}],"group":{"gid":"g035","fund_usd":3031822.89},"method":"short_ladder_30d_lifo"}
+{"symbol":"AIOT","updated":1795495983,"price":0.07363,"windows":[{"w":"8m","ret_pct":0.082,"from":0.0735696729,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1900286.6,"left_short":1900286.6}],"group":{"gid":"g035","fund_usd":3031822.89},"method":"short_ladder_30d_lifo"}

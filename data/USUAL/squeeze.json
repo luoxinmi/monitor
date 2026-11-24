@@ -1,1 +1,1 @@
-{"symbol":"USUAL","updated":1795495838,"price":0.011359,"windows":[{"w":"60m","ret_pct":1.114,"from":0.0112338549,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1282474.02,"left_short":1282474.02}],"group":{"gid":"g086","fund_usd":2044856.55},"method":"short_ladder_30d_lifo"}
+{"symbol":"USUAL","updated":1795495983,"price":0.011339,"windows":[{"w":"60m","ret_pct":0.203,"from":0.0113160285,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1282474.02,"left_short":1282474.02}],"group":{"gid":"g086","fund_usd":2044856.55},"method":"short_ladder_30d_lifo"}

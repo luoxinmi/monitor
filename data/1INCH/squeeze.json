@@ -1,1 +1,1 @@
-{"symbol":"1INCH","updated":1795495838,"price":0.06007,"windows":[{"w":"60m","ret_pct":0.536,"from":0.0597497414,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":896261.7,"left_short":896261.7}],"group":{"gid":"g023","fund_usd":3096597.42},"method":"short_ladder_30d_lifo"}
+{"symbol":"1INCH","updated":1795495983,"price":0.05998,"windows":[{"w":"60m","ret_pct":0.351,"from":0.0597702066,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":896261.7,"left_short":896261.7}],"group":{"gid":"g023","fund_usd":3096597.42},"method":"short_ladder_30d_lifo"}

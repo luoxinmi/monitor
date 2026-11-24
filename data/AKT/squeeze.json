@@ -1,1 +1,1 @@
-{"symbol":"AKT","updated":1795495838,"price":0.4927,"windows":[{"w":"60m","ret_pct":0.142,"from":0.4920013581,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2214595.78,"left_short":2214595.78}],"group":{"gid":"g039","fund_usd":3011747.47},"method":"short_ladder_30d_lifo"}
+{"symbol":"AKT","updated":1795495983,"price":0.4928,"windows":[{"w":"60m","ret_pct":0.061,"from":0.4924995753,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2214595.78,"left_short":2214595.78}],"group":{"gid":"g039","fund_usd":3011747.47},"method":"short_ladder_30d_lifo"}

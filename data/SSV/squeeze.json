@@ -1,1 +1,1 @@
-{"symbol":"SSV","updated":1795495838,"price":1.586,"windows":[{"w":"60m","ret_pct":0.826,"from":1.5730069625,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":727990.28,"left_short":727990.28}],"group":{"gid":"g068","fund_usd":3018079.21},"method":"short_ladder_30d_lifo"}
+{"symbol":"SSV","updated":1795495983,"price":1.585,"windows":[{"w":"60m","ret_pct":0.635,"from":1.5749987579,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":727990.28,"left_short":727990.28}],"group":{"gid":"g068","fund_usd":3018079.21},"method":"short_ladder_30d_lifo"}

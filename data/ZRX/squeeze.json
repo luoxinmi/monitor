@@ -1,1 +1,1 @@
-{"symbol":"ZRX","updated":1795495838,"price":0.0778,"windows":[{"w":"60m","ret_pct":0.647,"from":0.0772998698,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":599190.29,"left_short":599190.29}],"group":{"gid":"g021","fund_usd":3020940.32},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZRX","updated":1795495983,"price":0.0777,"windows":[{"w":"60m","ret_pct":0.517,"from":0.0773003572,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":599190.29,"left_short":599190.29}],"group":{"gid":"g021","fund_usd":3020940.32},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"SEI","updated":1795495838,"price":0.03403,"windows":[{"w":"60m","ret_pct":1.25,"from":0.0336098765,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3359738.98,"left_short":3359738.98}],"group":{"gid":"g103","fund_usd":3101797.64},"method":"short_ladder_30d_lifo"}
+{"symbol":"SEI","updated":1795495983,"price":0.03402,"windows":[{"w":"60m","ret_pct":1.13,"from":0.0336398695,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3359738.98,"left_short":3359738.98}],"group":{"gid":"g103","fund_usd":3101797.64},"method":"short_ladder_30d_lifo"}

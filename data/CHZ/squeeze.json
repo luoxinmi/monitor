@@ -1,1 +1,1 @@
-{"symbol":"CHZ","updated":1795495838,"price":0.00898,"windows":[{"w":"60m","ret_pct":0.673,"from":0.0089199686,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1390721.92,"left_short":1390721.92}],"group":{"gid":"g097","fund_usd":3014696.53},"method":"short_ladder_30d_lifo"}
+{"symbol":"CHZ","updated":1795495983,"price":0.00897,"windows":[{"w":"60m","ret_pct":0.56,"from":0.0089200477,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1390721.92,"left_short":1390721.92}],"group":{"gid":"g097","fund_usd":3014696.53},"method":"short_ladder_30d_lifo"}
