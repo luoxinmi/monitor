@@ -1,1 +1,1 @@
-{"symbol":"ZEN","updated":1795511841,"price":3.677,"windows":[{"w":"8m","ret_pct":0.354,"from":3.6640293362,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1527381.1,"left_short":1527381.1}],"group":{"gid":"g020","fund_usd":3021419.45},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZEN","updated":1795522645,"price":3.65,"windows":[{"w":"60m","ret_pct":0.413,"from":3.6349875016,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1527381.1,"left_short":1527381.1}],"group":{"gid":"g020","fund_usd":3021419.45},"method":"short_ladder_30d_lifo"}

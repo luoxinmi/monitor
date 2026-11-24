@@ -1,1 +1,1 @@
-{"symbol":"KMNO","updated":1795511841,"price":0.02355,"windows":[{"w":"8m","ret_pct":0.298,"from":0.0234800295,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":968750.31,"left_short":968750.31}],"group":{"gid":"g071","fund_usd":2072558.1},"method":"short_ladder_30d_lifo"}
+{"symbol":"KMNO","updated":1795522645,"price":0.02321,"windows":[{"w":"60m","ret_pct":0.303,"from":0.0231398861,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":968750.31,"left_short":968750.31}],"group":{"gid":"g071","fund_usd":2072558.1},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"C98","updated":1795511841,"price":0.00878,"windows":[{"w":"8m","ret_pct":0.114,"from":0.0087700022,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":446294.54,"left_short":446294.54}],"group":{"gid":"g086","fund_usd":2044856.55},"method":"short_ladder_30d_lifo"}
+{"symbol":"C98","updated":1795522645,"price":0.00868,"windows":[{"w":"60m","ret_pct":0.346,"from":0.0086500708,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":446294.54,"left_short":446294.54}],"group":{"gid":"g086","fund_usd":2044856.55},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"GIGGLE","updated":1795511841,"price":21.42,"windows":[{"w":"8m","ret_pct":0.328,"from":21.3499720915,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2512206.83,"left_short":2512206.83}],"group":{"gid":"g095","fund_usd":3057653.44},"method":"short_ladder_30d_lifo"}
+{"symbol":"GIGGLE","updated":1795522645,"price":21.3,"windows":[{"w":"60m","ret_pct":0.472,"from":21.1999363007,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2512206.83,"left_short":2512206.83}],"group":{"gid":"g095","fund_usd":3057653.44},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"DIA","updated":1795511841,"price":0.1183,"windows":[{"w":"8m","ret_pct":0.339,"from":0.1179003179,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":361006.7,"left_short":361006.7}],"group":{"gid":"g037","fund_usd":3035679.36},"method":"short_ladder_30d_lifo"}
+{"symbol":"DIA","updated":1795522645,"price":0.1174,"windows":[{"w":"60m","ret_pct":0.342,"from":0.1169998605,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":361006.7,"left_short":361006.7}],"group":{"gid":"g037","fund_usd":3035679.36},"method":"short_ladder_30d_lifo"}
