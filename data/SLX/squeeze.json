@@ -1,1 +1,1 @@
-{"symbol":"SLX","updated":1795526244,"price":0.02848,"windows":[{"w":"8m","ret_pct":0.07,"from":0.0284600779,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":711048.16,"left_short":711048.16}],"group":{"gid":"g041","fund_usd":3091741.27},"method":"short_ladder_30d_lifo"}
+{"symbol":"SLX","updated":1795533444,"price":0.02799,"windows":[{"w":"8m","ret_pct":0.107,"from":0.0279600827,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":711048.16,"left_short":711048.16}],"group":{"gid":"g041","fund_usd":3091741.27},"method":"short_ladder_30d_lifo"}

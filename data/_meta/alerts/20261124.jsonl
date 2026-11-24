@@ -131,3 +131,4 @@
 {"ts":1795530443,"sym":"MON","kind":"oi","val":12.1,"msg":"OI +12.1%（23.2M→26.0M）"}
 {"ts":1795530942,"sym":"DOS","kind":"price","val":-17.23,"msg":"24h -17.2%"}
 {"ts":1795531403,"sym":"BIGTIME","kind":"funding","val":-0.1021,"msg":"费率 -0.102%"}
+{"ts":1795533444,"sym":"GUA","kind":"price","val":15.41,"msg":"24h +15.4%"}
