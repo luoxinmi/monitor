@@ -132,3 +132,6 @@
 {"ts":1795530942,"sym":"DOS","kind":"price","val":-17.23,"msg":"24h -17.2%"}
 {"ts":1795531403,"sym":"BIGTIME","kind":"funding","val":-0.1021,"msg":"费率 -0.102%"}
 {"ts":1795533444,"sym":"GUA","kind":"price","val":15.41,"msg":"24h +15.4%"}
+{"ts":1795534044,"sym":"NOM","kind":"oi","val":-18.3,"msg":"OI -18.3%（0.1M→0.1M）"}
+{"ts":1795534044,"sym":"MON","kind":"squeeze_8m","val":3.516,"msg":"8m 爆拉 +3.5% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795534044,"sym":"MON","kind":"squeeze_30m","val":5.368,"msg":"30m 爆拉 +5.4% → 扫空头 $0.00M，损失 $0K"}
