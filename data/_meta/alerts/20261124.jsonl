@@ -89,3 +89,6 @@
 {"ts":1795499008,"sym":"HANA","kind":"funding","val":0.1096,"msg":"费率 +0.110%"}
 {"ts":1795499008,"sym":"MMT","kind":"price","val":20.07,"msg":"24h +20.1%"}
 {"ts":1795499008,"sym":"RPL","kind":"price","val":15.33,"msg":"24h +15.3%"}
+{"ts":1795499487,"sym":"AIOT","kind":"squeeze_8m","val":3.233,"msg":"8m 爆拉 +3.2% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795499487,"sym":"AIOT","kind":"squeeze_30m","val":6.022,"msg":"30m 爆拉 +6.0% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795499487,"sym":"AIOT","kind":"squeeze_60m","val":2.503,"msg":"60m 爆拉 +2.5% → 扫空头 $0.00M，损失 $0K"}
