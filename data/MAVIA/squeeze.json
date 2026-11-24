@@ -1,1 +1,1 @@
-{"symbol":"MAVIA","updated":1795475847,"price":0.02098,"windows":[{"w":"30m","ret_pct":0.239,"from":0.0209299774,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":592708.63,"left_short":592708.63}],"group":{"gid":"g007","fund_usd":3062238.29},"method":"short_ladder_30d_lifo"}
+{"symbol":"MAVIA","updated":1795479443,"price":0.02104,"windows":[{"w":"60m","ret_pct":0.429,"from":0.020950124,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":588187.91,"left_short":588187.91}],"group":{"gid":"g007","fund_usd":3062517.45},"method":"short_ladder_30d_lifo"}
