@@ -87,3 +87,4 @@
 {"t": 1795543657, "price": 2.2267, "oi": 28905758.99472, "depth": 24165.76625, "funding": 0.0146, "gap": -0.045, "long_pnl": -415295.95, "short_alive": 9303695.07, "source": "binance"}
 {"t": 1795547258, "price": 2.178, "oi": 28909950.32952, "depth": 40928.84586, "funding": 0.005, "gap": -0.128, "long_pnl": -1193168.53, "short_alive": 9303695.07, "source": "binance"}
 {"t": 1795547555, "price": 2.1761, "oi": 28909950.32952, "depth": 27424.86941, "funding": 0.005, "gap": -0.132, "long_pnl": -1224212.95, "short_alive": 9303695.07, "source": "binance"}
+{"t": 1795550870, "price": 2.2483, "oi": 29583048.20247, "depth": 21478.87783, "funding": 0.005, "gap": -0.008, "long_pnl": -77539.15, "short_alive": 9303695.07, "source": "binance"}
