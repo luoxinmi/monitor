@@ -1,1 +1,1 @@
-{"symbol":"AIN","updated":1795494207,"price":0.10026,"windows":[{"w":"30m","ret_pct":0.1,"from":0.1001598402,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5120029.78,"left_short":5120029.78}],"group":{"gid":"g084","fund_usd":1789655.88},"method":"short_ladder_30d_lifo"}
+{"symbol":"AIN","updated":1795495838,"price":0.09974,"windows":[{"w":"60m","ret_pct":0.01,"from":0.099730027,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":5120029.78,"left_short":5120029.78}],"group":{"gid":"g084","fund_usd":1789655.88},"method":"short_ladder_30d_lifo"}
