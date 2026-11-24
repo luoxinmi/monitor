@@ -1,1 +1,1 @@
-{"symbol":"KNC","updated":1795501046,"price":0.0945,"windows":[{"w":"60m","ret_pct":0.425,"from":0.0941000747,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":527659.98,"left_short":527659.98}],"group":{"gid":"g051","fund_usd":3033721.03},"method":"short_ladder_30d_lifo"}
+{"symbol":"KNC","updated":1795508244,"price":0.0941,"windows":[{"w":"8m","ret_pct":0.106,"from":0.0940003596,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":527659.98,"left_short":527659.98}],"group":{"gid":"g051","fund_usd":3033721.03},"method":"short_ladder_30d_lifo"}
