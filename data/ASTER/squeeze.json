@@ -1,1 +1,1 @@
-{"symbol":"ASTER","updated":1795501046,"price":0.5022,"windows":[{"w":"8m","ret_pct":0.08,"from":0.5017985612,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":34254789.56,"left_short":34254789.56}],"group":{"gid":"g065","fund_usd":398032436.7},"method":"short_ladder_30d_lifo"}
+{"symbol":"ASTER","updated":1795504651,"price":0.5014,"windows":[{"w":"30m","ret_pct":0.02,"from":0.5012997401,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":34254789.56,"left_short":34254789.56}],"group":{"gid":"g065","fund_usd":398032436.7},"method":"short_ladder_30d_lifo"}
