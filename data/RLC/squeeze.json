@@ -1,1 +1,1 @@
-{"symbol":"RLC","updated":1795508609,"price":0.3147,"windows":[{"w":"8m","ret_pct":0.064,"from":0.3144987208,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":862445.98,"left_short":862445.98}],"group":{"gid":"g066","fund_usd":3089923.02},"method":"short_ladder_30d_lifo"}
+{"symbol":"RLC","updated":1795511841,"price":0.3124,"windows":[{"w":"8m","ret_pct":0.514,"from":0.3108024753,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":862445.98,"left_short":862445.98}],"group":{"gid":"g066","fund_usd":3089923.02},"method":"short_ladder_30d_lifo"}

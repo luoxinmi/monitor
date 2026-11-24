@@ -1,1 +1,1 @@
-{"symbol":"MAGMA","updated":1795504651,"price":0.25956,"windows":[{"w":"8m","ret_pct":0.085,"from":0.2593395614,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1982876.4,"left_short":1982876.4}],"group":{"gid":"g049","fund_usd":3028272.07},"method":"short_ladder_30d_lifo"}
+{"symbol":"MAGMA","updated":1795511841,"price":0.25503,"windows":[{"w":"8m","ret_pct":0.004,"from":0.2550197992,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1982876.4,"left_short":1982876.4}],"group":{"gid":"g049","fund_usd":3028272.07},"method":"short_ladder_30d_lifo"}

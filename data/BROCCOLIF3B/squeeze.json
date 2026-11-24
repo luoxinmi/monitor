@@ -1,1 +1,1 @@
-{"symbol":"BROCCOLIF3B","updated":1795508244,"price":0.004193,"windows":[{"w":"8m","ret_pct":0.119,"from":0.0041880163,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":875720.22,"left_short":875720.22}],"group":{"gid":"g086","fund_usd":2044856.55},"method":"short_ladder_30d_lifo"}
+{"symbol":"BROCCOLIF3B","updated":1795511841,"price":0.004164,"windows":[{"w":"8m","ret_pct":0.024,"from":0.0041630009,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":875720.22,"left_short":875720.22}],"group":{"gid":"g086","fund_usd":2044856.55},"method":"short_ladder_30d_lifo"}

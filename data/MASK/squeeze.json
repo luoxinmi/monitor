@@ -1,1 +1,1 @@
-{"symbol":"MASK","updated":1795508609,"price":0.2788,"windows":[{"w":"8m","ret_pct":0.288,"from":0.2779993618,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":671720.93,"left_short":671720.93}],"group":{"gid":"g081","fund_usd":3040853.74},"method":"short_ladder_30d_lifo"}
+{"symbol":"MASK","updated":1795511841,"price":0.2757,"windows":[{"w":"8m","ret_pct":0.291,"from":0.2749000409,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":671720.93,"left_short":671720.93}],"group":{"gid":"g081","fund_usd":3040853.74},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"MANA","updated":1795508609,"price":0.05753,"windows":[{"w":"8m","ret_pct":0.035,"from":0.0575098715,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1111830.38,"left_short":1111830.38}],"group":{"gid":"g062","fund_usd":3053486.86},"method":"short_ladder_30d_lifo"}
+{"symbol":"MANA","updated":1795511841,"price":0.05714,"windows":[{"w":"8m","ret_pct":0.404,"from":0.0569100833,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1111830.38,"left_short":1111830.38}],"group":{"gid":"g062","fund_usd":3053486.86},"method":"short_ladder_30d_lifo"}

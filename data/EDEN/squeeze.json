@@ -1,1 +1,1 @@
-{"symbol":"EDEN","updated":1795501046,"price":0.03962,"windows":[{"w":"60m","ret_pct":0.661,"from":0.0393598315,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":842918.08,"left_short":842918.08}],"group":{"gid":"g075","fund_usd":3037633.7},"method":"short_ladder_30d_lifo"}
+{"symbol":"EDEN","updated":1795511841,"price":0.03852,"windows":[{"w":"8m","ret_pct":0.078,"from":0.0384899778,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":842918.08,"left_short":842918.08}],"group":{"gid":"g075","fund_usd":3037633.7},"method":"short_ladder_30d_lifo"}

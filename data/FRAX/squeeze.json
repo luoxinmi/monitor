@@ -1,1 +1,1 @@
-{"symbol":"FRAX","updated":1795508609,"price":0.1991,"windows":[{"w":"8m","ret_pct":0.101,"from":0.1988991119,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":504802.77,"left_short":504802.77}],"group":{"gid":"g114","fund_usd":1007691.96},"method":"short_ladder_30d_lifo"}
+{"symbol":"FRAX","updated":1795511841,"price":0.197,"windows":[{"w":"8m","ret_pct":0.102,"from":0.1967992647,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":504802.77,"left_short":504802.77}],"group":{"gid":"g114","fund_usd":1007691.96},"method":"short_ladder_30d_lifo"}

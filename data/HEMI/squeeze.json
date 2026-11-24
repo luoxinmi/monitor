@@ -1,1 +1,1 @@
-{"symbol":"HEMI","updated":1795501046,"price":0.003344,"windows":[{"w":"60m","ret_pct":0.753,"from":0.0033190079,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":836352.9,"left_short":836352.9}],"group":{"gid":"g080","fund_usd":2054769.27},"method":"short_ladder_30d_lifo"}
+{"symbol":"HEMI","updated":1795511841,"price":0.003258,"windows":[{"w":"8m","ret_pct":0.277,"from":0.0032490003,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":836352.9,"left_short":836352.9}],"group":{"gid":"g080","fund_usd":2054769.27},"method":"short_ladder_30d_lifo"}

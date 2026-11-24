@@ -1,1 +1,1 @@
-{"symbol":"DYDX","updated":1795501046,"price":0.07287,"windows":[{"w":"60m","ret_pct":0.234,"from":0.0726998823,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1144998.69,"left_short":1144998.69}],"group":{"gid":"g001","fund_usd":3074383.03},"method":"short_ladder_30d_lifo"}
+{"symbol":"DYDX","updated":1795511841,"price":0.07094,"windows":[{"w":"8m","ret_pct":0.254,"from":0.0707602689,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1144998.69,"left_short":1144998.69}],"group":{"gid":"g001","fund_usd":3074383.03},"method":"short_ladder_30d_lifo"}

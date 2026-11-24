@@ -1,1 +1,1 @@
-{"symbol":"CTSI","updated":1795504651,"price":0.02072,"windows":[{"w":"60m","ret_pct":0.193,"from":0.0206800874,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":753195.0,"left_short":753195.0}],"group":{"gid":"g059","fund_usd":3095402.75},"method":"short_ladder_30d_lifo"}
+{"symbol":"CTSI","updated":1795511841,"price":0.02037,"windows":[{"w":"8m","ret_pct":0.295,"from":0.0203100852,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":753195.0,"left_short":753195.0}],"group":{"gid":"g059","fund_usd":3095402.75},"method":"short_ladder_30d_lifo"}

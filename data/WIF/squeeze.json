@@ -1,1 +1,1 @@
-{"symbol":"WIF","updated":1795508244,"price":0.1253,"windows":[{"w":"8m","ret_pct":0.16,"from":0.1250998403,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3931669.05,"left_short":3931669.05}],"group":{"gid":"g061","fund_usd":3058083.33},"method":"short_ladder_30d_lifo"}
+{"symbol":"WIF","updated":1795511841,"price":0.124,"windows":[{"w":"8m","ret_pct":0.081,"from":0.1238996413,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3931669.05,"left_short":3931669.05}],"group":{"gid":"g061","fund_usd":3058083.33},"method":"short_ladder_30d_lifo"}
