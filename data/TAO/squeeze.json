@@ -1,1 +1,1 @@
-{"symbol":"TAO","updated":1795555044,"price":179.76,"windows":[{"w":"8m","ret_pct":0.122,"from":179.5409600288,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":19171685.2,"left_short":19171685.2}],"group":{"gid":"g065","fund_usd":398032436.7},"method":"short_ladder_30d_lifo"}
+{"symbol":"TAO","updated":1795562244,"price":180.85,"windows":[{"w":"60m","ret_pct":0.662,"from":179.66064652,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":19171685.2,"left_short":19171685.2}],"group":{"gid":"g065","fund_usd":398032436.7},"method":"short_ladder_30d_lifo"}
