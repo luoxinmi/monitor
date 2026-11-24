@@ -61,3 +61,6 @@
 {"ts":1795490363,"sym":"SAHARA","kind":"price","val":15.15,"msg":"24h +15.2%"}
 {"ts":1795490842,"sym":"ENSO","kind":"price","val":-15.16,"msg":"24h -15.2%"}
 {"ts":1795490842,"sym":"SAHARA","kind":"oi","val":12.9,"msg":"OI +12.9%（0.6M→0.7M）"}
+{"ts":1795491334,"sym":"ACE","kind":"price","val":17.74,"msg":"24h +17.7%"}
+{"ts":1795491334,"sym":"RPL","kind":"funding","val":-0.1112,"msg":"费率 -0.111%"}
+{"ts":1795491334,"sym":"LISTA","kind":"squeeze_30m","val":6.855,"msg":"30m 爆拉 +6.9% → 扫空头 $0.40M，损失 $12K（组基金 0.4%）"}
