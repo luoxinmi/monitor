@@ -1,1 +1,1 @@
-{"symbol":"MELANIA","updated":1795511841,"price":0.04957,"windows":[{"w":"8m","ret_pct":0.588,"from":0.0492802322,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":722154.04,"left_short":722154.04}],"group":{"gid":"g117","fund_usd":3036013.9},"method":"short_ladder_30d_lifo"}
+{"symbol":"MELANIA","updated":1795515445,"price":0.04931,"windows":[{"w":"8m","ret_pct":0.041,"from":0.0492897912,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":722154.04,"left_short":722154.04}],"group":{"gid":"g117","fund_usd":3036013.9},"method":"short_ladder_30d_lifo"}

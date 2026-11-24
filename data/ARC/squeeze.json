@@ -1,1 +1,1 @@
-{"symbol":"ARC","updated":1795511841,"price":0.02797,"windows":[{"w":"8m","ret_pct":0.287,"from":0.0278899558,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2371475.55,"left_short":2371475.55}],"group":{"gid":"g043","fund_usd":3091733.92},"method":"short_ladder_30d_lifo"}
+{"symbol":"ARC","updated":1795515445,"price":0.02789,"windows":[{"w":"8m","ret_pct":0.216,"from":0.0278298874,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2371475.55,"left_short":2371475.55}],"group":{"gid":"g043","fund_usd":3091733.92},"method":"short_ladder_30d_lifo"}

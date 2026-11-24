@@ -1,1 +1,1 @@
-{"symbol":"HMSTR","updated":1795511841,"price":0.0001444,"windows":[{"w":"60m","ret_pct":8.327,"from":0.0001333001,"N":29880.31,"L":294.12,"uN":0.0098,"uL":0.0001,"total_short_ladder":1622942.64,"left_short":1593062.33}],"group":{"gid":"g045","fund_usd":3039802.5},"method":"short_ladder_30d_lifo"}
+{"symbol":"HMSTR","updated":1795515445,"price":0.0001386,"windows":[{"w":"8m","ret_pct":0.435,"from":0.0001379997,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1622942.64,"left_short":1622942.64}],"group":{"gid":"g045","fund_usd":3039802.5},"method":"short_ladder_30d_lifo"}
