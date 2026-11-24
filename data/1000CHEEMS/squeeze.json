@@ -1,1 +1,1 @@
-{"symbol":"1000CHEEMS","updated":1795537408,"price":0.0002785,"windows":[{"w":"8m","ret_pct":0.505,"from":0.0002771006,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":406848.37,"left_short":406848.37}],"group":{"gid":"g029","fund_usd":3022962.97},"method":"short_ladder_30d_lifo"}
+{"symbol":"1000CHEEMS","updated":1795540645,"price":0.0002781,"windows":[{"w":"60m","ret_pct":0.036,"from":0.0002779999,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":406848.37,"left_short":406848.37}],"group":{"gid":"g029","fund_usd":3022962.97},"method":"short_ladder_30d_lifo"}
