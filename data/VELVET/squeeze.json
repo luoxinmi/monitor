@@ -1,1 +1,1 @@
-{"symbol":"VELVET","updated":1795483044,"price":0.08007,"windows":[{"w":"60m","ret_pct":0.908,"from":0.0793495065,"N":15348.46,"L":0.0,"uN":0.007,"uL":0.0,"total_short_ladder":2962179.8,"left_short":2946831.34}],"group":{"gid":"g038","fund_usd":2193074.97},"method":"short_ladder_30d_lifo"}
+{"symbol":"VELVET","updated":1795486648,"price":0.07958,"windows":[{"w":"8m","ret_pct":0.151,"from":0.0794600154,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2962179.8,"left_short":2962179.8}],"group":{"gid":"g038","fund_usd":2193074.97},"method":"short_ladder_30d_lifo"}

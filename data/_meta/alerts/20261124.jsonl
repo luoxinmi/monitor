@@ -38,3 +38,6 @@
 {"ts":1795485083,"sym":"AKE","kind":"price","val":-19.46,"msg":"24h -19.5%"}
 {"ts":1795485083,"sym":"AKE","kind":"oi","val":-11.7,"msg":"OI -11.7%（11.8M→10.4M）"}
 {"ts":1795485083,"sym":"BULLA","kind":"price","val":17.04,"msg":"24h +17.0%"}
+{"ts":1795486648,"sym":"INX","kind":"squeeze_8m","val":5.053,"msg":"8m 爆拉 +5.1% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795486648,"sym":"INX","kind":"squeeze_30m","val":7.566,"msg":"30m 爆拉 +7.6% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795486648,"sym":"SAHARA","kind":"squeeze_8m","val":3.859,"msg":"8m 爆拉 +3.9% → 扫空头 $0.00M，损失 $0K"}
