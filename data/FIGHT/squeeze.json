@@ -1,1 +1,1 @@
-{"symbol":"FIGHT","updated":1795533444,"price":0.003353,"windows":[{"w":"60m","ret_pct":0.239,"from":0.0033450054,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1696255.23,"left_short":1696255.23}],"group":{"gid":"g046","fund_usd":3081126.07},"method":"short_ladder_30d_lifo"}
+{"symbol":"FIGHT","updated":1795535695,"price":0.003367,"windows":[{"w":"30m","ret_pct":0.447,"from":0.0033520165,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1696255.23,"left_short":1696255.23}],"group":{"gid":"g046","fund_usd":3081126.07},"method":"short_ladder_30d_lifo"}
