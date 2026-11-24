@@ -1,1 +1,1 @@
-{"symbol":"ENJ","updated":1795547844,"price":0.01854,"windows":[{"w":"8m","ret_pct":0.325,"from":0.0184799402,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":762198.15,"left_short":762198.15}],"group":{"gid":"g070","fund_usd":3051164.31},"method":"short_ladder_30d_lifo"}
+{"symbol":"ENJ","updated":1795548873,"price":0.0185,"windows":[{"w":"30m","ret_pct":0.326,"from":0.018439886,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":762198.15,"left_short":762198.15}],"group":{"gid":"g070","fund_usd":3051164.31},"method":"short_ladder_30d_lifo"}

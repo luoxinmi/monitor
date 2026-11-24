@@ -1,1 +1,1 @@
-{"symbol":"ETHW","updated":1795547844,"price":0.1571,"windows":[{"w":"8m","ret_pct":0.319,"from":0.1566004446,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":398111.99,"left_short":398111.99}],"group":{"gid":"g039","fund_usd":3011747.47},"method":"short_ladder_30d_lifo"}
+{"symbol":"ETHW","updated":1795548873,"price":0.1569,"windows":[{"w":"30m","ret_pct":0.256,"from":0.1564993616,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":398111.99,"left_short":398111.99}],"group":{"gid":"g039","fund_usd":3011747.47},"method":"short_ladder_30d_lifo"}

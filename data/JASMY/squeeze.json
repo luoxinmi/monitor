@@ -1,1 +1,1 @@
-{"symbol":"JASMY","updated":1795547844,"price":0.003081,"windows":[{"w":"8m","ret_pct":0.391,"from":0.0030690002,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":778774.41,"left_short":778774.41}],"group":{"gid":"g110","fund_usd":3003847.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"JASMY","updated":1795548873,"price":0.003067,"windows":[{"w":"30m","ret_pct":0.065,"from":0.0030650077,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":778774.41,"left_short":778774.41}],"group":{"gid":"g110","fund_usd":3003847.39},"method":"short_ladder_30d_lifo"}

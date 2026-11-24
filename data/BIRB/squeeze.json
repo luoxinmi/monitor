@@ -1,1 +1,1 @@
-{"symbol":"BIRB","updated":1795547844,"price":0.05255,"windows":[{"w":"8m","ret_pct":0.229,"from":0.0524299354,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":909618.92,"left_short":909618.92}],"group":{"gid":"g108","fund_usd":3081789.89},"method":"short_ladder_30d_lifo"}
+{"symbol":"BIRB","updated":1795548873,"price":0.05251,"windows":[{"w":"30m","ret_pct":0.306,"from":0.0523498096,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":909618.92,"left_short":909618.92}],"group":{"gid":"g108","fund_usd":3081789.89},"method":"short_ladder_30d_lifo"}

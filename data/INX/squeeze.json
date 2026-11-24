@@ -1,1 +1,1 @@
-{"symbol":"INX","updated":1795547844,"price":0.003831,"windows":[{"w":"8m","ret_pct":0.078,"from":0.0038280141,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1536721.56,"left_short":1536721.56}],"group":{"gid":"g120","fund_usd":3152909.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"INX","updated":1795548873,"price":0.003813,"windows":[{"w":"8m","ret_pct":0.105,"from":0.0038090005,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1536721.56,"left_short":1536721.56}],"group":{"gid":"g120","fund_usd":3152909.39},"method":"short_ladder_30d_lifo"}

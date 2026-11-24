@@ -1,1 +1,1 @@
-{"symbol":"BANANA","updated":1795547844,"price":2.437,"windows":[{"w":"8m","ret_pct":0.247,"from":2.4309954413,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":588345.97,"left_short":588345.97}],"group":{"gid":"g030","fund_usd":3028496.25},"method":"short_ladder_30d_lifo"}
+{"symbol":"BANANA","updated":1795548873,"price":2.431,"windows":[{"w":"30m","ret_pct":0.165,"from":2.4269954575,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":588345.97,"left_short":588345.97}],"group":{"gid":"g030","fund_usd":3028496.25},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"PENGU","updated":1795547844,"price":0.004245,"windows":[{"w":"8m","ret_pct":0.497,"from":0.0042240067,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":8680960.35,"left_short":8680960.35}],"group":{"gid":"g032","fund_usd":2989098.25},"method":"short_ladder_30d_lifo"}
+{"symbol":"PENGU","updated":1795548873,"price":0.004246,"windows":[{"w":"30m","ret_pct":0.45,"from":0.0042269786,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":8680960.35,"left_short":8680960.35}],"group":{"gid":"g032","fund_usd":2989098.25},"method":"short_ladder_30d_lifo"}

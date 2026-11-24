@@ -1,1 +1,1 @@
-{"symbol":"TURTLE","updated":1795547844,"price":0.02835,"windows":[{"w":"8m","ret_pct":0.247,"from":0.028280148,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":549177.77,"left_short":549177.77}],"group":{"gid":"g034","fund_usd":3044679.15},"method":"short_ladder_30d_lifo"}
+{"symbol":"TURTLE","updated":1795548873,"price":0.02829,"windows":[{"w":"30m","ret_pct":0.035,"from":0.028280102,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":549177.77,"left_short":549177.77}],"group":{"gid":"g034","fund_usd":3044679.15},"method":"short_ladder_30d_lifo"}

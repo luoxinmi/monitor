@@ -1,1 +1,1 @@
-{"symbol":"SFP","updated":1795547844,"price":0.1621,"windows":[{"w":"8m","ret_pct":0.309,"from":0.161600654,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1009084.94,"left_short":1009084.94}],"group":{"gid":"g022","fund_usd":3025237.96},"method":"short_ladder_30d_lifo"}
+{"symbol":"SFP","updated":1795548873,"price":0.1616,"windows":[{"w":"30m","ret_pct":0.124,"from":0.1613998642,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1009084.94,"left_short":1009084.94}],"group":{"gid":"g022","fund_usd":3025237.96},"method":"short_ladder_30d_lifo"}
