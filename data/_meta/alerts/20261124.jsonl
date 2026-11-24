@@ -152,3 +152,4 @@
 {"ts":1795551446,"sym":"CAP","kind":"price","val":-15.93,"msg":"24h -15.9%"}
 {"ts":1795553482,"sym":"OPG","kind":"price","val":15.72,"msg":"24h +15.7%"}
 {"ts":1795554338,"sym":"GUA","kind":"oi","val":10.7,"msg":"OI +10.7%（1.0M→1.1M）"}
+{"ts":1795556602,"sym":"DEEP","kind":"funding","val":-0.1044,"msg":"费率 -0.104%"}
