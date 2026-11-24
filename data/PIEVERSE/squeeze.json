@@ -1,1 +1,1 @@
-{"symbol":"PIEVERSE","updated":1795479443,"price":3.5376,"windows":[{"w":"8m","ret_pct":1.517,"from":3.4847365466,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":21742311.21,"left_short":21742311.21}],"group":{"gid":"g120","fund_usd":3152909.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"PIEVERSE","updated":1795479802,"price":3.5392,"windows":[{"w":"8m","ret_pct":0.371,"from":3.5261181018,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":21742311.21,"left_short":21742311.21}],"group":{"gid":"g120","fund_usd":3152909.39},"method":"short_ladder_30d_lifo"}

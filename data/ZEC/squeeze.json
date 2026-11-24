@@ -1,1 +1,1 @@
-{"symbol":"ZEC","updated":1795479443,"price":771.11,"windows":[{"w":"30m","ret_pct":0.074,"from":770.5398005476,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":173102309.22,"left_short":173102309.22}],"group":{"gid":"g065","fund_usd":398032436.7},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZEC","updated":1795479802,"price":774.27,"windows":[{"w":"8m","ret_pct":0.262,"from":772.2467136103,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":173102309.22,"left_short":173102309.22}],"group":{"gid":"g065","fund_usd":398032436.7},"method":"short_ladder_30d_lifo"}
