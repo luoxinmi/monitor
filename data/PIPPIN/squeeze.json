@@ -1,1 +1,1 @@
-{"symbol":"PIPPIN","updated":1795508244,"price":0.01813,"windows":[{"w":"8m","ret_pct":0.221,"from":0.0180900211,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3787868.31,"left_short":3787868.31}],"group":{"gid":"g082","fund_usd":3119440.19},"method":"short_ladder_30d_lifo"}
+{"symbol":"PIPPIN","updated":1795508609,"price":0.01805,"windows":[{"w":"8m","ret_pct":0.055,"from":0.018040078,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3787868.31,"left_short":3787868.31}],"group":{"gid":"g082","fund_usd":3119440.19},"method":"short_ladder_30d_lifo"}

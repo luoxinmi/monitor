@@ -1,1 +1,1 @@
-{"symbol":"SAND","updated":1795508244,"price":0.03333,"windows":[{"w":"8m","ret_pct":0.21,"from":0.0332601537,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2612992.39,"left_short":2612992.39}],"group":{"gid":"g116","fund_usd":3095365.49},"method":"short_ladder_30d_lifo"}
+{"symbol":"SAND","updated":1795508609,"price":0.03335,"windows":[{"w":"8m","ret_pct":0.09,"from":0.033320012,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2612992.39,"left_short":2612992.39}],"group":{"gid":"g116","fund_usd":3095365.49},"method":"short_ladder_30d_lifo"}

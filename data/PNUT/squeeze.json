@@ -1,1 +1,1 @@
-{"symbol":"PNUT","updated":1795508244,"price":0.02676,"windows":[{"w":"8m","ret_pct":0.075,"from":0.026739945,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1029617.82,"left_short":1029617.82}],"group":{"gid":"g012","fund_usd":3056455.76},"method":"short_ladder_30d_lifo"}
+{"symbol":"PNUT","updated":1795508609,"price":0.02682,"windows":[{"w":"8m","ret_pct":0.187,"from":0.0267699402,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1029617.82,"left_short":1029617.82}],"group":{"gid":"g012","fund_usd":3056455.76},"method":"short_ladder_30d_lifo"}

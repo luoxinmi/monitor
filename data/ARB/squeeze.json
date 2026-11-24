@@ -1,1 +1,1 @@
-{"symbol":"ARB","updated":1795508244,"price":0.11448,"windows":[{"w":"8m","ret_pct":0.009,"from":0.1144696977,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":12400270.49,"left_short":12400270.49}],"group":{"gid":"g065","fund_usd":398032436.7},"method":"short_ladder_30d_lifo"}
+{"symbol":"ARB","updated":1795508609,"price":0.11436,"windows":[{"w":"8m","ret_pct":0.131,"from":0.1142103844,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":12400270.49,"left_short":12400270.49}],"group":{"gid":"g065","fund_usd":398032436.7},"method":"short_ladder_30d_lifo"}

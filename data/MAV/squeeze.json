@@ -1,1 +1,1 @@
-{"symbol":"MAV","updated":1795508244,"price":0.00669,"windows":[{"w":"8m","ret_pct":0.105,"from":0.0066829829,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":502396.38,"left_short":502396.38}],"group":{"gid":"g094","fund_usd":2067302.55},"method":"short_ladder_30d_lifo"}
+{"symbol":"MAV","updated":1795508609,"price":0.00669,"windows":[{"w":"8m","ret_pct":0.075,"from":0.0066849863,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":502396.38,"left_short":502396.38}],"group":{"gid":"g094","fund_usd":2067302.55},"method":"short_ladder_30d_lifo"}
