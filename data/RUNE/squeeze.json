@@ -1,1 +1,1 @@
-{"symbol":"RUNE","updated":1795535695,"price":0.5075,"windows":[{"w":"8m","ret_pct":0.138,"from":0.5068006152,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1580550.53,"left_short":1580550.53}],"group":{"gid":"g097","fund_usd":3014696.53},"method":"short_ladder_30d_lifo"}
+{"symbol":"RUNE","updated":1795537408,"price":0.5065,"windows":[{"w":"8m","ret_pct":0.675,"from":0.5031040477,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1580550.53,"left_short":1580550.53}],"group":{"gid":"g097","fund_usd":3014696.53},"method":"short_ladder_30d_lifo"}

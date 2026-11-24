@@ -1,1 +1,1 @@
-{"symbol":"NMR","updated":1795535695,"price":7.351,"windows":[{"w":"8m","ret_pct":0.136,"from":7.3410162179,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":821311.09,"left_short":821311.09}],"group":{"gid":"g064","fund_usd":2039818.69},"method":"short_ladder_30d_lifo"}
+{"symbol":"NMR","updated":1795537408,"price":7.329,"windows":[{"w":"8m","ret_pct":0.355,"from":7.303074087,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":821311.09,"left_short":821311.09}],"group":{"gid":"g064","fund_usd":2039818.69},"method":"short_ladder_30d_lifo"}

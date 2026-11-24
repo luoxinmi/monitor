@@ -1,1 +1,1 @@
-{"symbol":"HAEDAL","updated":1795535695,"price":0.0176,"windows":[{"w":"8m","ret_pct":0.057,"from":0.0175899737,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1257787.34,"left_short":1257787.34}],"group":{"gid":"g121","fund_usd":3050874.32},"method":"short_ladder_30d_lifo"}
+{"symbol":"HAEDAL","updated":1795537408,"price":0.01749,"windows":[{"w":"8m","ret_pct":0.402,"from":0.0174199717,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1257787.34,"left_short":1257787.34}],"group":{"gid":"g121","fund_usd":3050874.32},"method":"short_ladder_30d_lifo"}
