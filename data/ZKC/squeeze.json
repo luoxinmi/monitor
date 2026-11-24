@@ -1,1 +1,1 @@
-{"symbol":"ZKC","updated":1795486648,"price":0.02297,"windows":[{"w":"60m","ret_pct":0.131,"from":0.0229399487,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":908863.48,"left_short":908863.48}],"group":{"gid":"g000","fund_usd":3053680.45},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZKC","updated":1795490243,"price":0.02268,"windows":[{"w":"8m","ret_pct":0.044,"from":0.0226700252,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":908863.48,"left_short":908863.48}],"group":{"gid":"g000","fund_usd":3053680.45},"method":"short_ladder_30d_lifo"}

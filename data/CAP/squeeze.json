@@ -1,1 +1,1 @@
-{"symbol":"CAP","updated":1795486648,"price":0.09845,"windows":[{"w":"60m","ret_pct":0.367,"from":0.0980900097,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":13449933.62,"left_short":13449933.62}],"group":{"gid":"g047","fund_usd":3054276.1},"method":"short_ladder_30d_lifo"}
+{"symbol":"CAP","updated":1795490243,"price":0.09704,"windows":[{"w":"8m","ret_pct":0.186,"from":0.0968598407,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":13449933.62,"left_short":13449933.62}],"group":{"gid":"g047","fund_usd":3054276.1},"method":"short_ladder_30d_lifo"}

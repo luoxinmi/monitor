@@ -1,1 +1,1 @@
-{"symbol":"EDGE","updated":1795486648,"price":0.2585,"windows":[{"w":"60m","ret_pct":0.116,"from":0.2582004874,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2387250.24,"left_short":2387250.24}],"group":{"gid":"g028","fund_usd":3099910.77},"method":"short_ladder_30d_lifo"}
+{"symbol":"EDGE","updated":1795490243,"price":0.254,"windows":[{"w":"8m","ret_pct":0.039,"from":0.2539009786,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2387250.24,"left_short":2387250.24}],"group":{"gid":"g028","fund_usd":3099910.77},"method":"short_ladder_30d_lifo"}

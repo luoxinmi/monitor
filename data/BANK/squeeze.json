@@ -1,1 +1,1 @@
-{"symbol":"BANK","updated":1795486648,"price":0.01588,"windows":[{"w":"60m","ret_pct":0.063,"from":0.0158700019,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1479580.48,"left_short":1479580.48}],"group":{"gid":"g084","fund_usd":1789655.88},"method":"short_ladder_30d_lifo"}
+{"symbol":"BANK","updated":1795490243,"price":0.01564,"windows":[{"w":"8m","ret_pct":0.128,"from":0.0156200064,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1479580.48,"left_short":1479580.48}],"group":{"gid":"g084","fund_usd":1789655.88},"method":"short_ladder_30d_lifo"}
