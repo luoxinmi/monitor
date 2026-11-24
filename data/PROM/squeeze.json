@@ -1,1 +1,1 @@
-{"symbol":"PROM","updated":1795497442,"price":5.077,"windows":[{"w":"8m","ret_pct":0.138,"from":5.0700033953,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":10724753.98,"left_short":10724753.98}],"group":{"gid":"g079","fund_usd":3081204.33},"method":"short_ladder_30d_lifo"}
+{"symbol":"PROM","updated":1795501046,"price":4.949,"windows":[{"w":"8m","ret_pct":0.631,"from":4.9179676243,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":10724753.98,"left_short":10724753.98}],"group":{"gid":"g079","fund_usd":3081204.33},"method":"short_ladder_30d_lifo"}

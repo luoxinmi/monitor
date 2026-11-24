@@ -1,1 +1,1 @@
-{"symbol":"SNX","updated":1795495983,"price":0.1507,"windows":[{"w":"60m","ret_pct":0.735,"from":0.1496004368,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":899469.0,"left_short":899469.0}],"group":{"gid":"g071","fund_usd":2072558.1},"method":"short_ladder_30d_lifo"}
+{"symbol":"SNX","updated":1795501046,"price":0.1518,"windows":[{"w":"60m","ret_pct":0.997,"from":0.1503014941,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":899469.0,"left_short":899469.0}],"group":{"gid":"g071","fund_usd":2072558.1},"method":"short_ladder_30d_lifo"}
