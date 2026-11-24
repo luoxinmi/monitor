@@ -1,1 +1,1 @@
-{"symbol":"PUNDIX","updated":1795555044,"price":0.07011,"windows":[{"w":"30m","ret_pct":0.014,"from":0.070100186,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":339895.67,"left_short":339895.67}],"group":{"gid":"g017","fund_usd":1538925.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"PUNDIX","updated":1795558642,"price":0.06982,"windows":[{"w":"30m","ret_pct":0.043,"from":0.0697899903,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":339895.67,"left_short":339895.67}],"group":{"gid":"g017","fund_usd":1538925.39},"method":"short_ladder_30d_lifo"}

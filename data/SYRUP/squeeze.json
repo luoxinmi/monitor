@@ -1,1 +1,1 @@
-{"symbol":"SYRUP","updated":1795555044,"price":0.07089,"windows":[{"w":"8m","ret_pct":0.268,"from":0.0707005226,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1671622.89,"left_short":1671622.89}],"group":{"gid":"g105","fund_usd":3039981.31},"method":"short_ladder_30d_lifo"}
+{"symbol":"SYRUP","updated":1795558642,"price":0.07037,"windows":[{"w":"30m","ret_pct":0.586,"from":0.0699600342,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1671622.89,"left_short":1671622.89}],"group":{"gid":"g105","fund_usd":3039981.31},"method":"short_ladder_30d_lifo"}

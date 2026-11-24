@@ -1,1 +1,1 @@
-{"symbol":"SWARMS","updated":1795548873,"price":0.005816,"windows":[{"w":"30m","ret_pct":0.189,"from":0.0058050285,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1539487.24,"left_short":1539487.24}],"group":{"gid":"g121","fund_usd":3050874.32},"method":"short_ladder_30d_lifo"}
+{"symbol":"SWARMS","updated":1795558642,"price":0.00575,"windows":[{"w":"30m","ret_pct":0.227,"from":0.0057369771,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1539487.24,"left_short":1539487.24}],"group":{"gid":"g121","fund_usd":3050874.32},"method":"short_ladder_30d_lifo"}

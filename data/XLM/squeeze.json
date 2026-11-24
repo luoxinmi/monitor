@@ -1,1 +1,1 @@
-{"symbol":"XLM","updated":1795555044,"price":0.12372,"windows":[{"w":"8m","ret_pct":0.097,"from":0.1236001079,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":12422631.95,"left_short":12422631.95}],"group":{"gid":"g077","fund_usd":52641133.85},"method":"short_ladder_30d_lifo"}
+{"symbol":"XLM","updated":1795558642,"price":0.12429,"windows":[{"w":"60m","ret_pct":0.331,"from":0.1238799573,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":12422631.95,"left_short":12422631.95}],"group":{"gid":"g077","fund_usd":52641133.85},"method":"short_ladder_30d_lifo"}

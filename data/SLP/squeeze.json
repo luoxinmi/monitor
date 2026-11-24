@@ -1,1 +1,1 @@
-{"symbol":"SLP","updated":1795555044,"price":0.0004031,"windows":[{"w":"60m","ret_pct":0.074,"from":0.0004028019,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":322574.93,"left_short":322574.93}],"group":{"gid":"g114","fund_usd":1007691.96},"method":"short_ladder_30d_lifo"}
+{"symbol":"SLP","updated":1795558642,"price":0.0004028,"windows":[{"w":"30m","ret_pct":0.074,"from":0.0004025021,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":322574.93,"left_short":322574.93}],"group":{"gid":"g114","fund_usd":1007691.96},"method":"short_ladder_30d_lifo"}

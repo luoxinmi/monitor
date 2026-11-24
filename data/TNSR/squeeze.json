@@ -1,1 +1,1 @@
-{"symbol":"TNSR","updated":1795548873,"price":0.01856,"windows":[{"w":"30m","ret_pct":0.054,"from":0.018549983,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":682585.99,"left_short":682585.99}],"group":{"gid":"g112","fund_usd":3095928.58},"method":"short_ladder_30d_lifo"}
+{"symbol":"TNSR","updated":1795558642,"price":0.01834,"windows":[{"w":"30m","ret_pct":0.055,"from":0.0183299185,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":682585.99,"left_short":682585.99}],"group":{"gid":"g112","fund_usd":3095928.58},"method":"short_ladder_30d_lifo"}

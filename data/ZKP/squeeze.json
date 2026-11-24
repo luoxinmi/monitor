@@ -1,1 +1,1 @@
-{"symbol":"ZKP","updated":1795551446,"price":0.02656,"windows":[{"w":"8m","ret_pct":0.151,"from":0.0265199549,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":930231.63,"left_short":930231.63}],"group":{"gid":"g014","fund_usd":3045798.62},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZKP","updated":1795558642,"price":0.02637,"windows":[{"w":"30m","ret_pct":0.038,"from":0.0263599832,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":930231.63,"left_short":930231.63}],"group":{"gid":"g014","fund_usd":3045798.62},"method":"short_ladder_30d_lifo"}

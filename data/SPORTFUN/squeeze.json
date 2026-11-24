@@ -1,1 +1,1 @@
-{"symbol":"SPORTFUN","updated":1795547844,"price":0.01132,"windows":[{"w":"8m","ret_pct":0.266,"from":0.0112899687,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":849965.03,"left_short":849965.03}],"group":{"gid":"g026","fund_usd":3067902.9},"method":"short_ladder_30d_lifo"}
+{"symbol":"SPORTFUN","updated":1795558642,"price":0.01114,"windows":[{"w":"30m","ret_pct":0.18,"from":0.011119984,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":849965.03,"left_short":849965.03}],"group":{"gid":"g026","fund_usd":3067902.9},"method":"short_ladder_30d_lifo"}
