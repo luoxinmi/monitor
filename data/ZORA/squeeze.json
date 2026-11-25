@@ -1,1 +1,1 @@
-{"symbol":"ZORA","updated":1795595003,"price":0.004115,"windows":[{"w":"30m","ret_pct":0.194,"from":0.0041070324,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":510354.7,"left_short":510354.7}],"group":{"gid":"g115","fund_usd":3014045.94},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZORA","updated":1795598245,"price":0.004107,"windows":[{"w":"8m","ret_pct":0.122,"from":0.0041019956,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":510354.7,"left_short":510354.7}],"group":{"gid":"g115","fund_usd":3014045.94},"method":"short_ladder_30d_lifo"}

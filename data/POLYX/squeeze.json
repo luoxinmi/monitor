@@ -1,1 +1,1 @@
-{"symbol":"POLYX","updated":1795595003,"price":0.02456,"windows":[{"w":"8m","ret_pct":0.163,"from":0.0245200323,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":462786.59,"left_short":462786.59}],"group":{"gid":"g046","fund_usd":3082811.57},"method":"short_ladder_30d_lifo"}
+{"symbol":"POLYX","updated":1795598245,"price":0.02453,"windows":[{"w":"60m","ret_pct":0.245,"from":0.0244700484,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":462786.59,"left_short":462786.59}],"group":{"gid":"g046","fund_usd":3082811.57},"method":"short_ladder_30d_lifo"}

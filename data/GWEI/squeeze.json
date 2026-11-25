@@ -1,1 +1,1 @@
-{"symbol":"GWEI","updated":1795587445,"price":0.0103,"windows":[{"w":"30m","ret_pct":0.194,"from":0.0102800567,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":945814.48,"left_short":945814.48}],"group":{"gid":"g084","fund_usd":1794627.63},"method":"short_ladder_30d_lifo"}
+{"symbol":"GWEI","updated":1795598245,"price":0.00977,"windows":[{"w":"8m","ret_pct":0.308,"from":0.0097400008,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":945814.48,"left_short":945814.48}],"group":{"gid":"g084","fund_usd":1794627.63},"method":"short_ladder_30d_lifo"}

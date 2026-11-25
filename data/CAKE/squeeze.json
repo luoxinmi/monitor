@@ -1,1 +1,1 @@
-{"symbol":"CAKE","updated":1795595003,"price":1.4959,"windows":[{"w":"30m","ret_pct":0.047,"from":1.4951972573,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2937167.92,"left_short":2937167.92}],"group":{"gid":"g011","fund_usd":3004738.67},"method":"short_ladder_30d_lifo"}
+{"symbol":"CAKE","updated":1795598245,"price":1.4991,"windows":[{"w":"60m","ret_pct":0.174,"from":1.4964960968,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2937167.92,"left_short":2937167.92}],"group":{"gid":"g011","fund_usd":3004738.67},"method":"short_ladder_30d_lifo"}

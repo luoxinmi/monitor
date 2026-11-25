@@ -1,1 +1,1 @@
-{"symbol":"KOMA","updated":1795594642,"price":0.012304,"windows":[{"w":"30m","ret_pct":0.155,"from":0.0122849583,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2605342.17,"left_short":2605342.17}],"group":{"gid":"g123","fund_usd":3100154.4},"method":"short_ladder_30d_lifo"}
+{"symbol":"KOMA","updated":1795598245,"price":0.012278,"windows":[{"w":"8m","ret_pct":0.082,"from":0.0122679403,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2605342.17,"left_short":2605342.17}],"group":{"gid":"g123","fund_usd":3100154.4},"method":"short_ladder_30d_lifo"}

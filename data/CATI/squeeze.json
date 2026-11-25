@@ -1,1 +1,1 @@
-{"symbol":"CATI","updated":1795595003,"price":0.03174,"windows":[{"w":"30m","ret_pct":0.063,"from":0.0317200164,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":932448.85,"left_short":932448.85}],"group":{"gid":"g088","fund_usd":2147619.5},"method":"short_ladder_30d_lifo"}
+{"symbol":"CATI","updated":1795598245,"price":0.03179,"windows":[{"w":"8m","ret_pct":0.063,"from":0.0317699849,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":932448.85,"left_short":932448.85}],"group":{"gid":"g088","fund_usd":2147619.5},"method":"short_ladder_30d_lifo"}

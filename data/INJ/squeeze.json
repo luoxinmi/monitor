@@ -1,1 +1,1 @@
-{"symbol":"INJ","updated":1795595003,"price":5.789,"windows":[{"w":"8m","ret_pct":0.052,"from":5.7859912845,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":10539235.08,"left_short":10539235.08}],"group":{"gid":"g098","fund_usd":3119853.26},"method":"short_ladder_30d_lifo"}
+{"symbol":"INJ","updated":1795598245,"price":5.803,"windows":[{"w":"60m","ret_pct":0.19,"from":5.7919952091,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":10539235.08,"left_short":10539235.08}],"group":{"gid":"g098","fund_usd":3119853.26},"method":"short_ladder_30d_lifo"}

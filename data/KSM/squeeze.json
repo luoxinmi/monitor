@@ -1,1 +1,1 @@
-{"symbol":"KSM","updated":1795595003,"price":2.55,"windows":[{"w":"30m","ret_pct":0.039,"from":2.5490058877,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":653765.17,"left_short":653765.17}],"group":{"gid":"g023","fund_usd":3097108.74},"method":"short_ladder_30d_lifo"}
+{"symbol":"KSM","updated":1795598245,"price":2.555,"windows":[{"w":"60m","ret_pct":0.157,"from":2.5509949379,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":653765.17,"left_short":653765.17}],"group":{"gid":"g023","fund_usd":3097108.74},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"NXPC","updated":1795594642,"price":0.1243,"windows":[{"w":"30m","ret_pct":0.242,"from":0.1239999202,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1341492.77,"left_short":1341492.77}],"group":{"gid":"g030","fund_usd":3028773.47},"method":"short_ladder_30d_lifo"}
+{"symbol":"NXPC","updated":1795598245,"price":0.1223,"windows":[{"w":"8m","ret_pct":0.164,"from":0.1220997564,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1341492.77,"left_short":1341492.77}],"group":{"gid":"g030","fund_usd":3028773.47},"method":"short_ladder_30d_lifo"}
