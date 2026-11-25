@@ -25,3 +25,4 @@
 {"ts":1795566938,"sym":"BIGTIME","kind":"squeeze_8m","val":4.27,"msg":"8m 爆拉 +4.3% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795566938,"sym":"BIGTIME","kind":"squeeze_30m","val":5.043,"msg":"30m 爆拉 +5.0% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795566938,"sym":"BIGTIME","kind":"squeeze_60m","val":7.8,"msg":"60m 爆拉 +7.8% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795567411,"sym":"BIGTIME","kind":"price","val":16.31,"msg":"24h +16.3%"}
