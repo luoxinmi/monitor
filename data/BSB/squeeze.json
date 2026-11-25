@@ -1,1 +1,1 @@
-{"symbol":"BSB","updated":1795636633,"price":0.06558,"windows":[{"w":"60m","ret_pct":0.66,"from":0.0651500099,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1577560.7,"left_short":1577560.7}],"group":{"gid":"g028","fund_usd":3103548.99},"method":"short_ladder_30d_lifo"}
+{"symbol":"BSB","updated":1795637846,"price":0.0656,"windows":[{"w":"8m","ret_pct":0.199,"from":0.0654697153,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1577560.7,"left_short":1577560.7}],"group":{"gid":"g028","fund_usd":3103548.99},"method":"short_ladder_30d_lifo"}

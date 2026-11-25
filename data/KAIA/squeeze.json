@@ -1,1 +1,1 @@
-{"symbol":"KAIA","updated":1795636633,"price":0.02846,"windows":[{"w":"60m","ret_pct":0.141,"from":0.0284199279,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":821586.59,"left_short":821586.59}],"group":{"gid":"g052","fund_usd":3099132.35},"method":"short_ladder_30d_lifo"}
+{"symbol":"KAIA","updated":1795637846,"price":0.02853,"windows":[{"w":"8m","ret_pct":0.035,"from":0.028520018,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":821586.59,"left_short":821586.59}],"group":{"gid":"g052","fund_usd":3099132.35},"method":"short_ladder_30d_lifo"}

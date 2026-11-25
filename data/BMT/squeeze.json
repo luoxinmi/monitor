@@ -1,1 +1,1 @@
-{"symbol":"BMT","updated":1795636633,"price":0.01807,"windows":[{"w":"60m","ret_pct":1.119,"from":0.0178700343,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1674349.16,"left_short":1674349.16}],"group":{"gid":"g109","fund_usd":2951274.89},"method":"short_ladder_30d_lifo"}
+{"symbol":"BMT","updated":1795637846,"price":0.01807,"windows":[{"w":"8m","ret_pct":0.222,"from":0.0180299735,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1674349.16,"left_short":1674349.16}],"group":{"gid":"g109","fund_usd":2951274.89},"method":"short_ladder_30d_lifo"}
