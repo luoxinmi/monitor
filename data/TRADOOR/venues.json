@@ -1,1 +1,1 @@
-{"symbol":"TRADOOR","updated":1795609403,"venues":{"binance":{"sym":"TRADOORUSDT","p":0.6229,"pc":0.581,"v":2071024.1969,"fr":0.00014886,"onboard":1758285000000},"gate":{"sym":"TRADOOR_USDT","p":0.623,"pc":0.65,"v":96206.0,"oi":281201.018,"oi_coin":451366.0,"fr":0.0001,"lev":20.0}}}
+{"symbol":"TRADOOR","updated":1795612643,"venues":{"binance":{"sym":"TRADOORUSDT","p":0.6151,"pc":-0.405,"v":2064567.6786,"fr":5.685e-05,"onboard":1758285000000},"gate":{"sym":"TRADOOR_USDT","p":0.614,"pc":-0.65,"v":101826.0,"oi":273270.524,"oi_coin":445066.0,"fr":0.0001,"lev":20.0}}}

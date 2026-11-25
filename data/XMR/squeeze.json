@@ -1,1 +1,1 @@
-{"symbol":"XMR","updated":1795609046,"price":506.52,"windows":[{"w":"8m","ret_pct":0.04,"from":506.3174730108,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":20983753.75,"left_short":20983753.75}],"group":{"gid":"g077","fund_usd":52659446.46},"method":"short_ladder_30d_lifo"}
+{"symbol":"XMR","updated":1795612643,"price":503.59,"windows":[{"w":"30m","ret_pct":0.113,"from":503.0215856083,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":20983753.75,"left_short":20983753.75}],"group":{"gid":"g077","fund_usd":52659446.46},"method":"short_ladder_30d_lifo"}
