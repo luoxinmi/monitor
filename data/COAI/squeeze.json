@@ -1,1 +1,1 @@
-{"symbol":"COAI","updated":1795569447,"price":0.1601,"windows":[{"w":"8m","ret_pct":0.313,"from":0.1596004506,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":842923.17,"left_short":842923.17}],"group":{"gid":"g111","fund_usd":3068807.83},"method":"short_ladder_30d_lifo"}
+{"symbol":"COAI","updated":1795573051,"price":0.1594,"windows":[{"w":"8m","ret_pct":0.063,"from":0.1592996412,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":842923.17,"left_short":842923.17}],"group":{"gid":"g111","fund_usd":3068807.83},"method":"short_ladder_30d_lifo"}

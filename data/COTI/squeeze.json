@@ -1,1 +1,1 @@
-{"symbol":"COTI","updated":1795569447,"price":0.008011,"windows":[{"w":"8m","ret_pct":0.188,"from":0.0079959676,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1229625.94,"left_short":1229625.94}],"group":{"gid":"g086","fund_usd":2045015.02},"method":"short_ladder_30d_lifo"}
+{"symbol":"COTI","updated":1795573051,"price":0.007987,"windows":[{"w":"8m","ret_pct":0.05,"from":0.0079830085,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1229625.94,"left_short":1229625.94}],"group":{"gid":"g086","fund_usd":2045015.02},"method":"short_ladder_30d_lifo"}
