@@ -1,1 +1,1 @@
-{"symbol":"KERNEL","updated":1795616251,"price":0.04288,"windows":[{"w":"30m","ret_pct":0.28,"from":0.0427602712,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1316756.84,"left_short":1316756.84}],"group":{"gid":"g054","fund_usd":3096160.89},"method":"short_ladder_30d_lifo"}
+{"symbol":"KERNEL","updated":1795617588,"price":0.04276,"windows":[{"w":"8m","ret_pct":0.493,"from":0.0425502274,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1316756.84,"left_short":1316756.84}],"group":{"gid":"g054","fund_usd":3096160.89},"method":"short_ladder_30d_lifo"}

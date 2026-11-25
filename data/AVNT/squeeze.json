@@ -1,1 +1,1 @@
-{"symbol":"AVNT","updated":1795609403,"price":0.05504,"windows":[{"w":"8m","ret_pct":0.383,"from":0.0548300011,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":816294.34,"left_short":816294.34}],"group":{"gid":"g022","fund_usd":3025556.48},"method":"short_ladder_30d_lifo"}
+{"symbol":"AVNT","updated":1795617588,"price":0.05439,"windows":[{"w":"8m","ret_pct":0.018,"from":0.0543802116,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":816294.34,"left_short":816294.34}],"group":{"gid":"g022","fund_usd":3025556.48},"method":"short_ladder_30d_lifo"}

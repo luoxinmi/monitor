@@ -1,1 +1,1 @@
-{"symbol":"DUSK","updated":1795616251,"price":0.0598,"windows":[{"w":"8m","ret_pct":0.05,"from":0.0597701149,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":928005.52,"left_short":928005.52}],"group":{"gid":"g036","fund_usd":3045497.6},"method":"short_ladder_30d_lifo"}
+{"symbol":"DUSK","updated":1795617588,"price":0.05982,"windows":[{"w":"8m","ret_pct":0.033,"from":0.0598002659,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":928005.52,"left_short":928005.52}],"group":{"gid":"g036","fund_usd":3045497.6},"method":"short_ladder_30d_lifo"}

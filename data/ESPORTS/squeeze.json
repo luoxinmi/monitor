@@ -1,1 +1,1 @@
-{"symbol":"ESPORTS","updated":1795609403,"price":0.009936,"windows":[{"w":"8m","ret_pct":0.232,"from":0.0099130018,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2911800.51,"left_short":2911800.51}],"group":{"gid":"g038","fund_usd":2221292.3},"method":"short_ladder_30d_lifo"}
+{"symbol":"ESPORTS","updated":1795617588,"price":0.009832,"windows":[{"w":"30m","ret_pct":1.286,"from":0.0097071658,"N":625869.56,"L":0.0,"uN":0.2818,"uL":0.0,"total_short_ladder":2911800.51,"left_short":2285930.95}],"group":{"gid":"g038","fund_usd":2221292.3},"method":"short_ladder_30d_lifo"}
