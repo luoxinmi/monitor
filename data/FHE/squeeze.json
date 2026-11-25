@@ -1,1 +1,1 @@
-{"symbol":"FHE","updated":1795623447,"price":0.01491,"windows":[{"w":"8m","ret_pct":0.404,"from":0.014850006,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1360096.05,"left_short":1360096.05}],"group":{"gid":"g106","fund_usd":3054846.57},"method":"short_ladder_30d_lifo"}
+{"symbol":"FHE","updated":1795623814,"price":0.01497,"windows":[{"w":"8m","ret_pct":0.336,"from":0.0149198692,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1360096.05,"left_short":1360096.05}],"group":{"gid":"g106","fund_usd":3054846.57},"method":"short_ladder_30d_lifo"}

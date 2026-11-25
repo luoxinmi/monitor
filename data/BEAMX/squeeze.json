@@ -1,1 +1,1 @@
-{"symbol":"BEAMX","updated":1795619844,"price":0.003262,"windows":[{"w":"60m","ret_pct":0.031,"from":0.0032609891,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6876163.81,"left_short":6876163.81}],"group":{"gid":"g025","fund_usd":3047295.74},"method":"short_ladder_30d_lifo"}
+{"symbol":"BEAMX","updated":1795623814,"price":0.003263,"windows":[{"w":"8m","ret_pct":0.431,"from":0.0032489968,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6876163.81,"left_short":6876163.81}],"group":{"gid":"g025","fund_usd":3047295.74},"method":"short_ladder_30d_lifo"}

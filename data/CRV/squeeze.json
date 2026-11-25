@@ -1,1 +1,1 @@
-{"symbol":"CRV","updated":1795609403,"price":0.1692,"windows":[{"w":"8m","ret_pct":0.118,"from":0.1690005793,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6812959.41,"left_short":6812959.41}],"group":{"gid":"g004","fund_usd":3105987.93},"method":"short_ladder_30d_lifo"}
+{"symbol":"CRV","updated":1795623814,"price":0.1657,"windows":[{"w":"8m","ret_pct":0.303,"from":0.1651994457,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6812959.41,"left_short":6812959.41}],"group":{"gid":"g004","fund_usd":3105987.93},"method":"short_ladder_30d_lifo"}
