@@ -332,3 +332,6 @@
 {"ts":1795583844,"sym":"WAXP","kind":"squeeze_30m","val":6.727,"msg":"30m 爆拉 +6.7% → 扫空头 $0.01M，损失 $0K"}
 {"ts":1795585402,"sym":"MANTRA","kind":"squeeze_8m","val":2.162,"msg":"8m 爆拉 +2.2% → 扫空头 $0.02M，损失 $0K"}
 {"ts":1795585402,"sym":"MANTRA","kind":"squeeze_60m","val":10.136,"msg":"60m 爆拉 +10.1% → 扫空头 $0.02M，损失 $0K"}
+{"ts":1795586364,"sym":"PROM","kind":"squeeze_8m","val":3.693,"msg":"8m 爆拉 +3.7% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795586364,"sym":"PROM","kind":"squeeze_30m","val":4.614,"msg":"30m 爆拉 +4.6% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795586364,"sym":"PROM","kind":"squeeze_60m","val":3.961,"msg":"60m 爆拉 +4.0% → 扫空头 $0.00M，损失 $0K"}
