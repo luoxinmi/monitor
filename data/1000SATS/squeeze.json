@@ -1,1 +1,1 @@
-{"symbol":"1000SATS","updated":1795612643,"price":6.88e-06,"windows":[{"w":"8m","ret_pct":0.146,"from":6.87e-06,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":508385.48,"left_short":508385.48}],"group":{"gid":"g008","fund_usd":3030943.7},"method":"short_ladder_30d_lifo"}
+{"symbol":"1000SATS","updated":1795619844,"price":6.8e-06,"windows":[{"w":"30m","ret_pct":0.295,"from":6.78e-06,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":508385.48,"left_short":508385.48}],"group":{"gid":"g008","fund_usd":3030943.7},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"MERL","updated":1795617588,"price":0.02538,"windows":[{"w":"8m","ret_pct":0.039,"from":0.0253701057,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":820749.61,"left_short":820749.61}],"group":{"gid":"g119","fund_usd":3089554.48},"method":"short_ladder_30d_lifo"}
+{"symbol":"MERL","updated":1795619844,"price":0.02543,"windows":[{"w":"60m","ret_pct":0.276,"from":0.0253600064,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":820749.61,"left_short":820749.61}],"group":{"gid":"g119","fund_usd":3089554.48},"method":"short_ladder_30d_lifo"}
