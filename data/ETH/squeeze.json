@@ -1,1 +1,1 @@
-{"symbol":"ETH","updated":1795609046,"price":1642.13,"windows":[{"w":"8m","ret_pct":0.245,"from":1638.116614295,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1990784246.41,"left_short":1990784246.41}],"group":{"gid":"g003","fund_usd":876980160.61},"method":"short_ladder_30d_lifo"}
+{"symbol":"ETH","updated":1795609403,"price":1643.99,"windows":[{"w":"8m","ret_pct":0.059,"from":1643.0206178355,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1990784246.41,"left_short":1990784246.41}],"group":{"gid":"g003","fund_usd":876980160.61},"method":"short_ladder_30d_lifo"}
