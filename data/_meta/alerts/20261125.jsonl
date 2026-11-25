@@ -33,3 +33,6 @@
 {"ts":1795569083,"sym":"IRYS","kind":"squeeze_60m","val":6.728,"msg":"60m 爆拉 +6.7% → 扫空头 $0.01M，损失 $1K（组基金 0.0%）"}
 {"ts":1795569447,"sym":"PIEVERSE","kind":"price","val":-15.67,"msg":"24h -15.7%"}
 {"ts":1795569563,"sym":"IRYS","kind":"funding","val":-0.1027,"msg":"费率 -0.103%"}
+{"ts":1795570044,"sym":"BTW","kind":"price","val":15.08,"msg":"24h +15.1%"}
+{"ts":1795570044,"sym":"STBL","kind":"oi","val":10.6,"msg":"OI +10.6%（1.3M→1.4M）"}
+{"ts":1795570044,"sym":"GUA","kind":"squeeze_8m","val":5.469,"msg":"8m 爆拉 +5.5% → 扫空头 $0.43M，损失 $0K（组基金 0.0%）"}
