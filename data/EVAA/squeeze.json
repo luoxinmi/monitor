@@ -1,1 +1,1 @@
-{"symbol":"EVAA","updated":1795637846,"price":2.7729,"windows":[{"w":"8m","ret_pct":0.018,"from":2.7724009678,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":14204926.3,"left_short":14204926.3}],"group":{"gid":"g042","fund_usd":3269691.46},"method":"short_ladder_30d_lifo"}
+{"symbol":"EVAA","updated":1795638205,"price":2.7472,"windows":[{"w":"60m","ret_pct":0.483,"from":2.7339948051,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":14204926.3,"left_short":14204926.3}],"group":{"gid":"g042","fund_usd":3269691.46},"method":"short_ladder_30d_lifo"}
