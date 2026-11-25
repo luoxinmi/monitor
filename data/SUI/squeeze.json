@@ -1,1 +1,1 @@
-{"symbol":"SUI","updated":1795562244,"price":0.6487,"windows":[{"w":"60m","ret_pct":0.247,"from":0.6471016589,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":30397225.87,"left_short":30397225.87}],"group":{"gid":"g065","fund_usd":398032436.7},"method":"short_ladder_30d_lifo"}
+{"symbol":"SUI","updated":1795566205,"price":0.646,"windows":[{"w":"8m","ret_pct":0.155,"from":0.6450002496,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":30463336.38,"left_short":30463336.38}],"group":{"gid":"g065","fund_usd":398823208.02},"method":"short_ladder_30d_lifo"}

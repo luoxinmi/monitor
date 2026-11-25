@@ -1,1 +1,1 @@
-{"symbol":"GOAT","updated":1795565843,"price":0.00997,"windows":[{"w":"60m","ret_pct":0.201,"from":0.0099500005,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":545442.04,"left_short":545442.04}],"group":{"gid":"g119","fund_usd":3089554.48},"method":"short_ladder_30d_lifo"}
+{"symbol":"GOAT","updated":1795566205,"price":0.00999,"windows":[{"w":"8m","ret_pct":0.201,"from":0.0099699604,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":545442.04,"left_short":545442.04}],"group":{"gid":"g119","fund_usd":3089554.48},"method":"short_ladder_30d_lifo"}

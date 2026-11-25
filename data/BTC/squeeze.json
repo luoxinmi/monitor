@@ -1,1 +1,1 @@
-{"symbol":"BTC","updated":1795562244,"price":59976.0,"windows":[{"w":"60m","ret_pct":0.038,"from":59953.2177772446,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2859303299.2,"left_short":2859303299.2}],"group":{"gid":"g003","fund_usd":876605472.58},"method":"short_ladder_30d_lifo"}
+{"symbol":"BTC","updated":1795566205,"price":59595.6,"windows":[{"w":"8m","ret_pct":0.104,"from":59533.6849676337,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2881502049.43,"left_short":2881502049.43}],"group":{"gid":"g003","fund_usd":876980160.61},"method":"short_ladder_30d_lifo"}

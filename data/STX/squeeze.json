@@ -1,1 +1,1 @@
-{"symbol":"STX","updated":1795562244,"price":0.2605,"windows":[{"w":"60m","ret_pct":0.424,"from":0.2594001434,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2354747.15,"left_short":2354747.15}],"group":{"gid":"g098","fund_usd":3108924.26},"method":"short_ladder_30d_lifo"}
+{"symbol":"STX","updated":1795566205,"price":0.2596,"windows":[{"w":"8m","ret_pct":0.27,"from":0.2589009674,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2411542.06,"left_short":2411542.06}],"group":{"gid":"g098","fund_usd":3119853.26},"method":"short_ladder_30d_lifo"}

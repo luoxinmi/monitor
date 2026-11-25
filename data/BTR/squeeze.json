@@ -1,1 +1,1 @@
-{"symbol":"BTR","updated":1795565843,"price":0.03646,"windows":[{"w":"60m","ret_pct":0.248,"from":0.0363698029,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2265114.83,"left_short":2265114.83}],"group":{"gid":"g050","fund_usd":3064250.03},"method":"short_ladder_30d_lifo"}
+{"symbol":"BTR","updated":1795566205,"price":0.03651,"windows":[{"w":"8m","ret_pct":0.082,"from":0.0364800863,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2265114.83,"left_short":2265114.83}],"group":{"gid":"g050","fund_usd":3064250.03},"method":"short_ladder_30d_lifo"}

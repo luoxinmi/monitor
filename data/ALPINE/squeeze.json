@@ -1,1 +1,1 @@
-{"symbol":"ALPINE","updated":1795562244,"price":0.2467,"windows":[{"w":"60m","ret_pct":0.162,"from":0.2463009924,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":579126.52,"left_short":579126.52}],"group":{"gid":"g057","fund_usd":3095725.57},"method":"short_ladder_30d_lifo"}
+{"symbol":"ALPINE","updated":1795566205,"price":0.2465,"windows":[{"w":"8m","ret_pct":0.163,"from":0.2460988589,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":554298.67,"left_short":554298.67}],"group":{"gid":"g057","fund_usd":3096042.52},"method":"short_ladder_30d_lifo"}
