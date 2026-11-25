@@ -1,1 +1,1 @@
-{"symbol":"RIVER","updated":1795580243,"price":0.568,"windows":[{"w":"8m","ret_pct":0.478,"from":0.5652978762,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1617212.28,"left_short":1617212.28}],"group":{"gid":"g028","fund_usd":3103548.99},"method":"short_ladder_30d_lifo"}
+{"symbol":"RIVER","updated":1795587445,"price":0.5582,"windows":[{"w":"8m","ret_pct":0.323,"from":0.5564028189,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1617212.28,"left_short":1617212.28}],"group":{"gid":"g028","fund_usd":3103548.99},"method":"short_ladder_30d_lifo"}
