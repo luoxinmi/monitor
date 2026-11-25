@@ -73,3 +73,6 @@
 {"ts":1795580243,"sym":"SLX","kind":"squeeze_8m","val":6.268,"msg":"8m 爆拉 +6.3% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795580243,"sym":"SLX","kind":"squeeze_30m","val":7.682,"msg":"30m 爆拉 +7.7% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795580243,"sym":"WAXP","kind":"squeeze_8m","val":4.48,"msg":"8m 爆拉 +4.5% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795580362,"sym":"KERNEL","kind":"squeeze_8m","val":3.001,"msg":"8m 爆拉 +3.0% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795580362,"sym":"KERNEL","kind":"squeeze_30m","val":0.348,"msg":"30m 爆拉 +0.3% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795580362,"sym":"KERNEL","kind":"squeeze_60m","val":1.765,"msg":"60m 爆拉 +1.8% → 扫空头 $0.00M，损失 $0K"}
