@@ -1,1 +1,1 @@
-{"symbol":"MUBARAK","updated":1795598245,"price":0.02265,"windows":[{"w":"60m","ret_pct":1.341,"from":0.0223502827,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3047596.3,"left_short":3047596.3}],"group":{"gid":"g005","fund_usd":3032183.33},"method":"short_ladder_30d_lifo"}
+{"symbol":"MUBARAK","updated":1795600351,"price":0.02252,"windows":[{"w":"8m","ret_pct":0.267,"from":0.0224600317,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3047596.3,"left_short":3047596.3}],"group":{"gid":"g005","fund_usd":3032183.33},"method":"short_ladder_30d_lifo"}
