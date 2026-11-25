@@ -1,1 +1,1 @@
-{"symbol":"AUCTION","updated":1795566205,"price":2.449,"windows":[{"w":"8m","ret_pct":0.123,"from":2.4459914305,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":766479.44,"left_short":766479.44}],"group":{"gid":"g095","fund_usd":3059949.8},"method":"short_ladder_30d_lifo"}
+{"symbol":"AUCTION","updated":1795567593,"price":2.454,"windows":[{"w":"30m","ret_pct":0.245,"from":2.4480023941,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":766479.44,"left_short":766479.44}],"group":{"gid":"g095","fund_usd":3059949.8},"method":"short_ladder_30d_lifo"}

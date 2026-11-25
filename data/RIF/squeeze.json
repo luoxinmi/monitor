@@ -1,1 +1,1 @@
-{"symbol":"RIF","updated":1795566205,"price":0.0474,"windows":[{"w":"8m","ret_pct":0.042,"from":0.0473801004,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":505198.07,"left_short":505198.07}],"group":{"gid":"g063","fund_usd":3111277.27},"method":"short_ladder_30d_lifo"}
+{"symbol":"RIF","updated":1795567593,"price":0.04741,"windows":[{"w":"30m","ret_pct":0.084,"from":0.047370209,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":505198.07,"left_short":505198.07}],"group":{"gid":"g063","fund_usd":3111277.27},"method":"short_ladder_30d_lifo"}

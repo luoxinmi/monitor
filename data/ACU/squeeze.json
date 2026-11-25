@@ -1,1 +1,1 @@
-{"symbol":"ACU","updated":1795566205,"price":0.10592,"windows":[{"w":"8m","ret_pct":0.019,"from":0.105899879,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1231935.26,"left_short":1231935.26}],"group":{"gid":"g114","fund_usd":1007850.35},"method":"short_ladder_30d_lifo"}
+{"symbol":"ACU","updated":1795567593,"price":0.10575,"windows":[{"w":"8m","ret_pct":0.085,"from":0.1056601888,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1231935.26,"left_short":1231935.26}],"group":{"gid":"g114","fund_usd":1007850.35},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"JUP","updated":1795566205,"price":0.2209,"windows":[{"w":"8m","ret_pct":0.409,"from":0.2200001992,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6084634.45,"left_short":6084634.45}],"group":{"gid":"g099","fund_usd":3035586.0},"method":"short_ladder_30d_lifo"}
+{"symbol":"JUP","updated":1795567593,"price":0.221,"windows":[{"w":"30m","ret_pct":0.318,"from":0.2202994478,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6084634.45,"left_short":6084634.45}],"group":{"gid":"g099","fund_usd":3035586.0},"method":"short_ladder_30d_lifo"}

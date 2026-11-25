@@ -1,1 +1,1 @@
-{"symbol":"IMX","updated":1795566205,"price":0.0875,"windows":[{"w":"8m","ret_pct":0.114,"from":0.0874003636,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1105061.56,"left_short":1105061.56}],"group":{"gid":"g011","fund_usd":3004738.67},"method":"short_ladder_30d_lifo"}
+{"symbol":"IMX","updated":1795567593,"price":0.0875,"windows":[{"w":"8m","ret_pct":0.115,"from":0.0873994906,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1105061.56,"left_short":1105061.56}],"group":{"gid":"g011","fund_usd":3004738.67},"method":"short_ladder_30d_lifo"}

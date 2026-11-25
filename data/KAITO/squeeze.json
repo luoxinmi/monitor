@@ -1,1 +1,1 @@
-{"symbol":"KAITO","updated":1795558642,"price":0.1554,"windows":[{"w":"30m","ret_pct":0.064,"from":0.1553006076,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2133703.68,"left_short":2133703.68}],"group":{"gid":"g000","fund_usd":3053680.45},"method":"short_ladder_30d_lifo"}
+{"symbol":"KAITO","updated":1795567593,"price":0.1538,"windows":[{"w":"8m","ret_pct":0.065,"from":0.1537000949,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2000703.12,"left_short":2000703.12}],"group":{"gid":"g000","fund_usd":3054310.56},"method":"short_ladder_30d_lifo"}
