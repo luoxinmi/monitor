@@ -408,3 +408,5 @@
 {"ts":1795616251,"sym":"JELLYJELLY","kind":"squeeze_8m","val":4.215,"msg":"8m 爆拉 +4.2% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795617588,"sym":"PIEVERSE","kind":"squeeze_8m","val":6.264,"msg":"8m 爆拉 +6.3% → 扫空头 $1.68M，损失 $7K（组基金 0.2%）"}
 {"ts":1795617588,"sym":"PIEVERSE","kind":"squeeze_30m","val":9.298,"msg":"30m 爆拉 +9.3% → 扫空头 $1.77M，损失 $15K（组基金 0.5%）"}
+{"ts":1795617804,"sym":"RIVER","kind":"price","val":-15.06,"msg":"24h -15.1%"}
+{"ts":1795617804,"sym":"PIEVERSE","kind":"squeeze_60m","val":8.298,"msg":"60m 爆拉 +8.3% → 扫空头 $1.77M，损失 $8K（组基金 0.3%）"}
