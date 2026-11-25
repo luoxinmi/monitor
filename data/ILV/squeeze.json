@@ -1,1 +1,1 @@
-{"symbol":"ILV","updated":1795594642,"price":2.198,"windows":[{"w":"30m","ret_pct":0.365,"from":2.1900064764,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":434809.65,"left_short":434809.65}],"group":{"gid":"g114","fund_usd":1007850.35},"method":"short_ladder_30d_lifo"}
+{"symbol":"ILV","updated":1795595003,"price":2.197,"windows":[{"w":"30m","ret_pct":0.319,"from":2.1900138558,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":434809.65,"left_short":434809.65}],"group":{"gid":"g114","fund_usd":1007850.35},"method":"short_ladder_30d_lifo"}

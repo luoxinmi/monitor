@@ -1,1 +1,1 @@
-{"symbol":"CYS","updated":1795594642,"price":0.04808,"windows":[{"w":"30m","ret_pct":0.125,"from":0.048019975,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1392528.05,"left_short":1392528.05}],"group":{"gid":"g104","fund_usd":2064335.84},"method":"short_ladder_30d_lifo"}
+{"symbol":"CYS","updated":1795595003,"price":0.04829,"windows":[{"w":"30m","ret_pct":0.062,"from":0.0482600788,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1392528.05,"left_short":1392528.05}],"group":{"gid":"g104","fund_usd":2064335.84},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"CHILLGUY","updated":1795594642,"price":0.007161,"windows":[{"w":"60m","ret_pct":0.688,"from":0.007112069,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":534952.38,"left_short":534952.38}],"group":{"gid":"g121","fund_usd":3051211.21},"method":"short_ladder_30d_lifo"}
+{"symbol":"CHILLGUY","updated":1795595003,"price":0.007184,"windows":[{"w":"60m","ret_pct":1.353,"from":0.007088098,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":534952.38,"left_short":534952.38}],"group":{"gid":"g121","fund_usd":3051211.21},"method":"short_ladder_30d_lifo"}

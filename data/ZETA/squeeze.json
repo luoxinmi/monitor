@@ -1,1 +1,1 @@
-{"symbol":"ZETA","updated":1795594642,"price":0.02605,"windows":[{"w":"30m","ret_pct":0.077,"from":0.0260299569,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":907902.14,"left_short":907902.14}],"group":{"gid":"g117","fund_usd":3039941.06},"method":"short_ladder_30d_lifo"}
+{"symbol":"ZETA","updated":1795595003,"price":0.02605,"windows":[{"w":"30m","ret_pct":0.231,"from":0.0259899632,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":907902.14,"left_short":907902.14}],"group":{"gid":"g117","fund_usd":3039941.06},"method":"short_ladder_30d_lifo"}

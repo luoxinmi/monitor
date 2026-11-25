@@ -1,1 +1,1 @@
-{"symbol":"CKB","updated":1795594642,"price":0.000784,"windows":[{"w":"30m","ret_pct":1.633,"from":0.000771403,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":438682.58,"left_short":438682.58}],"group":{"gid":"g031","fund_usd":3057049.49},"method":"short_ladder_30d_lifo"}
+{"symbol":"CKB","updated":1795595003,"price":0.0007795,"windows":[{"w":"30m","ret_pct":1.181,"from":0.0007704016,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":438682.58,"left_short":438682.58}],"group":{"gid":"g031","fund_usd":3057049.49},"method":"short_ladder_30d_lifo"}
