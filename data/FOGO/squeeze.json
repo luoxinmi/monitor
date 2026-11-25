@@ -1,1 +1,1 @@
-{"symbol":"FOGO","updated":1795591043,"price":0.001455,"windows":[{"w":"60m","ret_pct":0.345,"from":0.0014499975,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":740237.49,"left_short":740237.49}],"group":{"gid":"g060","fund_usd":3079726.92},"method":"short_ladder_30d_lifo"}
+{"symbol":"FOGO","updated":1795594642,"price":0.00145,"windows":[{"w":"30m","ret_pct":0.904,"from":0.0014370094,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":740237.49,"left_short":740237.49}],"group":{"gid":"g060","fund_usd":3079726.92},"method":"short_ladder_30d_lifo"}

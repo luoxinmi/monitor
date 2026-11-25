@@ -1,1 +1,1 @@
-{"symbol":"SHELL","updated":1795591043,"price":0.02561,"windows":[{"w":"30m","ret_pct":0.195,"from":0.0255601577,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2206174.16,"left_short":2206174.16}],"group":{"gid":"g045","fund_usd":3040334.67},"method":"short_ladder_30d_lifo"}
+{"symbol":"SHELL","updated":1795594642,"price":0.02568,"windows":[{"w":"60m","ret_pct":0.195,"from":0.0256300215,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2206174.16,"left_short":2206174.16}],"group":{"gid":"g045","fund_usd":3040334.67},"method":"short_ladder_30d_lifo"}

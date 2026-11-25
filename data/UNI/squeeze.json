@@ -1,1 +1,1 @@
-{"symbol":"UNI","updated":1795587445,"price":4.61,"windows":[{"w":"60m","ret_pct":0.087,"from":4.6059927863,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":39568861.83,"left_short":39568861.83}],"group":{"gid":"g065","fund_usd":398823208.02},"method":"short_ladder_30d_lifo"}
+{"symbol":"UNI","updated":1795594642,"price":4.536,"windows":[{"w":"8m","ret_pct":0.088,"from":4.5320118296,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":39568861.83,"left_short":39568861.83}],"group":{"gid":"g065","fund_usd":398823208.02},"method":"short_ladder_30d_lifo"}
