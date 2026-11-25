@@ -1,1 +1,1 @@
-{"symbol":"BRETT","updated":1795612643,"price":0.002913,"windows":[{"w":"30m","ret_pct":0.103,"from":0.0029100027,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":322592.49,"left_short":322592.49}],"group":{"gid":"g078","fund_usd":3062122.31},"method":"short_ladder_30d_lifo"}
+{"symbol":"BRETT","updated":1795616251,"price":0.002861,"windows":[{"w":"8m","ret_pct":0.351,"from":0.002850993,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":322592.49,"left_short":322592.49}],"group":{"gid":"g078","fund_usd":3062122.31},"method":"short_ladder_30d_lifo"}

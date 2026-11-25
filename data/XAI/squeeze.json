@@ -1,1 +1,1 @@
-{"symbol":"XAI","updated":1795612643,"price":0.004946,"windows":[{"w":"8m","ret_pct":0.061,"from":0.0049429848,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":485315.07,"left_short":485315.07}],"group":{"gid":"g076","fund_usd":3098704.23},"method":"short_ladder_30d_lifo"}
+{"symbol":"XAI","updated":1795616251,"price":0.004898,"windows":[{"w":"8m","ret_pct":0.02,"from":0.0048970206,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":485315.07,"left_short":485315.07}],"group":{"gid":"g076","fund_usd":3098704.23},"method":"short_ladder_30d_lifo"}
