@@ -1,1 +1,1 @@
-{"symbol":"CELR","updated":1795567593,"price":0.001814,"windows":[{"w":"30m","ret_pct":0.443,"from":0.0018059994,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":415026.93,"left_short":415026.93}],"group":{"gid":"g037","fund_usd":3035751.8},"method":"short_ladder_30d_lifo"}
+{"symbol":"CELR","updated":1795569447,"price":0.001809,"windows":[{"w":"8m","ret_pct":0.277,"from":0.0018040029,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":415026.93,"left_short":415026.93}],"group":{"gid":"g037","fund_usd":3035751.8},"method":"short_ladder_30d_lifo"}

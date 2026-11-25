@@ -1,1 +1,1 @@
-{"symbol":"CTK","updated":1795567593,"price":0.068,"windows":[{"w":"30m","ret_pct":0.073,"from":0.0679503962,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":335220.32,"left_short":335220.32}],"group":{"gid":"g113","fund_usd":1067419.32},"method":"short_ladder_30d_lifo"}
+{"symbol":"CTK","updated":1795569447,"price":0.0679,"windows":[{"w":"8m","ret_pct":0.31,"from":0.0676901605,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":335220.32,"left_short":335220.32}],"group":{"gid":"g113","fund_usd":1067419.32},"method":"short_ladder_30d_lifo"}

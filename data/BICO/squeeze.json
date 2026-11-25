@@ -1,1 +1,1 @@
-{"symbol":"BICO","updated":1795565843,"price":0.00994,"windows":[{"w":"60m","ret_pct":0.101,"from":0.0099299707,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":754652.15,"left_short":754652.15}],"group":{"gid":"g037","fund_usd":3035751.8},"method":"short_ladder_30d_lifo"}
+{"symbol":"BICO","updated":1795569447,"price":0.0099,"windows":[{"w":"8m","ret_pct":0.202,"from":0.0098800423,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":754652.15,"left_short":754652.15}],"group":{"gid":"g037","fund_usd":3035751.8},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"POWR","updated":1795567593,"price":0.0376,"windows":[{"w":"8m","ret_pct":0.133,"from":0.0375500584,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":463454.52,"left_short":463454.52}],"group":{"gid":"g030","fund_usd":3028773.47},"method":"short_ladder_30d_lifo"}
+{"symbol":"POWR","updated":1795569447,"price":0.03731,"windows":[{"w":"8m","ret_pct":0.403,"from":0.0371602442,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":463454.52,"left_short":463454.52}],"group":{"gid":"g030","fund_usd":3028773.47},"method":"short_ladder_30d_lifo"}

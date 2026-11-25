@@ -1,1 +1,1 @@
-{"symbol":"XTZ","updated":1795567593,"price":0.2108,"windows":[{"w":"8m","ret_pct":0.095,"from":0.2105999301,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1140389.37,"left_short":1140389.37}],"group":{"gid":"g009","fund_usd":3058644.4},"method":"short_ladder_30d_lifo"}
+{"symbol":"XTZ","updated":1795569447,"price":0.2096,"windows":[{"w":"8m","ret_pct":0.095,"from":0.209401069,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1140389.37,"left_short":1140389.37}],"group":{"gid":"g009","fund_usd":3058644.4},"method":"short_ladder_30d_lifo"}

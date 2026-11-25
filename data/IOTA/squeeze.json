@@ -1,1 +1,1 @@
-{"symbol":"IOTA","updated":1795567593,"price":0.03026,"windows":[{"w":"8m","ret_pct":0.033,"from":0.0302500175,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":939407.86,"left_short":939407.86}],"group":{"gid":"g009","fund_usd":3058644.4},"method":"short_ladder_30d_lifo"}
+{"symbol":"IOTA","updated":1795569447,"price":0.03019,"windows":[{"w":"8m","ret_pct":0.199,"from":0.0301300412,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":939407.86,"left_short":939407.86}],"group":{"gid":"g009","fund_usd":3058644.4},"method":"short_ladder_30d_lifo"}

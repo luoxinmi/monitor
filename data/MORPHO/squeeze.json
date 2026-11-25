@@ -1,1 +1,1 @@
-{"symbol":"MORPHO","updated":1795567593,"price":1.5549,"windows":[{"w":"30m","ret_pct":0.116,"from":1.5530984058,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4049349.01,"left_short":4049349.01}],"group":{"gid":"g010","fund_usd":1950384.68},"method":"short_ladder_30d_lifo"}
+{"symbol":"MORPHO","updated":1795569447,"price":1.5529,"windows":[{"w":"8m","ret_pct":0.123,"from":1.5509922795,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4049349.01,"left_short":4049349.01}],"group":{"gid":"g010","fund_usd":1950384.68},"method":"short_ladder_30d_lifo"}
