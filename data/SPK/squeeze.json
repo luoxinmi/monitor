@@ -1,1 +1,1 @@
-{"symbol":"SPK","updated":1795645046,"price":0.01148,"windows":[{"w":"8m","ret_pct":0.087,"from":0.0114700211,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":894059.54,"left_short":894059.54}],"group":{"gid":"g010","fund_usd":1950384.68},"method":"short_ladder_30d_lifo"}
+{"symbol":"SPK","updated":1795648644,"price":0.01139,"windows":[{"w":"8m","ret_pct":0.264,"from":0.0113600096,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":894059.54,"left_short":894059.54}],"group":{"gid":"g010","fund_usd":1950384.68},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"JTO","updated":1795645046,"price":0.2298,"windows":[{"w":"8m","ret_pct":0.174,"from":0.2294008425,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2242159.69,"left_short":2242159.69}],"group":{"gid":"g011","fund_usd":3004738.67},"method":"short_ladder_30d_lifo"}
+{"symbol":"JTO","updated":1795648644,"price":0.2272,"windows":[{"w":"8m","ret_pct":0.22,"from":0.2267012572,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2242159.69,"left_short":2242159.69}],"group":{"gid":"g011","fund_usd":3004738.67},"method":"short_ladder_30d_lifo"}

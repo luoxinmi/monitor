@@ -1,1 +1,1 @@
-{"symbol":"BERA","updated":1795645046,"price":0.0803,"windows":[{"w":"8m","ret_pct":0.125,"from":0.0801997503,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1599935.21,"left_short":1599935.21}],"group":{"gid":"g029","fund_usd":3023187.15},"method":"short_ladder_30d_lifo"}
+{"symbol":"BERA","updated":1795648644,"price":0.0801,"windows":[{"w":"8m","ret_pct":0.125,"from":0.08,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1599935.21,"left_short":1599935.21}],"group":{"gid":"g029","fund_usd":3023187.15},"method":"short_ladder_30d_lifo"}

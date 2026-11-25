@@ -1,1 +1,1 @@
-{"symbol":"THETA","updated":1795645046,"price":0.1298,"windows":[{"w":"8m","ret_pct":0.154,"from":0.1296004154,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":893470.77,"left_short":893470.77}],"group":{"gid":"g062","fund_usd":3053834.09},"method":"short_ladder_30d_lifo"}
+{"symbol":"THETA","updated":1795648644,"price":0.1295,"windows":[{"w":"8m","ret_pct":0.077,"from":0.1294003617,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":893470.77,"left_short":893470.77}],"group":{"gid":"g062","fund_usd":3053834.09},"method":"short_ladder_30d_lifo"}
