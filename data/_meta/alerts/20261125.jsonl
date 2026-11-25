@@ -369,3 +369,7 @@
 {"ts":1795598365,"sym":"MMT","kind":"squeeze_60m","val":2.087,"msg":"60m 爆拉 +2.1% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795599808,"sym":"T","kind":"funding","val":-0.1038,"msg":"费率 -0.104%"}
 {"ts":1795600009,"sym":"SSV","kind":"funding","val":-0.1002,"msg":"费率 -0.100%"}
+{"ts":1795600283,"sym":"ARIA","kind":"price","val":-15.38,"msg":"24h -15.4%"}
+{"ts":1795600283,"sym":"MANTA","kind":"squeeze_8m","val":3.112,"msg":"8m 爆拉 +3.1% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795600283,"sym":"MANTA","kind":"squeeze_30m","val":2.716,"msg":"30m 爆拉 +2.7% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795600283,"sym":"MANTA","kind":"squeeze_60m","val":0.161,"msg":"60m 爆拉 +0.2% → 扫空头 $0.00M，损失 $0K"}
