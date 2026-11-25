@@ -21,3 +21,4 @@
 {"ts":1795565004,"sym":"SYRUP","kind":"price","val":-16.02,"msg":"24h -16.0%"}
 {"ts":1795565843,"sym":"BIGTIME","kind":"oi","val":12.5,"msg":"OI +12.5%（0.3M→0.3M）"}
 {"ts":1795566205,"sym":"CYBER","kind":"funding","val":-0.102,"msg":"费率 -0.102%"}
+{"ts":1795566452,"sym":"BIGTIME","kind":"funding","val":-0.1163,"msg":"费率 -0.116%"}
