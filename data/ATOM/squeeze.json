@@ -1,1 +1,1 @@
-{"symbol":"ATOM","updated":1795638205,"price":1.249,"windows":[{"w":"8m","ret_pct":0.08,"from":1.2480015987,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7858619.23,"left_short":7858619.23}],"group":{"gid":"g065","fund_usd":398823208.02},"method":"short_ladder_30d_lifo"}
+{"symbol":"ATOM","updated":1795641445,"price":1.245,"windows":[{"w":"30m","ret_pct":0.161,"from":1.242998772,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7858619.23,"left_short":7858619.23}],"group":{"gid":"g065","fund_usd":398823208.02},"method":"short_ladder_30d_lifo"}

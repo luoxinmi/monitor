@@ -1,1 +1,1 @@
-{"symbol":"KAS","updated":1795638205,"price":0.02673,"windows":[{"w":"8m","ret_pct":0.15,"from":0.0266899651,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":927187.14,"left_short":927187.14}],"group":{"gid":"g083","fund_usd":3044298.21},"method":"short_ladder_30d_lifo"}
+{"symbol":"KAS","updated":1795641445,"price":0.02663,"windows":[{"w":"30m","ret_pct":0.113,"from":0.0265999421,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":927187.14,"left_short":927187.14}],"group":{"gid":"g083","fund_usd":3044298.21},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"TRUMP","updated":1795638205,"price":0.863,"windows":[{"w":"60m","ret_pct":0.466,"from":0.8589970736,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":12631326.93,"left_short":12631326.93}],"group":{"gid":"g065","fund_usd":398823208.02},"method":"short_ladder_30d_lifo"}
+{"symbol":"TRUMP","updated":1795641445,"price":0.865,"windows":[{"w":"30m","ret_pct":0.116,"from":0.8639977626,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":12631326.93,"left_short":12631326.93}],"group":{"gid":"g065","fund_usd":398823208.02},"method":"short_ladder_30d_lifo"}
