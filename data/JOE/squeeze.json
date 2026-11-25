@@ -1,1 +1,1 @@
-{"symbol":"JOE","updated":1795594642,"price":0.01868,"windows":[{"w":"30m","ret_pct":0.43,"from":0.0186000199,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":518673.41,"left_short":518673.41}],"group":{"gid":"g037","fund_usd":3035751.8},"method":"short_ladder_30d_lifo"}
+{"symbol":"JOE","updated":1795601845,"price":0.01837,"windows":[{"w":"30m","ret_pct":0.109,"from":0.0183499985,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":518673.41,"left_short":518673.41}],"group":{"gid":"g037","fund_usd":3035751.8},"method":"short_ladder_30d_lifo"}

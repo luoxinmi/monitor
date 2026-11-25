@@ -1,1 +1,1 @@
-{"symbol":"SAPIEN","updated":1795598245,"price":0.03821,"windows":[{"w":"60m","ret_pct":0.184,"from":0.0381398227,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":675333.59,"left_short":675333.59}],"group":{"gid":"g058","fund_usd":3026609.26},"method":"short_ladder_30d_lifo"}
+{"symbol":"SAPIEN","updated":1795601845,"price":0.03772,"windows":[{"w":"8m","ret_pct":0.08,"from":0.0376898481,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":675333.59,"left_short":675333.59}],"group":{"gid":"g058","fund_usd":3026609.26},"method":"short_ladder_30d_lifo"}

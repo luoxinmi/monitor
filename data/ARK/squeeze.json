@@ -1,1 +1,1 @@
-{"symbol":"ARK","updated":1795591043,"price":0.1255,"windows":[{"w":"60m","ret_pct":0.561,"from":0.1247998727,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":771522.28,"left_short":771522.28}],"group":{"gid":"g044","fund_usd":3020074.56},"method":"short_ladder_30d_lifo"}
+{"symbol":"ARK","updated":1795601845,"price":0.1235,"windows":[{"w":"8m","ret_pct":0.162,"from":0.1233002536,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":771522.28,"left_short":771522.28}],"group":{"gid":"g044","fund_usd":3020074.56},"method":"short_ladder_30d_lifo"}

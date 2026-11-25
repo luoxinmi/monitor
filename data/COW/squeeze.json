@@ -1,1 +1,1 @@
-{"symbol":"COW","updated":1795598245,"price":0.0943,"windows":[{"w":"60m","ret_pct":0.533,"from":0.0938000458,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":713890.86,"left_short":713890.86}],"group":{"gid":"g015","fund_usd":3054496.08},"method":"short_ladder_30d_lifo"}
+{"symbol":"COW","updated":1795601845,"price":0.0933,"windows":[{"w":"30m","ret_pct":0.323,"from":0.0929996113,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":713890.86,"left_short":713890.86}],"group":{"gid":"g015","fund_usd":3054496.08},"method":"short_ladder_30d_lifo"}
