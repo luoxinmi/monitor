@@ -1,1 +1,1 @@
-{"symbol":"CGPT","updated":1795619844,"price":0.01206,"windows":[{"w":"30m","ret_pct":0.083,"from":0.0120499985,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":452157.48,"left_short":452157.48}],"group":{"gid":"g030","fund_usd":3028773.47},"method":"short_ladder_30d_lifo"}
+{"symbol":"CGPT","updated":1795623447,"price":0.01197,"windows":[{"w":"30m","ret_pct":0.589,"from":0.0118999095,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":452157.48,"left_short":452157.48}],"group":{"gid":"g030","fund_usd":3028773.47},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"TRX","updated":1795616251,"price":0.30587,"windows":[{"w":"8m","ret_pct":0.049,"from":0.3057201971,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":32756082.08,"left_short":32756082.08}],"group":{"gid":"g077","fund_usd":52659446.46},"method":"short_ladder_30d_lifo"}
+{"symbol":"TRX","updated":1795623447,"price":0.30299,"windows":[{"w":"60m","ret_pct":0.112,"from":0.3026510308,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":32756082.08,"left_short":32756082.08}],"group":{"gid":"g077","fund_usd":52659446.46},"method":"short_ladder_30d_lifo"}

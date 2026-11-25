@@ -1,1 +1,1 @@
-{"symbol":"MANTA","updated":1795609403,"price":0.03576,"windows":[{"w":"30m","ret_pct":0.704,"from":0.0355100095,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1580617.51,"left_short":1580617.51}],"group":{"gid":"g076","fund_usd":3098704.23},"method":"short_ladder_30d_lifo"}
+{"symbol":"MANTA","updated":1795623447,"price":0.0341,"windows":[{"w":"60m","ret_pct":0.917,"from":0.0337901444,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1580617.51,"left_short":1580617.51}],"group":{"gid":"g076","fund_usd":3098704.23},"method":"short_ladder_30d_lifo"}
