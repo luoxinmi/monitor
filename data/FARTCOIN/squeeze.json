@@ -1,1 +1,1 @@
-{"symbol":"FARTCOIN","updated":1795601845,"price":0.0779,"windows":[{"w":"8m","ret_pct":0.128,"from":0.0778004155,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4659303.58,"left_short":4659303.58}],"group":{"gid":"g028","fund_usd":3103548.99},"method":"short_ladder_30d_lifo"}
+{"symbol":"FARTCOIN","updated":1795609046,"price":0.0771,"windows":[{"w":"8m","ret_pct":0.39,"from":0.0768004781,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4659303.58,"left_short":4659303.58}],"group":{"gid":"g028","fund_usd":3103548.99},"method":"short_ladder_30d_lifo"}
