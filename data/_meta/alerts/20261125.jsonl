@@ -356,3 +356,4 @@
 {"ts":1795591645,"sym":"MANTRA","kind":"price","val":18.21,"msg":"24h +18.2%"}
 {"ts":1795592137,"sym":"ANIME","kind":"funding","val":-0.1047,"msg":"费率 -0.105%"}
 {"ts":1795592171,"sym":"GUA","kind":"squeeze_60m","val":3.719,"msg":"60m 爆拉 +3.7% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795594290,"sym":"MANTRA","kind":"funding","val":-0.1206,"msg":"费率 -0.121%"}
