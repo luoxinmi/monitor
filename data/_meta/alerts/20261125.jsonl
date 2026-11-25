@@ -42,3 +42,4 @@
 {"ts":1795570539,"sym":"DOS","kind":"squeeze_30m","val":2.634,"msg":"30m 爆拉 +2.6% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795570539,"sym":"DOS","kind":"squeeze_60m","val":1.707,"msg":"60m 爆拉 +1.7% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795570571,"sym":"BULLA","kind":"price","val":15.78,"msg":"24h +15.8%"}
+{"ts":1795571004,"sym":"PROM","kind":"price","val":-15.43,"msg":"24h -15.4%"}
