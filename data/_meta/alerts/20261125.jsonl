@@ -22,3 +22,6 @@
 {"ts":1795565843,"sym":"BIGTIME","kind":"oi","val":12.5,"msg":"OI +12.5%（0.3M→0.3M）"}
 {"ts":1795566205,"sym":"CYBER","kind":"funding","val":-0.102,"msg":"费率 -0.102%"}
 {"ts":1795566452,"sym":"BIGTIME","kind":"funding","val":-0.1163,"msg":"费率 -0.116%"}
+{"ts":1795566938,"sym":"BIGTIME","kind":"squeeze_8m","val":4.27,"msg":"8m 爆拉 +4.3% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795566938,"sym":"BIGTIME","kind":"squeeze_30m","val":5.043,"msg":"30m 爆拉 +5.0% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795566938,"sym":"BIGTIME","kind":"squeeze_60m","val":7.8,"msg":"60m 爆拉 +7.8% → 扫空头 $0.00M，损失 $0K"}
