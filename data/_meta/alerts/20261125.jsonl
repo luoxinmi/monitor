@@ -389,3 +389,6 @@
 {"ts":1795607963,"sym":"BABY","kind":"oi","val":18.8,"msg":"OI +18.8%（0.8M→0.9M）"}
 {"ts":1795607963,"sym":"SSV","kind":"oi","val":45.7,"msg":"OI +45.7%（0.4M→0.6M）"}
 {"ts":1795609649,"sym":"LAYER","kind":"oi","val":14.1,"msg":"OI +14.1%（0.5M→0.6M）"}
+{"ts":1795610137,"sym":"LAYER","kind":"squeeze_8m","val":2.391,"msg":"8m 爆拉 +2.4% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795610137,"sym":"LAYER","kind":"squeeze_30m","val":6.333,"msg":"30m 爆拉 +6.3% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795610137,"sym":"LAYER","kind":"squeeze_60m","val":6.893,"msg":"60m 爆拉 +6.9% → 扫空头 $0.00M，损失 $0K"}
