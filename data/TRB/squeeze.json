@@ -1,1 +1,1 @@
-{"symbol":"TRB","updated":1795580603,"price":12.505,"windows":[{"w":"30m","ret_pct":0.088,"from":12.4940052754,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1557369.92,"left_short":1557369.92}],"group":{"gid":"g106","fund_usd":3054846.57},"method":"short_ladder_30d_lifo"}
+{"symbol":"TRB","updated":1795583844,"price":12.496,"windows":[{"w":"30m","ret_pct":0.442,"from":12.4410107326,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1557369.92,"left_short":1557369.92}],"group":{"gid":"g106","fund_usd":3054846.57},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"DOGE","updated":1795580603,"price":0.0546,"windows":[{"w":"30m","ret_pct":0.11,"from":0.054540006,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":63815956.3,"left_short":63815956.3}],"group":{"gid":"g065","fund_usd":398823208.02},"method":"short_ladder_30d_lifo"}
+{"symbol":"DOGE","updated":1795583844,"price":0.05464,"windows":[{"w":"30m","ret_pct":0.257,"from":0.0544999352,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":63815956.3,"left_short":63815956.3}],"group":{"gid":"g065","fund_usd":398823208.02},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"AVAAI","updated":1795577773,"price":0.007586,"windows":[{"w":"8m","ret_pct":1.09,"from":0.0075042042,"N":5337.08,"L":0.0,"uN":0.0017,"uL":0.0,"total_short_ladder":1785176.84,"left_short":1779839.75}],"group":{"gid":"g035","fund_usd":3054206.36},"method":"short_ladder_30d_lifo"}
+{"symbol":"AVAAI","updated":1795583844,"price":0.007399,"windows":[{"w":"30m","ret_pct":0.162,"from":0.007387033,"N":14201.31,"L":0.0,"uN":0.0046,"uL":0.0,"total_short_ladder":1785176.84,"left_short":1770975.53}],"group":{"gid":"g035","fund_usd":3054206.36},"method":"short_ladder_30d_lifo"}

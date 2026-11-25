@@ -325,3 +325,8 @@
 {"ts":1795581337,"sym":"0G","kind":"price","val":-15.17,"msg":"24h -15.2%"}
 {"ts":1795581337,"sym":"SKYAI","kind":"price","val":15.27,"msg":"24h +15.3%"}
 {"ts":1795581803,"sym":"SLX","kind":"funding","val":-0.1441,"msg":"费率 -0.144%"}
+{"ts":1795583844,"sym":"EVAA","kind":"oi","val":-10.3,"msg":"OI -10.3%（7.9M→7.1M）"}
+{"ts":1795583844,"sym":"MOODENG","kind":"oi","val":20.6,"msg":"OI +20.6%（0.7M→0.8M）"}
+{"ts":1795583844,"sym":"MANTRA","kind":"squeeze_30m","val":6.26,"msg":"30m 爆拉 +6.3% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795583844,"sym":"MOODENG","kind":"squeeze_30m","val":6.41,"msg":"30m 爆拉 +6.4% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795583844,"sym":"WAXP","kind":"squeeze_30m","val":6.727,"msg":"30m 爆拉 +6.7% → 扫空头 $0.01M，损失 $0K"}
