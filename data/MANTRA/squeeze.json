@@ -1,1 +1,1 @@
-{"symbol":"MANTRA","updated":1795562244,"price":0.001657,"windows":[{"w":"8m","ret_pct":0.121,"from":0.0016549975,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":564961.24,"left_short":564961.24}],"group":{"gid":"g060","fund_usd":3078769.31},"method":"short_ladder_30d_lifo"}
+{"symbol":"MANTRA","updated":1795565843,"price":0.001645,"windows":[{"w":"8m","ret_pct":0.183,"from":0.0016419951,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":623388.82,"left_short":623388.82}],"group":{"gid":"g060","fund_usd":3079726.92},"method":"short_ladder_30d_lifo"}
