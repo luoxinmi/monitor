@@ -1,1 +1,1 @@
-{"symbol":"XAN","updated":1795693796,"price":0.007569,"windows":[{"w":"60m","ret_pct":0.411,"from":0.0075380187,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":815149.26,"left_short":815149.26}],"group":{"gid":"g118","fund_usd":3093741.07},"method":"short_ladder_30d_lifo"}
+{"symbol":"XAN","updated":1795713604,"price":0.007559,"windows":[{"w":"8m","ret_pct":0.026,"from":0.0075570352,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":815149.26,"left_short":815149.26}],"group":{"gid":"g118","fund_usd":3093741.07},"method":"short_ladder_30d_lifo"}
