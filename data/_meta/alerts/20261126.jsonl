@@ -122,3 +122,4 @@
 {"ts":1795667746,"sym":"BIRB","kind":"squeeze_8m","val":0.506,"msg":"8m 爆拉 +0.5% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795669168,"sym":"BIRB","kind":"oi","val":-10.1,"msg":"OI -10.1%（0.7M→0.6M）"}
 {"ts":1795672285,"sym":"ANIME","kind":"funding","val":-0.1122,"msg":"费率 -0.112%"}
+{"ts":1795672770,"sym":"PUNDIX","kind":"oi","val":23.0,"msg":"OI +23.0%（0.1M→0.1M）"}
