@@ -1,1 +1,1 @@
-{"symbol":"CHIP","updated":1795717189,"price":0.02669,"windows":[{"w":"30m","ret_pct":0.113,"from":0.0266598743,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2196903.76,"left_short":2196903.76}],"group":{"gid":"g034","fund_usd":3045997.52},"method":"short_ladder_30d_lifo"}
+{"symbol":"CHIP","updated":1795720695,"price":0.02674,"windows":[{"w":"60m","ret_pct":0.15,"from":0.0266999501,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2196903.76,"left_short":2196903.76}],"group":{"gid":"g034","fund_usd":3045997.52},"method":"short_ladder_30d_lifo"}
