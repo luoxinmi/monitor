@@ -1,1 +1,1 @@
-{"symbol":"TAIKO","updated":1795661539,"price":0.06337,"windows":[{"w":"60m","ret_pct":0.892,"from":0.0628097371,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":506617.74,"left_short":506617.74}],"group":{"gid":"g038","fund_usd":2229379.79},"method":"short_ladder_30d_lifo"}
+{"symbol":"TAIKO","updated":1795667007,"price":0.06273,"windows":[{"w":"8m","ret_pct":0.128,"from":0.0626498082,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":506617.74,"left_short":506617.74}],"group":{"gid":"g038","fund_usd":2229379.79},"method":"short_ladder_30d_lifo"}

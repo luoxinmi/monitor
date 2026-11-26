@@ -112,3 +112,7 @@
 {"ts":1795666644,"sym":"PHAROS","kind":"squeeze_8m","val":3.781,"msg":"8m 爆拉 +3.8% → 扫空头 $0.69M，损失 $6K（组基金 0.2%）"}
 {"ts":1795666763,"sym":"PHAROS","kind":"squeeze_30m","val":4.849,"msg":"30m 爆拉 +4.8% → 扫空头 $0.70M，损失 $10K（组基金 0.3%）"}
 {"ts":1795666763,"sym":"PHAROS","kind":"squeeze_60m","val":4.253,"msg":"60m 爆拉 +4.3% → 扫空头 $0.70M，损失 $10K（组基金 0.3%）"}
+{"ts":1795667007,"sym":"BIRB","kind":"price","val":15.07,"msg":"24h +15.1%"}
+{"ts":1795667007,"sym":"PHAROS","kind":"price","val":15.94,"msg":"24h +15.9%"}
+{"ts":1795667007,"sym":"SQD","kind":"price","val":15.08,"msg":"24h +15.1%"}
+{"ts":1795667007,"sym":"BIRB","kind":"squeeze_60m","val":11.61,"msg":"60m 爆拉 +11.6% → 扫空头 $0.00M，损失 $0K"}
