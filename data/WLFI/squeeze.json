@@ -1,1 +1,1 @@
-{"symbol":"WLFI","updated":1795663045,"price":0.04258,"windows":[{"w":"8m","ret_pct":0.023,"from":0.0425702089,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":83875754.09,"left_short":83875754.09}],"group":{"gid":"g065","fund_usd":400164475.8},"method":"short_ladder_30d_lifo"}
+{"symbol":"WLFI","updated":1795666644,"price":0.04254,"windows":[{"w":"8m","ret_pct":0.094,"from":0.04250005,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":83875754.09,"left_short":83875754.09}],"group":{"gid":"g065","fund_usd":400164475.8},"method":"short_ladder_30d_lifo"}

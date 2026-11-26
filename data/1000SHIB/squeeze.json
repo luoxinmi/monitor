@@ -1,1 +1,1 @@
-{"symbol":"1000SHIB","updated":1795663045,"price":0.00365,"windows":[{"w":"60m","ret_pct":0.082,"from":0.0036470095,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7536221.47,"left_short":7536221.47}],"group":{"gid":"g065","fund_usd":400164475.8},"method":"short_ladder_30d_lifo"}
+{"symbol":"1000SHIB","updated":1795666644,"price":0.003658,"windows":[{"w":"60m","ret_pct":0.302,"from":0.0036469861,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7536221.47,"left_short":7536221.47}],"group":{"gid":"g065","fund_usd":400164475.8},"method":"short_ladder_30d_lifo"}

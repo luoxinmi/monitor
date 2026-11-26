@@ -1,1 +1,1 @@
-{"symbol":"LUNA2","updated":1795661539,"price":0.03231,"windows":[{"w":"60m","ret_pct":0.31,"from":0.0322101485,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":578231.59,"left_short":578231.59}],"group":{"gid":"g073","fund_usd":3103151.3},"method":"short_ladder_30d_lifo"}
+{"symbol":"LUNA2","updated":1795666644,"price":0.03221,"windows":[{"w":"8m","ret_pct":0.124,"from":0.0321701091,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":578231.59,"left_short":578231.59}],"group":{"gid":"g073","fund_usd":3103151.3},"method":"short_ladder_30d_lifo"}
