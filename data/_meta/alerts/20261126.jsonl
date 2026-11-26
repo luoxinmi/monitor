@@ -137,3 +137,6 @@
 {"ts":1795675885,"sym":"ARIA","kind":"price","val":15.7,"msg":"24h +15.7%"}
 {"ts":1795677650,"sym":"BLESS","kind":"price","val":16.21,"msg":"24h +16.2%"}
 {"ts":1795677650,"sym":"BULLA","kind":"oi","val":13.0,"msg":"OI +13.0%（0.6M→0.7M）"}
+{"ts":1795679477,"sym":"B","kind":"price","val":16.18,"msg":"24h +16.2%"}
+{"ts":1795679477,"sym":"HIVE","kind":"oi","val":10.5,"msg":"OI +10.5%（0.2M→0.2M）"}
+{"ts":1795679477,"sym":"RIF","kind":"oi","val":13.2,"msg":"OI +13.2%（0.1M→0.1M）"}
