@@ -1,0 +1,32 @@
+{"ts":1795651406,"sym":"ACE","kind":"funding","val":-0.1022,"msg":"费率 -0.102%"}
+{"ts":1795651406,"sym":"AKE","kind":"price","val":-18.68,"msg":"24h -18.7%"}
+{"ts":1795651406,"sym":"ANKR","kind":"oi","val":16.7,"msg":"OI +16.7%（0.3M→0.4M）"}
+{"ts":1795651406,"sym":"AT","kind":"price","val":20.42,"msg":"24h +20.4%"}
+{"ts":1795651406,"sym":"AVAAI","kind":"price","val":-20.65,"msg":"24h -20.6%"}
+{"ts":1795651406,"sym":"BIGTIME","kind":"price","val":59.59,"msg":"24h +59.6%"}
+{"ts":1795651406,"sym":"BIGTIME","kind":"funding","val":-0.2349,"msg":"费率 -0.235%"}
+{"ts":1795651406,"sym":"BLUR","kind":"price","val":27.25,"msg":"24h +27.2%"}
+{"ts":1795651406,"sym":"BULLA","kind":"price","val":44.19,"msg":"24h +44.2%"}
+{"ts":1795651406,"sym":"BULLA","kind":"funding","val":0.2348,"msg":"费率 +0.235%"}
+{"ts":1795651406,"sym":"CFG","kind":"price","val":15.16,"msg":"24h +15.2%"}
+{"ts":1795651406,"sym":"CFG","kind":"funding","val":-0.1003,"msg":"费率 -0.100%"}
+{"ts":1795651406,"sym":"DOS","kind":"price","val":-18.94,"msg":"24h -18.9%"}
+{"ts":1795651406,"sym":"DOS","kind":"funding","val":-0.1073,"msg":"费率 -0.107%"}
+{"ts":1795651406,"sym":"EVAA","kind":"price","val":33.75,"msg":"24h +33.8%"}
+{"ts":1795651406,"sym":"MANTRA","kind":"price","val":95.47,"msg":"24h +95.5%"}
+{"ts":1795651406,"sym":"MMT","kind":"price","val":44.6,"msg":"24h +44.6%"}
+{"ts":1795651406,"sym":"MON","kind":"price","val":17.2,"msg":"24h +17.2%"}
+{"ts":1795651406,"sym":"MOODENG","kind":"price","val":15.31,"msg":"24h +15.3%"}
+{"ts":1795651406,"sym":"MOVE","kind":"oi","val":14.3,"msg":"OI +14.3%（0.4M→0.4M）"}
+{"ts":1795651406,"sym":"PIEVERSE","kind":"price","val":15.51,"msg":"24h +15.5%"}
+{"ts":1795651406,"sym":"PROM","kind":"price","val":16.23,"msg":"24h +16.2%"}
+{"ts":1795651406,"sym":"SLX","kind":"price","val":18.58,"msg":"24h +18.6%"}
+{"ts":1795651406,"sym":"SLX","kind":"funding","val":-0.2035,"msg":"费率 -0.203%"}
+{"ts":1795651406,"sym":"SSV","kind":"price","val":53.22,"msg":"24h +53.2%"}
+{"ts":1795651406,"sym":"SSV","kind":"funding","val":-0.1149,"msg":"费率 -0.115%"}
+{"ts":1795651406,"sym":"VVV","kind":"price","val":18.65,"msg":"24h +18.6%"}
+{"ts":1795651406,"sym":"WAXP","kind":"funding","val":-0.1976,"msg":"费率 -0.198%"}
+{"ts":1795651406,"sym":"牛来","kind":"oi","val":13.8,"msg":"OI +13.8%（0.9M→1.1M）"}
+{"ts":1795651406,"sym":"MOVE","kind":"squeeze_8m","val":4.266,"msg":"8m 爆拉 +4.3% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795651406,"sym":"MOVE","kind":"squeeze_30m","val":4.58,"msg":"30m 爆拉 +4.6% → 扫空头 $0.01M，损失 $0K（组基金 0.0%）"}
+{"ts":1795651406,"sym":"MOVE","kind":"squeeze_60m","val":4.622,"msg":"60m 爆拉 +4.6% → 扫空头 $0.01M，损失 $0K（组基金 0.0%）"}
