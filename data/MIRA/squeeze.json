@@ -1,1 +1,1 @@
-{"symbol":"MIRA","updated":1795673843,"price":0.03149,"windows":[{"w":"60m","ret_pct":0.319,"from":0.0313898663,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":601933.81,"left_short":601933.81}],"group":{"gid":"g006","fund_usd":3013633.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"MIRA","updated":1795682659,"price":0.03137,"windows":[{"w":"60m","ret_pct":0.128,"from":0.0313298977,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":601933.81,"left_short":601933.81}],"group":{"gid":"g006","fund_usd":3013633.39},"method":"short_ladder_30d_lifo"}

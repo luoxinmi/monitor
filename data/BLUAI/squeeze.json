@@ -1,1 +1,1 @@
-{"symbol":"BLUAI","updated":1795670244,"price":0.005643,"windows":[{"w":"8m","ret_pct":0.035,"from":0.0056410256,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1813665.53,"left_short":1813665.53}],"group":{"gid":"g007","fund_usd":3064370.93},"method":"short_ladder_30d_lifo"}
+{"symbol":"BLUAI","updated":1795682659,"price":0.005602,"windows":[{"w":"8m","ret_pct":0.018,"from":0.0056009918,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1813665.53,"left_short":1813665.53}],"group":{"gid":"g007","fund_usd":3064370.93},"method":"short_ladder_30d_lifo"}

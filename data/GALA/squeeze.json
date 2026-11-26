@@ -1,1 +1,1 @@
-{"symbol":"GALA","updated":1795670244,"price":0.0013,"windows":[{"w":"8m","ret_pct":0.231,"from":0.0012970039,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1626697.8,"left_short":1626697.8}],"group":{"gid":"g002","fund_usd":3070410.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"GALA","updated":1795682659,"price":0.001305,"windows":[{"w":"60m","ret_pct":0.153,"from":0.0013030064,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1626697.8,"left_short":1626697.8}],"group":{"gid":"g002","fund_usd":3070410.39},"method":"short_ladder_30d_lifo"}
