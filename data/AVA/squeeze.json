@@ -1,1 +1,1 @@
-{"symbol":"AVA","updated":1795684645,"price":0.1987,"windows":[{"w":"8m","ret_pct":0.252,"from":0.1982005347,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":589248.82,"left_short":589248.82}],"group":{"gid":"g104","fund_usd":2065212.48},"method":"short_ladder_30d_lifo"}
+{"symbol":"AVA","updated":1795688246,"price":0.1986,"windows":[{"w":"8m","ret_pct":0.151,"from":0.1983005661,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":589248.82,"left_short":589248.82}],"group":{"gid":"g104","fund_usd":2065212.48},"method":"short_ladder_30d_lifo"}

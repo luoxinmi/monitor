@@ -1,1 +1,1 @@
-{"symbol":"LSK","updated":1795684645,"price":0.14608,"windows":[{"w":"8m","ret_pct":0.082,"from":0.1459603125,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2198147.54,"left_short":2198147.54}],"group":{"gid":"g048","fund_usd":3089488.47},"method":"short_ladder_30d_lifo"}
+{"symbol":"LSK","updated":1795688246,"price":0.14606,"windows":[{"w":"8m","ret_pct":0.007,"from":0.1460497765,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2198147.54,"left_short":2198147.54}],"group":{"gid":"g048","fund_usd":3089488.47},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"ARKM","updated":1795684645,"price":0.0713,"windows":[{"w":"8m","ret_pct":0.14,"from":0.0712003196,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":982631.32,"left_short":982631.32}],"group":{"gid":"g018","fund_usd":3029268.34},"method":"short_ladder_30d_lifo"}
+{"symbol":"ARKM","updated":1795688246,"price":0.0711,"windows":[{"w":"8m","ret_pct":0.282,"from":0.0709000618,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":982631.32,"left_short":982631.32}],"group":{"gid":"g018","fund_usd":3029268.34},"method":"short_ladder_30d_lifo"}

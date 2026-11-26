@@ -1,1 +1,1 @@
-{"symbol":"ICNT","updated":1795673843,"price":0.2839,"windows":[{"w":"30m","ret_pct":0.46,"from":0.2826000398,"N":2127.24,"L":0.0,"uN":0.0007,"uL":0.0,"total_short_ladder":2707222.21,"left_short":2705094.97}],"group":{"gid":"g049","fund_usd":3029939.53},"method":"short_ladder_30d_lifo"}
+{"symbol":"ICNT","updated":1795688246,"price":0.2756,"windows":[{"w":"8m","ret_pct":0.474,"from":0.2742998189,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2707222.21,"left_short":2707222.21}],"group":{"gid":"g049","fund_usd":3029939.53},"method":"short_ladder_30d_lifo"}
