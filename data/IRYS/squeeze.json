@@ -1,1 +1,1 @@
-{"symbol":"IRYS","updated":1795652604,"price":0.01625,"windows":[{"w":"30m","ret_pct":0.062,"from":0.0162399312,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1865467.82,"left_short":1865467.82}],"group":{"gid":"g071","fund_usd":2074760.13},"method":"short_ladder_30d_lifo"}
+{"symbol":"IRYS","updated":1795653124,"price":0.01612,"windows":[{"w":"30m","ret_pct":0.248,"from":0.0160801213,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1865467.82,"left_short":1865467.82}],"group":{"gid":"g071","fund_usd":2074760.13},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"LYN","updated":1795652244,"price":0.0174,"windows":[{"w":"8m","ret_pct":0.346,"from":0.0173400036,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3925348.78,"left_short":3925348.78}],"group":{"gid":"g074","fund_usd":1058593.26},"method":"short_ladder_30d_lifo"}
+{"symbol":"LYN","updated":1795653124,"price":0.01731,"windows":[{"w":"8m","ret_pct":0.116,"from":0.0172899437,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3925348.78,"left_short":3925348.78}],"group":{"gid":"g074","fund_usd":1058593.26},"method":"short_ladder_30d_lifo"}
