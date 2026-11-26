@@ -63,3 +63,8 @@
 {"ts":1795654283,"sym":"LAYER","kind":"price","val":15.82,"msg":"24h +15.8%"}
 {"ts":1795654764,"sym":"AIGENSYN","kind":"oi","val":10.7,"msg":"OI +10.7%（0.2M→0.2M）"}
 {"ts":1795655004,"sym":"T","kind":"funding","val":-0.1004,"msg":"费率 -0.100%"}
+{"ts":1795655142,"sym":"MANTRA","kind":"oi","val":13.2,"msg":"OI +13.2%（1.5M→1.7M）"}
+{"ts":1795655142,"sym":"STO","kind":"price","val":15.68,"msg":"24h +15.7%"}
+{"ts":1795655142,"sym":"MANTRA","kind":"squeeze_8m","val":5.351,"msg":"8m 爆拉 +5.4% → 扫空头 $0.01M，损失 $0K（组基金 0.0%）"}
+{"ts":1795655142,"sym":"MANTRA","kind":"squeeze_30m","val":6.608,"msg":"30m 爆拉 +6.6% → 扫空头 $0.01M，损失 $0K（组基金 0.0%）"}
+{"ts":1795655142,"sym":"MANTRA","kind":"squeeze_60m","val":5.734,"msg":"60m 爆拉 +5.7% → 扫空头 $0.01M，损失 $0K（组基金 0.0%）"}
