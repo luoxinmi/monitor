@@ -79,3 +79,4 @@
 {"ts":1795656443,"sym":"SLX","kind":"squeeze_60m","val":8.272,"msg":"60m 爆拉 +8.3% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795657403,"sym":"SYRUP","kind":"oi","val":11.2,"msg":"OI +11.2%（1.8M→1.9M）"}
 {"ts":1795657883,"sym":"CYBER","kind":"funding","val":-0.1023,"msg":"费率 -0.102%"}
+{"ts":1795658365,"sym":"STBL","kind":"oi","val":25.1,"msg":"OI +25.1%（1.4M→1.8M）"}
