@@ -81,3 +81,4 @@
 {"ts":1795657883,"sym":"CYBER","kind":"funding","val":-0.1023,"msg":"费率 -0.102%"}
 {"ts":1795658365,"sym":"STBL","kind":"oi","val":25.1,"msg":"OI +25.1%（1.4M→1.8M）"}
 {"ts":1795659092,"sym":"GUA","kind":"price","val":15.63,"msg":"24h +15.6%"}
+{"ts":1795661486,"sym":"CVC","kind":"oi","val":25.6,"msg":"OI +25.6%（0.1M→0.1M）"}
