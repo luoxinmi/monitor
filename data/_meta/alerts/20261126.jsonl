@@ -124,3 +124,6 @@
 {"ts":1795672285,"sym":"ANIME","kind":"funding","val":-0.1122,"msg":"费率 -0.112%"}
 {"ts":1795672770,"sym":"PUNDIX","kind":"oi","val":23.0,"msg":"OI +23.0%（0.1M→0.1M）"}
 {"ts":1795673013,"sym":"OPG","kind":"price","val":-15.94,"msg":"24h -15.9%"}
+{"ts":1795673138,"sym":"BULLA","kind":"squeeze_8m","val":3.63,"msg":"8m 爆拉 +3.6% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795673138,"sym":"BULLA","kind":"squeeze_30m","val":2.725,"msg":"30m 爆拉 +2.7% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795673138,"sym":"BULLA","kind":"squeeze_60m","val":0.362,"msg":"60m 爆拉 +0.4% → 扫空头 $0.00M，损失 $0K"}
