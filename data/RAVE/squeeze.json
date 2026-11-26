@@ -1,1 +1,1 @@
-{"symbol":"RAVE","updated":1795653124,"price":0.1167,"windows":[{"w":"60m","ret_pct":0.431,"from":0.1161991815,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1668932.75,"left_short":1668932.75}],"group":{"gid":"g019","fund_usd":1914013.44},"method":"short_ladder_30d_lifo"}
+{"symbol":"RAVE","updated":1795655843,"price":0.116,"windows":[{"w":"8m","ret_pct":0.086,"from":0.1159003257,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1668932.75,"left_short":1668932.75}],"group":{"gid":"g019","fund_usd":1914013.44},"method":"short_ladder_30d_lifo"}
