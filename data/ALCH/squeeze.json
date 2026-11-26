@@ -1,1 +1,1 @@
-{"symbol":"ALCH","updated":1795661539,"price":0.02995,"windows":[{"w":"60m","ret_pct":0.571,"from":0.0297799564,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1504911.68,"left_short":1504911.68}],"group":{"gid":"g058","fund_usd":3027657.99},"method":"short_ladder_30d_lifo"}
+{"symbol":"ALCH","updated":1795663045,"price":0.02986,"windows":[{"w":"8m","ret_pct":0.067,"from":0.0298400072,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1504911.68,"left_short":1504911.68}],"group":{"gid":"g058","fund_usd":3027657.99},"method":"short_ladder_30d_lifo"}

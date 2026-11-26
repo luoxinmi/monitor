@@ -1,1 +1,1 @@
-{"symbol":"ADA","updated":1795661539,"price":0.1484,"windows":[{"w":"60m","ret_pct":0.678,"from":0.1474006238,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":28412904.88,"left_short":28412904.88}],"group":{"gid":"g077","fund_usd":52693499.31},"method":"short_ladder_30d_lifo"}
+{"symbol":"ADA","updated":1795663045,"price":0.1482,"windows":[{"w":"8m","ret_pct":0.135,"from":0.1480001997,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":28412904.88,"left_short":28412904.88}],"group":{"gid":"g077","fund_usd":52693499.31},"method":"short_ladder_30d_lifo"}

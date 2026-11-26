@@ -1,1 +1,1 @@
-{"symbol":"SOL","updated":1795661539,"price":71.27,"windows":[{"w":"60m","ret_pct":0.423,"from":70.9697977555,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":272034416.53,"left_short":272034416.53}],"group":{"gid":"g065","fund_usd":400164475.8},"method":"short_ladder_30d_lifo"}
+{"symbol":"SOL","updated":1795663045,"price":71.21,"windows":[{"w":"8m","ret_pct":0.084,"from":71.1502338036,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":272034416.53,"left_short":272034416.53}],"group":{"gid":"g065","fund_usd":400164475.8},"method":"short_ladder_30d_lifo"}

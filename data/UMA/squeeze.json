@@ -1,1 +1,1 @@
-{"symbol":"UMA","updated":1795661539,"price":0.2416,"windows":[{"w":"60m","ret_pct":0.625,"from":0.2400993789,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":407188.18,"left_short":407188.18}],"group":{"gid":"g113","fund_usd":1067917.3},"method":"short_ladder_30d_lifo"}
+{"symbol":"UMA","updated":1795663045,"price":0.2409,"windows":[{"w":"8m","ret_pct":0.208,"from":0.2403999681,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":407188.18,"left_short":407188.18}],"group":{"gid":"g113","fund_usd":1067917.3},"method":"short_ladder_30d_lifo"}

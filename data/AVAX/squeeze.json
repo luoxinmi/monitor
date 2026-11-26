@@ -1,1 +1,1 @@
-{"symbol":"AVAX","updated":1795661539,"price":6.686,"windows":[{"w":"60m","ret_pct":0.225,"from":6.6709902719,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":25425612.98,"left_short":25425612.98}],"group":{"gid":"g065","fund_usd":400164475.8},"method":"short_ladder_30d_lifo"}
+{"symbol":"AVAX","updated":1795663045,"price":6.677,"windows":[{"w":"8m","ret_pct":0.135,"from":6.6679982024,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":25425612.98,"left_short":25425612.98}],"group":{"gid":"g065","fund_usd":400164475.8},"method":"short_ladder_30d_lifo"}
