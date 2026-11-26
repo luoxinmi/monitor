@@ -1,1 +1,1 @@
-{"symbol":"KITE","updated":1795682659,"price":0.14355,"windows":[{"w":"8m","ret_pct":0.182,"from":0.1432892136,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":12629038.97,"left_short":12629038.97}],"group":{"gid":"g072","fund_usd":3086410.31},"method":"short_ladder_30d_lifo"}
+{"symbol":"KITE","updated":1795684645,"price":0.14416,"windows":[{"w":"8m","ret_pct":0.139,"from":0.1439598957,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":12629038.97,"left_short":12629038.97}],"group":{"gid":"g072","fund_usd":3086410.31},"method":"short_ladder_30d_lifo"}
