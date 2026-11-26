@@ -171,3 +171,8 @@
 {"ts":1795691927,"sym":"AIXBT","kind":"oi","val":-22.5,"msg":"OI -22.5%（0.5M→0.4M）"}
 {"ts":1795691927,"sym":"CHILLGUY","kind":"oi","val":-14.5,"msg":"OI -14.5%（0.6M→0.5M）"}
 {"ts":1795691927,"sym":"LA","kind":"funding","val":-0.1335,"msg":"费率 -0.134%"}
+{"ts":1795693796,"sym":"ESPORTS","kind":"funding","val":0.1023,"msg":"费率 +0.102%"}
+{"ts":1795693796,"sym":"LISTA","kind":"price","val":-16.97,"msg":"24h -17.0%"}
+{"ts":1795693796,"sym":"SAGA","kind":"oi","val":-18.5,"msg":"OI -18.5%（1.9M→1.5M）"}
+{"ts":1795693796,"sym":"SEI","kind":"price","val":16.81,"msg":"24h +16.8%"}
+{"ts":1795693796,"sym":"SOMI","kind":"oi","val":11.5,"msg":"OI +11.5%（0.4M→0.4M）"}
