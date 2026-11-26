@@ -1,1 +1,1 @@
-{"symbol":"ALICE","updated":1795670244,"price":0.0983,"windows":[{"w":"8m","ret_pct":0.306,"from":0.0980001196,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":754570.46,"left_short":754570.46}],"group":{"gid":"g042","fund_usd":3289686.69},"method":"short_ladder_30d_lifo"}
+{"symbol":"ALICE","updated":1795673843,"price":0.0971,"windows":[{"w":"8m","ret_pct":0.103,"from":0.0970000899,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":754570.46,"left_short":754570.46}],"group":{"gid":"g042","fund_usd":3289686.69},"method":"short_ladder_30d_lifo"}
