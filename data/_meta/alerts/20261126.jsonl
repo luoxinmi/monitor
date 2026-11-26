@@ -148,3 +148,4 @@
 {"ts":1795682659,"sym":"INIT","kind":"price","val":16.87,"msg":"24h +16.9%"}
 {"ts":1795682659,"sym":"INIT","kind":"oi","val":24.6,"msg":"OI +24.6%（1.3M→1.6M）"}
 {"ts":1795682659,"sym":"MOODENG","kind":"oi","val":-10.7,"msg":"OI -10.7%（1.3M→1.1M）"}
+{"ts":1795683565,"sym":"ACU","kind":"oi","val":14.7,"msg":"OI +14.7%（0.2M→0.2M）"}
