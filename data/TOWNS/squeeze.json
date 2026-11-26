@@ -1,1 +1,1 @@
-{"symbol":"TOWNS","updated":1795667007,"price":0.000912,"windows":[{"w":"30m","ret_pct":0.22,"from":0.000909998,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":834019.61,"left_short":834019.61}],"group":{"gid":"g034","fund_usd":3045997.52},"method":"short_ladder_30d_lifo"}
+{"symbol":"TOWNS","updated":1795670244,"price":0.000911,"windows":[{"w":"8m","ret_pct":0.11,"from":0.000909999,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":834019.61,"left_short":834019.61}],"group":{"gid":"g034","fund_usd":3045997.52},"method":"short_ladder_30d_lifo"}

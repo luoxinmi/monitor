@@ -1,1 +1,1 @@
-{"symbol":"FLOW","updated":1795667007,"price":0.01485,"windows":[{"w":"8m","ret_pct":0.067,"from":0.0148400572,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":659977.81,"left_short":659977.81}],"group":{"gid":"g104","fund_usd":2065212.48},"method":"short_ladder_30d_lifo"}
+{"symbol":"FLOW","updated":1795670244,"price":0.01482,"windows":[{"w":"8m","ret_pct":0.068,"from":0.0148099292,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":659977.81,"left_short":659977.81}],"group":{"gid":"g104","fund_usd":2065212.48},"method":"short_ladder_30d_lifo"}
