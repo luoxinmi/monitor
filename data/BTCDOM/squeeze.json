@@ -1,1 +1,1 @@
-{"symbol":"BTCDOM","updated":1795713604,"price":5802.3,"windows":[{"w":"8m","ret_pct":0.007,"from":5801.8938674293,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7786014.77,"left_short":7786014.77}],"group":{"gid":"g100","fund_usd":3006088.26},"method":"short_ladder_30d_lifo"}
+{"symbol":"BTCDOM","updated":1795717189,"price":5797.5,"windows":[{"w":"8m","ret_pct":0.057,"from":5794.1973075347,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7786014.77,"left_short":7786014.77}],"group":{"gid":"g100","fund_usd":3006088.26},"method":"short_ladder_30d_lifo"}

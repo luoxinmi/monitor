@@ -1,1 +1,1 @@
-{"symbol":"RARE","updated":1795713604,"price":0.01171,"windows":[{"w":"8m","ret_pct":0.171,"from":0.0116900101,"N":701.67,"L":0.0,"uN":0.0002,"uL":0.0,"total_short_ladder":1275665.61,"left_short":1274963.95}],"group":{"gid":"g062","fund_usd":3054269.26},"method":"short_ladder_30d_lifo"}
+{"symbol":"RARE","updated":1795717189,"price":0.01176,"windows":[{"w":"60m","ret_pct":0.427,"from":0.0117099983,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1275665.61,"left_short":1275665.61}],"group":{"gid":"g062","fund_usd":3054269.26},"method":"short_ladder_30d_lifo"}
