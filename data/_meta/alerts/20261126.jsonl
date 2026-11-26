@@ -176,3 +176,18 @@
 {"ts":1795693796,"sym":"SAGA","kind":"oi","val":-18.5,"msg":"OI -18.5%（1.9M→1.5M）"}
 {"ts":1795693796,"sym":"SEI","kind":"price","val":16.81,"msg":"24h +16.8%"}
 {"ts":1795693796,"sym":"SOMI","kind":"oi","val":11.5,"msg":"OI +11.5%（0.4M→0.4M）"}
+{"ts":1795711974,"sym":"2Z","kind":"funding","val":-0.1898,"msg":"费率 -0.190%"}
+{"ts":1795711974,"sym":"AIA","kind":"oi","val":-11.2,"msg":"OI -11.2%（0.2M→0.2M）"}
+{"ts":1795711974,"sym":"AIOT","kind":"oi","val":41.9,"msg":"OI +41.9%（0.2M→0.3M）"}
+{"ts":1795711974,"sym":"BIGTIME","kind":"oi","val":-12.4,"msg":"OI -12.4%（1.5M→1.3M）"}
+{"ts":1795711974,"sym":"BLUR","kind":"oi","val":-13.9,"msg":"OI -13.9%（2.3M→1.9M）"}
+{"ts":1795711974,"sym":"CRV","kind":"oi","val":-11.9,"msg":"OI -11.9%（7.2M→6.3M）"}
+{"ts":1795711974,"sym":"CVX","kind":"oi","val":20.1,"msg":"OI +20.1%（0.5M→0.6M）"}
+{"ts":1795711974,"sym":"EVAA","kind":"oi","val":-22.6,"msg":"OI -22.6%（11.0M→8.5M）"}
+{"ts":1795711974,"sym":"RUNE","kind":"oi","val":17.8,"msg":"OI +17.8%（1.9M→2.2M）"}
+{"ts":1795711974,"sym":"SKY","kind":"price","val":15.64,"msg":"24h +15.6%"}
+{"ts":1795711974,"sym":"SKYAI","kind":"oi","val":-13.3,"msg":"OI -13.3%（2.9M→2.5M）"}
+{"ts":1795711974,"sym":"TURTLE","kind":"oi","val":-10.6,"msg":"OI -10.6%（0.0M→0.0M）"}
+{"ts":1795711974,"sym":"UNI","kind":"oi","val":29.5,"msg":"OI +29.5%（70.0M→90.6M）"}
+{"ts":1795711974,"sym":"ZEC","kind":"oi","val":17.6,"msg":"OI +17.6%（238.6M→280.6M）"}
+{"ts":1795711974,"sym":"MMT","kind":"squeeze_8m","val":3.932,"msg":"8m 爆拉 +3.9% → 扫空头 $0.00M，损失 $0K"}
