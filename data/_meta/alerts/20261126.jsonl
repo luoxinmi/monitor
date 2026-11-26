@@ -135,3 +135,5 @@
 {"ts":1795673965,"sym":"INIT","kind":"squeeze_30m","val":4.059,"msg":"30m 爆拉 +4.1% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795673965,"sym":"INIT","kind":"squeeze_60m","val":2.788,"msg":"60m 爆拉 +2.8% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795675885,"sym":"ARIA","kind":"price","val":15.7,"msg":"24h +15.7%"}
+{"ts":1795677650,"sym":"BLESS","kind":"price","val":16.21,"msg":"24h +16.2%"}
+{"ts":1795677650,"sym":"BULLA","kind":"oi","val":13.0,"msg":"OI +13.0%（0.6M→0.7M）"}
