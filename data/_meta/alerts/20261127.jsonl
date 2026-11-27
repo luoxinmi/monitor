@@ -26,3 +26,29 @@
 {"ts":1795740093,"sym":"SSV","kind":"price","val":17.28,"msg":"24h +17.3%"}
 {"ts":1795740093,"sym":"g084","kind":"fund","val":5.46,"msg":"组 g084 基金 1.80M→1.90M"}
 {"ts":1795740093,"sym":"GRVT","kind":"squeeze_8m","val":4.009,"msg":"8m 爆拉 +4.0% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795749138,"sym":"AIOT","kind":"oi","val":17.7,"msg":"OI +17.7%（0.3M→0.3M）"}
+{"ts":1795749138,"sym":"BIGTIME","kind":"oi","val":22.1,"msg":"OI +22.1%（1.3M→1.6M）"}
+{"ts":1795749138,"sym":"BIRB","kind":"funding","val":-0.1415,"msg":"费率 -0.142%"}
+{"ts":1795749138,"sym":"BIRB","kind":"oi","val":10.6,"msg":"OI +10.6%（0.6M→0.6M）"}
+{"ts":1795749138,"sym":"BLUR","kind":"oi","val":13.8,"msg":"OI +13.8%（2.0M→2.3M）"}
+{"ts":1795749138,"sym":"BULLA","kind":"oi","val":48.2,"msg":"OI +48.2%（1.1M→1.7M）"}
+{"ts":1795749138,"sym":"COLLECT","kind":"price","val":17.63,"msg":"24h +17.6%"}
+{"ts":1795749138,"sym":"ELSA","kind":"oi","val":-11.6,"msg":"OI -11.6%（2.1M→1.9M）"}
+{"ts":1795749138,"sym":"EVAA","kind":"price","val":-27.16,"msg":"24h -27.2%"}
+{"ts":1795749138,"sym":"EVAA","kind":"oi","val":-21.3,"msg":"OI -21.3%（8.8M→7.0M）"}
+{"ts":1795749138,"sym":"HAEDAL","kind":"price","val":31.41,"msg":"24h +31.4%"}
+{"ts":1795749138,"sym":"HAEDAL","kind":"funding","val":-0.2427,"msg":"费率 -0.243%"}
+{"ts":1795749138,"sym":"HAEDAL","kind":"oi","val":154.9,"msg":"OI +154.9%（0.2M→0.6M）"}
+{"ts":1795749138,"sym":"HEI","kind":"oi","val":11.4,"msg":"OI +11.4%（0.1M→0.1M）"}
+{"ts":1795749138,"sym":"MMT","kind":"funding","val":-0.1193,"msg":"费率 -0.119%"}
+{"ts":1795749138,"sym":"MOCA","kind":"funding","val":-0.23,"msg":"费率 -0.230%"}
+{"ts":1795749138,"sym":"ONE","kind":"price","val":18.45,"msg":"24h +18.5%"}
+{"ts":1795749138,"sym":"ONE","kind":"oi","val":26.5,"msg":"OI +26.5%（1.4M→1.7M）"}
+{"ts":1795749138,"sym":"UNI","kind":"oi","val":-10.1,"msg":"OI -10.1%（94.4M→84.8M）"}
+{"ts":1795749138,"sym":"ZEC","kind":"oi","val":15.0,"msg":"OI +15.0%（267.4M→307.6M）"}
+{"ts":1795749138,"sym":"BULLA","kind":"squeeze_60m","val":33.993,"msg":"60m 爆拉 +34.0% → 扫空头 $3.92M，损失 $303K（组基金 16.0%）"}
+{"ts":1795749138,"sym":"BLUR","kind":"squeeze_8m","val":2.721,"msg":"8m 爆拉 +2.7% → 扫空头 $0.21M，损失 $3K（组基金 0.1%）"}
+{"ts":1795749138,"sym":"BLUR","kind":"squeeze_30m","val":9.602,"msg":"30m 爆拉 +9.6% → 扫空头 $0.65M，损失 $26K（组基金 0.9%）"}
+{"ts":1795749138,"sym":"BLUR","kind":"squeeze_60m","val":10.356,"msg":"60m 爆拉 +10.4% → 扫空头 $0.76M，损失 $37K（组基金 1.2%）"}
+{"ts":1795749138,"sym":"HAEDAL","kind":"squeeze_30m","val":28.883,"msg":"30m 爆拉 +28.9% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795749138,"sym":"HAEDAL","kind":"squeeze_60m","val":29.802,"msg":"60m 爆拉 +29.8% → 扫空头 $0.00M，损失 $0K"}
