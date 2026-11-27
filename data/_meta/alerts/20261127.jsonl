@@ -64,3 +64,53 @@
 {"ts":1795755279,"sym":"INIT","kind":"squeeze_60m","val":4.825,"msg":"60m 爆拉 +4.8% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795755894,"sym":"EVAA","kind":"squeeze_30m","val":12.327,"msg":"30m 爆拉 +12.3% → 扫空头 $0.52M，损失 $1K（组基金 0.0%）"}
 {"ts":1795755894,"sym":"HAEDAL","kind":"squeeze_8m","val":4.455,"msg":"8m 爆拉 +4.5% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795785996,"sym":"4","kind":"oi","val":14.2,"msg":"OI +14.2%（0.1M→0.1M）"}
+{"ts":1795785996,"sym":"ACE","kind":"funding","val":-0.1198,"msg":"费率 -0.120%"}
+{"ts":1795785996,"sym":"ACE","kind":"oi","val":-10.5,"msg":"OI -10.5%（2.0M→1.8M）"}
+{"ts":1795785996,"sym":"AIGENSYN","kind":"oi","val":21.5,"msg":"OI +21.5%（0.1M→0.2M）"}
+{"ts":1795785996,"sym":"AKE","kind":"oi","val":12.4,"msg":"OI +12.4%（13.0M→14.6M）"}
+{"ts":1795785996,"sym":"AT","kind":"oi","val":42.1,"msg":"OI +42.1%（0.3M→0.4M）"}
+{"ts":1795785996,"sym":"BCH","kind":"oi","val":11.9,"msg":"OI +11.9%（33.7M→37.8M）"}
+{"ts":1795785996,"sym":"BERA","kind":"oi","val":19.1,"msg":"OI +19.1%（1.3M→1.5M）"}
+{"ts":1795785996,"sym":"BLUR","kind":"funding","val":-0.2876,"msg":"费率 -0.288%"}
+{"ts":1795785996,"sym":"BTW","kind":"price","val":16.29,"msg":"24h +16.3%"}
+{"ts":1795785996,"sym":"BTW","kind":"oi","val":15.7,"msg":"OI +15.7%（41.3M→47.8M）"}
+{"ts":1795785996,"sym":"CFG","kind":"funding","val":-0.4314,"msg":"费率 -0.431%"}
+{"ts":1795785996,"sym":"CHR","kind":"oi","val":12.7,"msg":"OI +12.7%（0.2M→0.2M）"}
+{"ts":1795785996,"sym":"COLLECT","kind":"oi","val":-21.9,"msg":"OI -21.9%（1.5M→1.1M）"}
+{"ts":1795785996,"sym":"COW","kind":"oi","val":13.3,"msg":"OI +13.3%（0.2M→0.2M）"}
+{"ts":1795785996,"sym":"CVC","kind":"oi","val":87.4,"msg":"OI +87.4%（0.1M→0.1M）"}
+{"ts":1795785996,"sym":"CYBER","kind":"funding","val":-0.1227,"msg":"费率 -0.123%"}
+{"ts":1795785996,"sym":"DUSK","kind":"oi","val":11.9,"msg":"OI +11.9%（0.1M→0.1M）"}
+{"ts":1795785996,"sym":"FRAX","kind":"oi","val":10.5,"msg":"OI +10.5%（0.2M→0.3M）"}
+{"ts":1795785996,"sym":"GUA","kind":"oi","val":-11.0,"msg":"OI -11.0%（0.9M→0.8M）"}
+{"ts":1795785996,"sym":"HYPER","kind":"oi","val":10.8,"msg":"OI +10.8%（0.2M→0.2M）"}
+{"ts":1795785996,"sym":"IDOL","kind":"oi","val":-17.1,"msg":"OI -17.1%（4.2M→3.5M）"}
+{"ts":1795785996,"sym":"ILV","kind":"oi","val":11.2,"msg":"OI +11.2%（0.1M→0.1M）"}
+{"ts":1795785996,"sym":"INIT","kind":"oi","val":-16.9,"msg":"OI -16.9%（2.8M→2.3M）"}
+{"ts":1795785996,"sym":"LISTA","kind":"oi","val":32.5,"msg":"OI +32.5%（1.1M→1.4M）"}
+{"ts":1795785996,"sym":"MMT","kind":"oi","val":-29.2,"msg":"OI -29.2%（4.8M→3.4M）"}
+{"ts":1795785996,"sym":"PIEVERSE","kind":"oi","val":-13.7,"msg":"OI -13.7%（31.0M→26.8M）"}
+{"ts":1795785996,"sym":"PONS","kind":"price","val":26.46,"msg":"24h +26.5%"}
+{"ts":1795785996,"sym":"PONS","kind":"oi","val":21.0,"msg":"OI +21.0%（16.8M→20.3M）"}
+{"ts":1795785996,"sym":"POPCAT","kind":"oi","val":10.7,"msg":"OI +10.7%（1.0M→1.1M）"}
+{"ts":1795785996,"sym":"PORTAL","kind":"price","val":72.97,"msg":"24h +73.0%"}
+{"ts":1795785996,"sym":"PUNDIX","kind":"oi","val":-10.3,"msg":"OI -10.3%（0.1M→0.1M）"}
+{"ts":1795785996,"sym":"Q","kind":"oi","val":11.2,"msg":"OI +11.2%（2.2M→2.5M）"}
+{"ts":1795785996,"sym":"REZ","kind":"oi","val":14.1,"msg":"OI +14.1%（0.4M→0.5M）"}
+{"ts":1795785996,"sym":"RIF","kind":"oi","val":16.7,"msg":"OI +16.7%（0.2M→0.2M）"}
+{"ts":1795785996,"sym":"SOLV","kind":"oi","val":28.0,"msg":"OI +28.0%（0.1M→0.1M）"}
+{"ts":1795785996,"sym":"SOPH","kind":"price","val":21.55,"msg":"24h +21.6%"}
+{"ts":1795785996,"sym":"SOPH","kind":"oi","val":23.9,"msg":"OI +23.9%（0.5M→0.7M）"}
+{"ts":1795785996,"sym":"USTC","kind":"oi","val":10.2,"msg":"OI +10.2%（0.1M→0.2M）"}
+{"ts":1795785996,"sym":"VELVET","kind":"price","val":21.34,"msg":"24h +21.3%"}
+{"ts":1795785996,"sym":"VELVET","kind":"oi","val":13.3,"msg":"OI +13.3%（1.3M→1.4M）"}
+{"ts":1795785996,"sym":"XAN","kind":"oi","val":-11.7,"msg":"OI -11.7%（0.4M→0.3M）"}
+{"ts":1795785996,"sym":"XMR","kind":"oi","val":-11.1,"msg":"OI -11.1%（85.4M→75.9M）"}
+{"ts":1795785996,"sym":"YB","kind":"oi","val":44.6,"msg":"OI +44.6%（0.4M→0.6M）"}
+{"ts":1795785996,"sym":"ZAMA","kind":"oi","val":11.2,"msg":"OI +11.2%（2.6M→2.9M）"}
+{"ts":1795785996,"sym":"SSV","kind":"squeeze_30m","val":6.7,"msg":"30m 爆拉 +6.7% → 扫空头 $0.68M，损失 $0K"}
+{"ts":1795785996,"sym":"SSV","kind":"squeeze_60m","val":9.535,"msg":"60m 爆拉 +9.5% → 扫空头 $0.68M，损失 $0K"}
+{"ts":1795785996,"sym":"VELVET","kind":"squeeze_8m","val":3.999,"msg":"8m 爆拉 +4.0% → 扫空头 $0.12M，损失 $1K（组基金 0.0%）"}
+{"ts":1795785996,"sym":"VELVET","kind":"squeeze_30m","val":8.877,"msg":"30m 爆拉 +8.9% → 扫空头 $0.53M，损失 $26K（组基金 1.1%）"}
+{"ts":1795785996,"sym":"VELVET","kind":"squeeze_60m","val":8.841,"msg":"60m 爆拉 +8.8% → 扫空头 $0.53M，损失 $26K（组基金 1.1%）"}
