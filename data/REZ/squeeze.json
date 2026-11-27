@@ -1,1 +1,1 @@
-{"symbol":"REZ","updated":1795740093,"price":0.002218,"windows":[{"w":"60m","ret_pct":0.681,"from":0.0022029976,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1005198.83,"left_short":1005198.83}],"group":{"gid":"g060","fund_usd":3146824.92},"method":"short_ladder_30d_lifo"}
+{"symbol":"REZ","updated":1795755894,"price":0.002386,"windows":[{"w":"8m","ret_pct":0.084,"from":0.0023839974,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":1005198.83,"left_short":1005198.83}],"group":{"gid":"g060","fund_usd":3146824.92},"method":"short_ladder_30d_lifo"}
