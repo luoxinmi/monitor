@@ -1,0 +1,28 @@
+{"ts":1795740093,"sym":"AIOT","kind":"price","val":18.76,"msg":"24h +18.8%"}
+{"ts":1795740093,"sym":"AKE","kind":"price","val":-21.02,"msg":"24h -21.0%"}
+{"ts":1795740093,"sym":"AT","kind":"price","val":-15.95,"msg":"24h -15.9%"}
+{"ts":1795740093,"sym":"BARD","kind":"funding","val":-0.125,"msg":"费率 -0.125%"}
+{"ts":1795740093,"sym":"BIGTIME","kind":"funding","val":-0.152,"msg":"费率 -0.152%"}
+{"ts":1795740093,"sym":"BULLA","kind":"price","val":43.49,"msg":"24h +43.5%"}
+{"ts":1795740093,"sym":"BULLA","kind":"funding","val":0.3757,"msg":"费率 +0.376%"}
+{"ts":1795740093,"sym":"CFG","kind":"oi","val":-13.6,"msg":"OI -13.6%（0.4M→0.3M）"}
+{"ts":1795740093,"sym":"ELSA","kind":"price","val":24.32,"msg":"24h +24.3%"}
+{"ts":1795740093,"sym":"GUA","kind":"price","val":-20.24,"msg":"24h -20.2%"}
+{"ts":1795740093,"sym":"INIT","kind":"price","val":62.35,"msg":"24h +62.3%"}
+{"ts":1795740093,"sym":"LAYER","kind":"funding","val":-0.1003,"msg":"费率 -0.100%"}
+{"ts":1795740093,"sym":"LISTA","kind":"price","val":-22.81,"msg":"24h -22.8%"}
+{"ts":1795740093,"sym":"MANTRA","kind":"price","val":-23.07,"msg":"24h -23.1%"}
+{"ts":1795740093,"sym":"MANTRA","kind":"funding","val":-0.2653,"msg":"费率 -0.265%"}
+{"ts":1795740093,"sym":"ME","kind":"funding","val":-0.3625,"msg":"费率 -0.362%"}
+{"ts":1795740093,"sym":"ME","kind":"oi","val":18.7,"msg":"OI +18.7%（0.9M→1.1M）"}
+{"ts":1795740093,"sym":"MMT","kind":"price","val":-37.93,"msg":"24h -37.9%"}
+{"ts":1795740093,"sym":"MOCA","kind":"oi","val":11.8,"msg":"OI +11.8%（0.2M→0.2M）"}
+{"ts":1795740093,"sym":"MOVE","kind":"price","val":-16.62,"msg":"24h -16.6%"}
+{"ts":1795740093,"sym":"MOVE","kind":"funding","val":-0.4925,"msg":"费率 -0.492%"}
+{"ts":1795740093,"sym":"ONE","kind":"funding","val":-0.405,"msg":"费率 -0.405%"}
+{"ts":1795740093,"sym":"RIF","kind":"price","val":-18.48,"msg":"24h -18.5%"}
+{"ts":1795740093,"sym":"SLX","kind":"funding","val":-0.1569,"msg":"费率 -0.157%"}
+{"ts":1795740093,"sym":"SLX","kind":"oi","val":11.0,"msg":"OI +11.0%（1.2M→1.4M）"}
+{"ts":1795740093,"sym":"SSV","kind":"price","val":17.28,"msg":"24h +17.3%"}
+{"ts":1795740093,"sym":"g084","kind":"fund","val":5.46,"msg":"组 g084 基金 1.80M→1.90M"}
+{"ts":1795740093,"sym":"GRVT","kind":"squeeze_8m","val":4.009,"msg":"8m 爆拉 +4.0% → 扫空头 $0.00M，损失 $0K"}

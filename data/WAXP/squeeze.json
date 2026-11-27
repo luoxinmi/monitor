@@ -1,1 +1,1 @@
-{"symbol":"WAXP","updated":1795731764,"price":0.003542,"windows":[{"w":"8m","ret_pct":0.028,"from":0.0035410085,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":591425.19,"left_short":591425.19}],"group":{"gid":"g079","fund_usd":3085874.39},"method":"short_ladder_30d_lifo"}
+{"symbol":"WAXP","updated":1795740093,"price":0.003533,"windows":[{"w":"30m","ret_pct":0.313,"from":0.0035219762,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":493542.74,"left_short":493542.74}],"group":{"gid":"g079","fund_usd":3086584.58},"method":"short_ladder_30d_lifo"}

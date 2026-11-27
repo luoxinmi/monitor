@@ -1,1 +1,1 @@
-{"symbol":"AGLD","updated":1795731764,"price":0.1361,"windows":[{"w":"8m","ret_pct":0.147,"from":0.1359002267,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":574667.7,"left_short":574667.7}],"group":{"gid":"g095","fund_usd":3062466.83},"method":"short_ladder_30d_lifo"}
+{"symbol":"AGLD","updated":1795740093,"price":0.1352,"windows":[{"w":"30m","ret_pct":0.148,"from":0.1350001997,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":574968.27,"left_short":574968.27}],"group":{"gid":"g095","fund_usd":3063321.14},"method":"short_ladder_30d_lifo"}

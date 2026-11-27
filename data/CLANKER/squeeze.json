@@ -1,1 +1,1 @@
-{"symbol":"CLANKER","updated":1795720695,"price":10.51,"windows":[{"w":"60m","ret_pct":0.286,"from":10.4800271224,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":982065.39,"left_short":982065.39}],"group":{"gid":"g085","fund_usd":3038069.81},"method":"short_ladder_30d_lifo"}
+{"symbol":"CLANKER","updated":1795740093,"price":10.51,"windows":[{"w":"60m","ret_pct":1.448,"from":10.3599873827,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":966643.8,"left_short":966643.8}],"group":{"gid":"g085","fund_usd":3038956.85},"method":"short_ladder_30d_lifo"}

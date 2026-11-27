@@ -1,1 +1,1 @@
-{"symbol":"MEGA","updated":1795731764,"price":0.04102,"windows":[{"w":"8m","ret_pct":0.024,"from":0.0410101576,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4241082.22,"left_short":4241082.22}],"group":{"gid":"g042","fund_usd":3289686.69},"method":"short_ladder_30d_lifo"}
+{"symbol":"MEGA","updated":1795740093,"price":0.04068,"windows":[{"w":"60m","ret_pct":0.197,"from":0.040600018,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4218205.35,"left_short":4218205.35}],"group":{"gid":"g042","fund_usd":3304188.77},"method":"short_ladder_30d_lifo"}

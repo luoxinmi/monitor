@@ -1,1 +1,1 @@
-{"symbol":"GUN","updated":1795731764,"price":0.001368,"windows":[{"w":"8m","ret_pct":0.073,"from":0.0013670021,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":638540.96,"left_short":638540.96}],"group":{"gid":"g109","fund_usd":2951697.58},"method":"short_ladder_30d_lifo"}
+{"symbol":"GUN","updated":1795740093,"price":0.001365,"windows":[{"w":"60m","ret_pct":0.368,"from":0.0013599952,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":633523.43,"left_short":633523.43}],"group":{"gid":"g109","fund_usd":2951715.88},"method":"short_ladder_30d_lifo"}
