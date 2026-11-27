@@ -130,3 +130,17 @@
 {"ts":1795793793,"sym":"PORTAL","kind":"squeeze_8m","val":4.413,"msg":"8m 爆拉 +4.4% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795793910,"sym":"PORTAL","kind":"squeeze_30m","val":6.35,"msg":"30m 爆拉 +6.3% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795793910,"sym":"PORTAL","kind":"squeeze_60m","val":11.312,"msg":"60m 爆拉 +11.3% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795816094,"sym":"ACT","kind":"oi","val":11.4,"msg":"OI +11.4%（0.7M→0.8M）"}
+{"ts":1795816094,"sym":"BLUR","kind":"price","val":-27.69,"msg":"24h -27.7%"}
+{"ts":1795816094,"sym":"COOKIE","kind":"oi","val":27.4,"msg":"OI +27.4%（0.2M→0.3M）"}
+{"ts":1795816094,"sym":"CVX","kind":"oi","val":-23.2,"msg":"OI -23.2%（0.6M→0.5M）"}
+{"ts":1795816094,"sym":"FIDA","kind":"oi","val":10.6,"msg":"OI +10.6%（0.2M→0.2M）"}
+{"ts":1795816094,"sym":"HOT","kind":"oi","val":16.8,"msg":"OI +16.8%（0.3M→0.4M）"}
+{"ts":1795816094,"sym":"ON","kind":"oi","val":11.4,"msg":"OI +11.4%（0.4M→0.4M）"}
+{"ts":1795816094,"sym":"SCR","kind":"oi","val":45.4,"msg":"OI +45.4%（0.1M→0.2M）"}
+{"ts":1795816094,"sym":"SKY","kind":"oi","val":17.9,"msg":"OI +17.9%（2.9M→3.4M）"}
+{"ts":1795816094,"sym":"THE","kind":"price","val":31.12,"msg":"24h +31.1%"}
+{"ts":1795816094,"sym":"THE","kind":"funding","val":-2.0,"msg":"费率 -2.000%"}
+{"ts":1795816094,"sym":"THE","kind":"oi","val":127.6,"msg":"OI +127.6%（0.3M→0.7M）"}
+{"ts":1795816094,"sym":"TURTLE","kind":"oi","val":42.0,"msg":"OI +42.0%（0.0M→0.1M）"}
+{"ts":1795816094,"sym":"XLM","kind":"oi","val":11.6,"msg":"OI +11.6%（27.6M→30.9M）"}
