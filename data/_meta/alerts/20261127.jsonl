@@ -52,3 +52,13 @@
 {"ts":1795749138,"sym":"BLUR","kind":"squeeze_60m","val":10.356,"msg":"60m 爆拉 +10.4% → 扫空头 $0.76M，损失 $37K（组基金 1.2%）"}
 {"ts":1795749138,"sym":"HAEDAL","kind":"squeeze_30m","val":28.883,"msg":"30m 爆拉 +28.9% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795749138,"sym":"HAEDAL","kind":"squeeze_60m","val":29.802,"msg":"60m 爆拉 +29.8% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795755279,"sym":"0G","kind":"oi","val":15.1,"msg":"OI +15.1%（0.9M→1.1M）"}
+{"ts":1795755279,"sym":"BIGTIME","kind":"price","val":15.69,"msg":"24h +15.7%"}
+{"ts":1795755279,"sym":"CKB","kind":"oi","val":11.5,"msg":"OI +11.5%（0.3M→0.3M）"}
+{"ts":1795755279,"sym":"HIVE","kind":"oi","val":-22.1,"msg":"OI -22.1%（0.2M→0.2M）"}
+{"ts":1795755279,"sym":"SPORTFUN","kind":"funding","val":0.1158,"msg":"费率 +0.116%"}
+{"ts":1795755279,"sym":"TIA","kind":"oi","val":-11.3,"msg":"OI -11.3%（5.5M→4.8M）"}
+{"ts":1795755279,"sym":"EVAA","kind":"squeeze_8m","val":6.723,"msg":"8m 爆拉 +6.7% → 扫空头 $0.78M，损失 $41K（组基金 1.2%）"}
+{"ts":1795755279,"sym":"INIT","kind":"squeeze_8m","val":3.716,"msg":"8m 爆拉 +3.7% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795755279,"sym":"INIT","kind":"squeeze_30m","val":5.767,"msg":"30m 爆拉 +5.8% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795755279,"sym":"INIT","kind":"squeeze_60m","val":4.825,"msg":"60m 爆拉 +4.8% → 扫空头 $0.00M，损失 $0K"}
