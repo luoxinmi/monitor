@@ -1,1 +1,1 @@
-{"symbol":"BLESS","updated":1795755894,"price":0.016526,"windows":[{"w":"8m","ret_pct":0.419,"from":0.016457045,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6761464.3,"left_short":6761464.3}],"group":{"gid":"g040","fund_usd":3315253.8},"method":"short_ladder_30d_lifo"}
+{"symbol":"BLESS","updated":1795793793,"price":0.014772,"windows":[{"w":"8m","ret_pct":3.548,"from":0.0142658477,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6761464.3,"left_short":6761464.3}],"group":{"gid":"g040","fund_usd":3315253.8},"method":"short_ladder_30d_lifo"}
