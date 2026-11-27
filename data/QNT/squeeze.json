@@ -1,1 +1,1 @@
-{"symbol":"QNT","updated":1795793793,"price":145.04,"windows":[{"w":"30m","ret_pct":1.489,"from":142.9120397284,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6885381.82,"left_short":6885381.82}],"group":{"gid":"g101","fund_usd":3055812.89},"method":"short_ladder_30d_lifo"}
+{"symbol":"QNT","updated":1795793910,"price":144.96,"windows":[{"w":"30m","ret_pct":1.273,"from":143.1378551045,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":6885381.82,"left_short":6885381.82}],"group":{"gid":"g101","fund_usd":3055812.89},"method":"short_ladder_30d_lifo"}

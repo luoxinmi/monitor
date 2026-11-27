@@ -1,1 +1,1 @@
-{"symbol":"PARTI","updated":1795793793,"price":0.03533,"windows":[{"w":"8m","ret_pct":0.341,"from":0.0352099341,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2311216.55,"left_short":2311216.55}],"group":{"gid":"g059","fund_usd":3095790.5},"method":"short_ladder_30d_lifo"}
+{"symbol":"PARTI","updated":1795793910,"price":0.03519,"windows":[{"w":"30m","ret_pct":0.028,"from":0.0351801496,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2311216.55,"left_short":2311216.55}],"group":{"gid":"g059","fund_usd":3095790.5},"method":"short_ladder_30d_lifo"}

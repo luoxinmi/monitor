@@ -128,3 +128,5 @@
 {"ts":1795793793,"sym":"BLESS","kind":"squeeze_8m","val":3.548,"msg":"8m 爆拉 +3.5% → 扫空头 $0.00M，损失 $0K"}
 {"ts":1795793793,"sym":"PIEVERSE","kind":"squeeze_30m","val":6.017,"msg":"30m 爆拉 +6.0% → 扫空头 $1.58M，损失 $30K（组基金 0.9%）"}
 {"ts":1795793793,"sym":"PORTAL","kind":"squeeze_8m","val":4.413,"msg":"8m 爆拉 +4.4% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795793910,"sym":"PORTAL","kind":"squeeze_30m","val":6.35,"msg":"30m 爆拉 +6.3% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795793910,"sym":"PORTAL","kind":"squeeze_60m","val":11.312,"msg":"60m 爆拉 +11.3% → 扫空头 $0.00M，损失 $0K"}
