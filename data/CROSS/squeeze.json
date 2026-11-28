@@ -1,1 +1,1 @@
-{"symbol":"CROSS","updated":1795885208,"price":0.1231,"windows":[{"w":"8m","ret_pct":0.081,"from":0.1230003697,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":739639.88,"left_short":739639.88}],"group":{"gid":"g040","fund_usd":3321649.87},"method":"short_ladder_30d_lifo"}
+{"symbol":"CROSS","updated":1795885344,"price":0.12376,"windows":[{"w":"8m","ret_pct":0.389,"from":0.1232804391,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":739639.88,"left_short":739639.88}],"group":{"gid":"g040","fund_usd":3321649.87},"method":"short_ladder_30d_lifo"}

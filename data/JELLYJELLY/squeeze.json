@@ -1,1 +1,1 @@
-{"symbol":"JELLYJELLY","updated":1795885208,"price":0.03985,"windows":[{"w":"8m","ret_pct":0.327,"from":0.0397201152,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2131557.61,"left_short":2131557.61}],"group":{"gid":"g120","fund_usd":3187279.71},"method":"short_ladder_30d_lifo"}
+{"symbol":"JELLYJELLY","updated":1795885344,"price":0.03979,"windows":[{"w":"8m","ret_pct":0.126,"from":0.0397399277,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":2131557.61,"left_short":2131557.61}],"group":{"gid":"g120","fund_usd":3187279.71},"method":"short_ladder_30d_lifo"}
