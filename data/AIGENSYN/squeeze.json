@@ -1,1 +1,1 @@
-{"symbol":"AIGENSYN","updated":1795755894,"price":0.01507,"windows":[{"w":"8m","ret_pct":0.199,"from":0.0150400703,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":874242.93,"left_short":874242.93}],"group":{"gid":"g035","fund_usd":3066471.87},"method":"short_ladder_30d_lifo"}
+{"symbol":"AIGENSYN","updated":1795829394,"price":0.01533,"windows":[{"w":"30m","ret_pct":0.196,"from":0.015300012,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":900934.72,"left_short":900934.72}],"group":{"gid":"g035","fund_usd":3071401.78},"method":"short_ladder_30d_lifo"}

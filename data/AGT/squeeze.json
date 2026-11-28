@@ -1,1 +1,1 @@
-{"symbol":"AGT","updated":1795793910,"price":0.01566,"windows":[{"w":"30m","ret_pct":0.643,"from":0.0155599495,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3176181.97,"left_short":3176181.97}],"group":{"gid":"g038","fund_usd":2246038.89},"method":"short_ladder_30d_lifo"}
+{"symbol":"AGT","updated":1795829394,"price":0.01583,"windows":[{"w":"30m","ret_pct":0.126,"from":0.0158100793,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3057801.1,"left_short":3057801.1}],"group":{"gid":"g038","fund_usd":2264200.15},"method":"short_ladder_30d_lifo"}
