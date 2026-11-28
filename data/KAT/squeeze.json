@@ -1,1 +1,1 @@
-{"symbol":"KAT","updated":1795856606,"price":0.002994,"windows":[{"w":"30m","ret_pct":0.234,"from":0.0029870104,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":747031.02,"left_short":747031.02}],"group":{"gid":"g059","fund_usd":3095809.21},"method":"short_ladder_30d_lifo"}
+{"symbol":"KAT","updated":1795885208,"price":0.002924,"windows":[{"w":"30m","ret_pct":0.206,"from":0.0029179889,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":747031.02,"left_short":747031.02}],"group":{"gid":"g059","fund_usd":3095809.21},"method":"short_ladder_30d_lifo"}

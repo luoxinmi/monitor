@@ -1,1 +1,1 @@
-{"symbol":"AERO","updated":1795856606,"price":0.3786,"windows":[{"w":"8m","ret_pct":0.159,"from":0.3779989816,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7253217.77,"left_short":7253217.77}],"group":{"gid":"g078","fund_usd":3063809.87},"method":"short_ladder_30d_lifo"}
+{"symbol":"AERO","updated":1795885208,"price":0.3799,"windows":[{"w":"8m","ret_pct":0.211,"from":0.3791000988,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":7253217.77,"left_short":7253217.77}],"group":{"gid":"g078","fund_usd":3063809.87},"method":"short_ladder_30d_lifo"}
