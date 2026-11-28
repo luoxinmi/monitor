@@ -48,3 +48,7 @@
 {"ts":1795842979,"sym":"VANA","kind":"oi","val":-10.1,"msg":"OI -10.1%（0.2M→0.2M）"}
 {"ts":1795842979,"sym":"VELVET","kind":"oi","val":-16.0,"msg":"OI -16.0%（2.2M→1.9M）"}
 {"ts":1795842979,"sym":"YB","kind":"funding","val":-0.118,"msg":"费率 -0.118%"}
+{"ts":1795843150,"sym":"COLLECT","kind":"price","val":-15.0,"msg":"24h -15.0%"}
+{"ts":1795843150,"sym":"EVAA","kind":"squeeze_8m","val":3.776,"msg":"8m 爆拉 +3.8% → 扫空头 $0.02M，损失 $0K"}
+{"ts":1795843150,"sym":"EVAA","kind":"squeeze_30m","val":4.621,"msg":"30m 爆拉 +4.6% → 扫空头 $0.02M，损失 $0K"}
+{"ts":1795843150,"sym":"EVAA","kind":"squeeze_60m","val":4.929,"msg":"60m 爆拉 +4.9% → 扫空头 $0.02M，损失 $0K"}
