@@ -1,1 +1,1 @@
-{"symbol":"ENA","updated":1795856543,"price":0.10214,"windows":[{"w":"8m","ret_pct":0.226,"from":0.1019096841,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":25707656.13,"left_short":25707656.13}],"group":{"gid":"g065","fund_usd":400898373.85},"method":"short_ladder_30d_lifo"}
+{"symbol":"ENA","updated":1795856606,"price":0.102,"windows":[{"w":"8m","ret_pct":0.02,"from":0.1019796041,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":25707656.13,"left_short":25707656.13}],"group":{"gid":"g065","fund_usd":400898373.85},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"MOCA","updated":1795856543,"price":0.005579,"windows":[{"w":"60m","ret_pct":0.198,"from":0.0055679754,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":465217.73,"left_short":465217.73}],"group":{"gid":"g013","fund_usd":1097320.57},"method":"short_ladder_30d_lifo"}
+{"symbol":"MOCA","updated":1795856606,"price":0.005577,"windows":[{"w":"60m","ret_pct":0.216,"from":0.0055649796,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":465217.73,"left_short":465217.73}],"group":{"gid":"g013","fund_usd":1097320.57},"method":"short_ladder_30d_lifo"}
