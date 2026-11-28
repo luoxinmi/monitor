@@ -30,3 +30,4 @@
 {"ts":1795829394,"sym":"XPIN","kind":"oi","val":26.2,"msg":"OI +26.2%（1.0M→1.3M）"}
 {"ts":1795829394,"sym":"XVS","kind":"oi","val":-16.3,"msg":"OI -16.3%（0.2M→0.2M）"}
 {"ts":1795829394,"sym":"ROBO","kind":"squeeze_8m","val":3.205,"msg":"8m 爆拉 +3.2% → 扫空头 $0.00M，损失 $0K"}
+{"ts":1795829597,"sym":"BULLA","kind":"price","val":18.9,"msg":"24h +18.9%"}

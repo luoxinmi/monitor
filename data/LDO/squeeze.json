@@ -1,1 +1,1 @@
-{"symbol":"LDO","updated":1795829394,"price":0.2362,"windows":[{"w":"30m","ret_pct":0.212,"from":0.2357003153,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4375627.75,"left_short":4375627.75}],"group":{"gid":"g116","fund_usd":3101196.58},"method":"short_ladder_30d_lifo"}
+{"symbol":"LDO","updated":1795829597,"price":0.2367,"windows":[{"w":"8m","ret_pct":0.296,"from":0.2360014358,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":4375627.75,"left_short":4375627.75}],"group":{"gid":"g116","fund_usd":3101196.58},"method":"short_ladder_30d_lifo"}

@@ -1,1 +1,1 @@
-{"symbol":"KAVA","updated":1795829394,"price":0.02711,"windows":[{"w":"8m","ret_pct":0.037,"from":0.027099973,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3912558.83,"left_short":3912558.83}],"group":{"gid":"g019","fund_usd":1916356.63},"method":"short_ladder_30d_lifo"}
+{"symbol":"KAVA","updated":1795829597,"price":0.02711,"windows":[{"w":"8m","ret_pct":0.222,"from":0.0270499491,"N":0,"L":0,"uN":0.0,"uL":0.0,"total_short_ladder":3912558.83,"left_short":3912558.83}],"group":{"gid":"g019","fund_usd":1916356.63},"method":"short_ladder_30d_lifo"}
